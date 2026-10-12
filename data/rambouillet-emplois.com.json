@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "rambouillet-emplois.com",
+  "name": "Rambouillet Emplois",
+  "website": "https://rambouillet-emplois.com/",
+  "profile": "https://jobsitedir.com/jobboard/rambouillet-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": null,
+  "description": "Rambouillet-emplois.com lists 1,015 job offers in Rambouillet, France, organized by professional domain with publication dates and email alerts.",
+  "logo": {
+    "path": "../assets/logos/rambouillet-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/rambouillet-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

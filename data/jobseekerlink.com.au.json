@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "jobseekerlink.com.au",
+  "name": "JobSeekerLink Australia",
+  "website": "https://jobseekerlink.com.au/",
+  "profile": "https://jobsitedir.com/jobboard/jobseekerlink.com.au?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "AU",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "JobSeekerLink is an Australian recruitment platform offering AI video interviews, applicant tracking, and digital onboarding for employers in healthcare, NDIS, hospitality,…",
+  "logo": {
+    "path": "../assets/logos/jobseekerlink.com.au.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/jobseekerlink.com.au.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

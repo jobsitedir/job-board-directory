@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "edtechjobs.io",
+  "name": "EdTechJobs.io",
+  "website": "https://edtechjobs.io/",
+  "profile": "https://jobsitedir.com/jobboard/edtechjobs.io?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "US",
+  "primary_industry": "Education",
+  "description": "EdTechJobs.io is a job board for education technology professionals, featuring 36K+ monthly users, AI-powered career tools, and salary data from employer-stated ranges.",
+  "logo": {
+    "path": "../assets/logos/edtechjobs.io.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/edtechjobs.io.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

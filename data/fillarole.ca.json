@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "fillarole.ca",
+  "name": "FillaRole",
+  "website": "https://fillarole.ca/",
+  "profile": "https://jobsitedir.com/jobboard/fillarole.ca?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "CA",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "FillaRole is a Canadian AI-powered hiring platform that lets job seekers apply for free to employers with LMIA positions across Canada, with optional profile highlighting and…",
+  "logo": {
+    "path": "../assets/logos/fillarole.ca.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/fillarole.ca.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

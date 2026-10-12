@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "tenshokumap.com",
+  "name": "転職マップ",
+  "website": "https://tenshokumap.com/",
+  "profile": "https://jobsitedir.com/jobboard/tenshokumap.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "JP",
+  "primary_industry": null,
+  "description": "Tenshokumap is a Japanese job website offering free registration, career advisor support, and job listings across industries like IT, medical, construction, and sales.",
+  "logo": {
+    "path": "../assets/logos/tenshokumap.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/tenshokumap.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

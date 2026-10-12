@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "interieurcarriere.nl",
+  "name": "Interieur Carrière",
+  "website": "https://interieurcarriere.nl/",
+  "profile": "https://jobsitedir.com/jobboard/interieurcarriere.nl?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "NL",
+  "primary_industry": "Design",
+  "description": "Interieurcarriere.nl is a niche Dutch job platform exclusively for the interior design industry, connecting job seekers and employers in the Netherlands.",
+  "logo": {
+    "path": "../assets/logos/interieurcarriere.nl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/interieurcarriere.nl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "inalj.com",
+  "name": "INALJ",
+  "website": "https://inalj.com/",
+  "profile": "https://jobsitedir.com/jobboard/inalj.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "US",
+  "primary_industry": "Education",
+  "description": "INALJ is a free job board for librarians, information professionals, and knowledge managers, covering the USA, Canada, and international roles with updates Monday through Friday.",
+  "logo": {
+    "path": "../assets/logos/inalj.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/inalj.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

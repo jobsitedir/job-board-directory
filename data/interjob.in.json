@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "interjob.in",
+  "name": "InterJob",
+  "website": "https://interjob.in/",
+  "profile": "https://jobsitedir.com/jobboard/interjob.in?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "IN",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "InterJob is an India-focused freelance marketplace that combines freelancing, tutoring, and student career pathways, with escrow payments and tiered freelancer commissions.",
+  "logo": {
+    "path": "../assets/logos/interjob.in.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/interjob.in.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

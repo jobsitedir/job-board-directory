@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "empleoentransporte.com",
+  "name": "Empleo en Transporte",
+  "website": "https://empleoentransporte.com/",
+  "profile": "https://jobsitedir.com/jobboard/empleoentransporte.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "ES",
+  "primary_industry": "Transportation",
+  "description": "Empleoentransporte.com aggregates job listings from major transport fleets in Spain, linking to external application pages like LinkedIn and company career sites.",
+  "logo": {
+    "path": "../assets/logos/empleoentransporte.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/empleoentransporte.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

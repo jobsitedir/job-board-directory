@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "mykoreawork.com",
+  "name": "MyKoreaWork",
+  "website": "https://mykoreawork.com/",
+  "profile": "https://jobsitedir.com/jobboard/mykoreawork.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "KR",
+  "primary_industry": "Blue Collar & Trades",
+  "description": "MyKoreaWork is a licensed paid employment agency in Korea that places foreign residents with valid visas into day-by-day and short-term jobs, with same-day dispatch in Incheon,…",
+  "logo": {
+    "path": "../assets/logos/mykoreawork.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/mykoreawork.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

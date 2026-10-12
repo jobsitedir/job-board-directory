@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "gastgewerbe.jobs",
+  "name": "Gastgewerbe.jobs",
+  "website": "https://gastgewerbe.jobs/",
+  "profile": "https://jobsitedir.com/jobboard/gastgewerbe.jobs?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "DE",
+  "primary_industry": "Hospitality & Travel",
+  "description": "Gastgewerbe.jobs is a German job board for the hospitality industry, focusing on gastronomy and hotel positions, operated by Busche Verlagsgesellschaft mbH in Dortmund.",
+  "logo": {
+    "path": "../assets/logos/gastgewerbe.jobs.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/gastgewerbe.jobs.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

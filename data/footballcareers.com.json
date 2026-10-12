@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "footballcareers.com",
+  "name": "Football Careers",
+  "website": "https://footballcareers.com/",
+  "profile": "https://jobsitedir.com/jobboard/footballcareers.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "GB",
+  "primary_industry": "Sports & Recreation",
+  "description": "Football Careers is a specialist recruitment platform connecting football professionals worldwide with clubs and organisations, offering a global job board, custom CV products,…",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/footballcareers.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

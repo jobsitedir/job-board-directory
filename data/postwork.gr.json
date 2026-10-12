@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "postwork.gr",
+  "name": "Postwork",
+  "website": "https://postwork.gr/",
+  "profile": "https://jobsitedir.com/jobboard/postwork.gr?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "GR",
+  "primary_industry": null,
+  "description": "Postwork is an AI-powered job platform in Greece that matches candidates with positions via a mobile app, offering swipe applications, direct employer chat, and location-based…",
+  "logo": {
+    "path": "../assets/logos/postwork.gr.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/postwork.gr.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

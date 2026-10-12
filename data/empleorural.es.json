@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "empleorural.es",
+  "name": "EmpleoRural",
+  "website": "https://empleorural.es/",
+  "profile": "https://jobsitedir.com/jobboard/empleorural.es?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "ES",
+  "primary_industry": "Agriculture & Forestry",
+  "description": "Empleo Rural is a job website for rural areas of Castilla y León, Spain, promoted by Local Action Groups (GAL) to foster employment and entrepreneurship.",
+  "logo": {
+    "path": "../assets/logos/empleorural.es.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/empleorural.es.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "rtist.co",
+  "name": "Rtist",
+  "website": "https://rtist.co/",
+  "profile": "https://jobsitedir.com/jobboard/rtist.co?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "MY",
+  "primary_industry": "Design",
+  "description": "Rtist is a creative job platform founded in 2018 by siblings Tony and Chloe, offering free job posting, portfolio directories, and a handpick service for hiring freelancers or…",
+  "logo": {
+    "path": "../assets/logos/rtist.co.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/rtist.co.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

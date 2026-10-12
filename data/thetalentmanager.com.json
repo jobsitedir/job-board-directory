@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "thetalentmanager.com",
+  "name": "The Talent Manager",
+  "website": "https://thetalentmanager.com/",
+  "profile": "https://jobsitedir.com/jobboard/thetalentmanager.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "GB",
+  "primary_industry": "Arts & Entertainment",
+  "description": "The Talent Manager helps creative companies find, track, and develop diverse talent, with a free quick-posting option for TV jobs and paid plans starting at £4.86/month for…",
+  "logo": {
+    "path": "../assets/logos/thetalentmanager.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/thetalentmanager.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

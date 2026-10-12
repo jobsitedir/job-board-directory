@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "greathire.in",
+  "name": "GreatHire",
+  "website": "https://greathire.in/",
+  "profile": "https://jobsitedir.com/jobboard/greathire.in?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "IN",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "GreatHire is a job platform for job seekers and recruiters in India, featuring AI-powered recommendations and one-click applications.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/greathire.in.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

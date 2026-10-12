@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "supernurse.co.jp",
+  "name": "スーパーナース",
+  "website": "https://supernurse.co.jp/",
+  "profile": "https://jobsitedir.com/jobboard/supernurse.co.jp?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "JP",
+  "primary_industry": "Healthcare>Nursing",
+  "description": "SuperNurse is a Japanese nursing job board covering all 47 prefectures, offering search filters like high hourly wage and near station, plus phone consultation.",
+  "logo": {
+    "path": "../assets/logos/supernurse.co.jp.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/supernurse.co.jp.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

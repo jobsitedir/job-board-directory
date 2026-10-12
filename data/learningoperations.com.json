@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "learningoperations.com",
+  "name": "LearnOps 360™",
+  "website": "https://learningoperations.com/",
+  "profile": "https://jobsitedir.com/jobboard/learningoperations.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "US",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "LearningOperations.com is a free job board for Learning & Development professionals, listing roles like L&D Specialist and Learning Experience Designer with salary details.",
+  "logo": {
+    "path": "../assets/logos/learningoperations.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/learningoperations.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

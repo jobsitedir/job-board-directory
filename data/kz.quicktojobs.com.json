@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "kz.quicktojobs.com",
+  "name": "QuickToJobs Kazakhstan",
+  "website": "https://kz.quicktojobs.com/",
+  "profile": "https://jobsitedir.com/jobboard/kz.quicktojobs.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "KZ",
+  "primary_industry": null,
+  "description": "Quicktojobs is a job platform serving Kazakhstan and Germany, offering quick applications, resume uploads, and job mail subscriptions for seekers, plus employer packages with…",
+  "logo": {
+    "path": "../assets/logos/kz.quicktojobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/kz.quicktojobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

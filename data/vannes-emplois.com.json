@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "vannes-emplois.com",
+  "name": "Vannes Emplois",
+  "website": "https://vannes-emplois.com/",
+  "profile": "https://jobsitedir.com/jobboard/vannes-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": null,
+  "description": "Vannes-emplois.com lists 2,543 job offers in Vannes, France, organized by professional domain and updated with publication dates.",
+  "logo": {
+    "path": "../assets/logos/vannes-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/vannes-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

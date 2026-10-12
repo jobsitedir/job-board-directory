@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "legaljobscanada.com",
+  "name": "Legal Jobs Canada",
+  "website": "https://legaljobscanada.com/",
+  "profile": "https://jobsitedir.com/jobboard/legaljobscanada.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "CA",
+  "primary_industry": "Legal",
+  "description": "LegalJobsCanada.com aggregates legal job listings across Canada, offering map search, filters, and a $3-per-application fee (free for volunteer roles).",
+  "logo": {
+    "path": "../assets/logos/legaljobscanada.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/legaljobscanada.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

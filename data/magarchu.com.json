@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "magarchu.com",
+  "name": "Magarchu",
+  "website": "https://magarchu.com/",
+  "profile": "https://jobsitedir.com/jobboard/magarchu.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "NP",
+  "primary_industry": "Design",
+  "description": "Magarchu is a Nepali marketplace for finding jobs or gigs, supporting both digital services and local in-person work with a credit-based bidding system.",
+  "logo": {
+    "path": "../assets/logos/magarchu.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/magarchu.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

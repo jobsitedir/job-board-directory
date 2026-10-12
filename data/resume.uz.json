@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "resume.uz",
+  "name": "RESUME.UZ",
+  "website": "https://resume.uz/",
+  "profile": "https://jobsitedir.com/jobboard/resume.uz?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "UZ",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "Resume.uz is a niche job platform for the Uzbek labor market, focusing on IT, social professions, and green specialties, with a multilingual interface in Russian, Uzbek, and…",
+  "logo": {
+    "path": "../assets/logos/resume.uz.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/resume.uz.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

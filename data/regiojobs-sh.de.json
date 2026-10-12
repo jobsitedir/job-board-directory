@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "regiojobs-sh.de",
+  "name": "RegioJobs-SH",
+  "website": "https://regiojobs-sh.de/",
+  "profile": "https://jobsitedir.com/jobboard/regiojobs-sh.de?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "DE",
+  "primary_industry": null,
+  "description": "RegioJobs-SH is a job portal specialized for the German state of Schleswig-Holstein, covering industries such as industry, crafts, IT, and nursing.",
+  "logo": {
+    "path": "../assets/logos/regiojobs-sh.de.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/regiojobs-sh.de.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

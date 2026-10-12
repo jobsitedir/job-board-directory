@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "gigjobscanada.ca",
+  "name": "GigJobsCanada",
+  "website": "https://gigjobscanada.ca/",
+  "profile": "https://jobsitedir.com/jobboard/gigjobscanada.ca?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "CA",
+  "primary_industry": null,
+  "description": "GigjobsCanada is a national job site connecting gig workers with employers across all Canadian provinces and territories, based in Vancouver, BC.",
+  "logo": {
+    "path": "../assets/logos/gigjobscanada.ca.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/gigjobscanada.ca.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

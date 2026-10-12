@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "hseds.ca",
+  "name": "Hecate Strait Employment Development Society",
+  "website": "https://hseds.ca/",
+  "profile": "https://jobsitedir.com/jobboard/hseds.ca?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "CA",
+  "primary_industry": "Non-Profit",
+  "description": "HSEDS.ca is a non-profit job board serving Prince Rupert and Haida Gwaii since 1995, listing local jobs and training opportunities like FoodSafe workshops.",
+  "logo": {
+    "path": "../assets/logos/hseds.ca.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/hseds.ca.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

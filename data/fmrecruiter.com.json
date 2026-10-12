@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "fmrecruiter.com",
+  "name": "FM Recruiter",
+  "website": "https://fmrecruiter.com/",
+  "profile": "https://jobsitedir.com/jobboard/fmrecruiter.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "GB",
+  "primary_industry": "Property Mgmt./Facilities",
+  "description": "FM Recruiter is a specialist job board for the facilities management sector, listing over 4,700 live jobs across fields like cleaning, construction, and security.",
+  "logo": {
+    "path": "../assets/logos/fmrecruiter.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/fmrecruiter.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

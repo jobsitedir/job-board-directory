@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "builtindelhi.in",
+  "name": "Built In Delhi",
+  "website": "https://builtindelhi.in/",
+  "profile": "https://jobsitedir.com/jobboard/builtindelhi.in?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "IN",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "Built In Delhi is a job platform focused on tech and startup jobs in Delhi, India, offering personalized job matching and local tech industry articles.",
+  "logo": {
+    "path": "../assets/logos/builtindelhi.in.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/builtindelhi.in.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

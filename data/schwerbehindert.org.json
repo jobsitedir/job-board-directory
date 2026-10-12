@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "schwerbehindert.org",
+  "name": "Schwerbehindert.org",
+  "website": "https://schwerbehindert.org/",
+  "profile": "https://jobsitedir.com/jobboard/schwerbehindert.org?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "DE",
+  "primary_industry": null,
+  "description": "Schwerbehindert.org is a German job portal for people with a severe disability ID (degree of disability of at least 50), listing over 1,000 barrier-free jobs across Germany.",
+  "logo": {
+    "path": "../assets/logos/schwerbehindert.org.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/schwerbehindert.org.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "applynear.com",
+  "name": "ApplyNear",
+  "website": "https://applynear.com/",
+  "profile": "https://jobsitedir.com/jobboard/applynear.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "IN",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "ApplyNear lists jobs across 53 cities in India, focusing on Tier 2 and Tier 3 locations, and allows free applications without an account using just name, email, and resume.",
+  "logo": {
+    "path": "../assets/logos/applynear.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/applynear.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

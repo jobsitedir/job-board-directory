@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "metroatlanta.jobs",
+  "name": "MetroAtlanta.Jobs",
+  "website": "https://metroatlanta.jobs/",
+  "profile": "https://jobsitedir.com/jobboard/metroatlanta.jobs?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "US",
+  "primary_industry": null,
+  "description": "MetroAtlanta.Jobs is an independent, locally focused job board connecting employers and job seekers across Atlanta and the greater Metro Atlanta region, owned by Banana Beam, LLC.",
+  "logo": {
+    "path": "../assets/logos/metroatlanta.jobs.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/metroatlanta.jobs.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

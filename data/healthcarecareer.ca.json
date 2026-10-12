@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "healthcarecareer.ca",
+  "name": "Healthcare Workers Canada – Association Job Board",
+  "website": "https://healthcarecareer.ca/",
+  "profile": "https://jobsitedir.com/jobboard/healthcarecareer.ca?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "CA",
+  "primary_industry": "Healthcare",
+  "description": "HealthcareCareer.ca is a Canadian job board dedicated to the healthcare industry, connecting professionals with employers from small clinics to major hospitals across all…",
+  "logo": {
+    "path": "../assets/logos/healthcarecareer.ca.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/healthcarecareer.ca.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

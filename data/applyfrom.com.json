@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "applyfrom.com",
+  "name": "ApplyFrom",
+  "website": "https://applyfrom.com/",
+  "profile": "https://jobsitedir.com/jobboard/applyfrom.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": null,
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "ApplyFrom is a job board that verifies remote job listings are open to applicants based in Pakistan, using AI to filter out region-locked roles and fine-print exclusions.",
+  "logo": {
+    "path": "../assets/logos/applyfrom.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/applyfrom.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

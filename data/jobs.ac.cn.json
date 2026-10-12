@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "jobs.ac.cn",
+  "name": "Jobs.ac.cn",
+  "website": "https://jobs.ac.cn/",
+  "profile": "https://jobsitedir.com/jobboard/jobs.ac.cn?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "CN",
+  "primary_industry": "Education",
+  "description": "Jobs.ac.cn is a specialist platform for academic and professional recruitment in China, connecting universities and research institutes with global talent.",
+  "logo": {
+    "path": "../assets/logos/jobs.ac.cn.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/jobs.ac.cn.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

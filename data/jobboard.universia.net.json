@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "jobboard.universia.net",
+  "name": "Universia",
+  "website": "https://jobboard.universia.net/",
+  "profile": "https://jobsitedir.com/jobboard/jobboard.universia.net?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "ES",
+  "primary_industry": null,
+  "description": "Universia operates a job board with a dedicated section for remote and hybrid job offers, allowing users to search for positions that fit flexible work preferences.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/jobboard.universia.net.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

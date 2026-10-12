@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "canadiannurse.org",
+  "name": "CanadianNurse.org",
+  "website": "https://canadiannurse.org/",
+  "profile": "https://jobsitedir.com/jobboard/canadiannurse.org?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "CA",
+  "primary_industry": "Healthcare",
+  "description": "CanadianNurse.org is a job board and resume database connecting Canadian registered nurses with healthcare facilities in Canada and the USA, free for job seekers since 1997.",
+  "logo": {
+    "path": "../assets/logos/canadiannurse.org.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/canadiannurse.org.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

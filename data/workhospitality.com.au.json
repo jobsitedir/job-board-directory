@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "workhospitality.com.au",
+  "name": "WorkHospitality",
+  "website": "https://workhospitality.com.au/",
+  "profile": "https://jobsitedir.com/jobboard/workhospitality.com.au?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "AU",
+  "primary_industry": "Hospitality & Travel",
+  "description": "WorkHospitality is a free-to-join Australian job platform for hospitality workers and employers, covering roles from chefs to events staff.",
+  "logo": {
+    "path": "../assets/logos/workhospitality.com.au.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/workhospitality.com.au.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

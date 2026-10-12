@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "cancano.co.uk",
+  "name": "Cancano",
+  "website": "https://cancano.co.uk/",
+  "profile": "https://jobsitedir.com/jobboard/cancano.co.uk?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "GB",
+  "primary_industry": "Construction",
+  "description": "Cancano is a UK job board listing 18,643 live jobs, offering advanced search, job alerts, and CV posting for job seekers, plus job posting and network distribution for employers.",
+  "logo": {
+    "path": "../assets/logos/cancano.co.uk.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/cancano.co.uk.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

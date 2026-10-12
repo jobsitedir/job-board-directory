@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "sk.interprace.cz",
+  "name": "interpráca",
+  "website": "https://sk.interprace.cz/",
+  "profile": "https://jobsitedir.com/jobboard/sk.interprace.cz?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "SK",
+  "primary_industry": "Blue Collar & Trades",
+  "description": "Interpráca is a Slovak-German job portal operated by Medialink Communications Consult s.r.o., listing vacancies such as cook, sous chef, head chef in Upper Austria and medical…",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/sk.interprace.cz.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

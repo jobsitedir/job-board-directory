@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "easy-job.bg",
+  "name": "Easy-Job.bg",
+  "website": "https://easy-job.bg/",
+  "profile": "https://jobsitedir.com/jobboard/easy-job.bg?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "BG",
+  "primary_industry": null,
+  "description": "Easy-Job.bg is a Bulgarian job platform offering free employer postings and direct contact between candidates and employers, with filters for job type, schedule, salary, and…",
+  "logo": {
+    "path": "../assets/logos/easy-job.bg.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/easy-job.bg.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

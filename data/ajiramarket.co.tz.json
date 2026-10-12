@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "ajiramarket.co.tz",
+  "name": "Ajira Market",
+  "website": "https://ajiramarket.co.tz/",
+  "profile": "https://jobsitedir.com/jobboard/ajiramarket.co.tz?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "TZ",
+  "primary_industry": "Non-Profit",
+  "description": "Ajiramarket is a Tanzanian job platform by Reliance Solutions Ltd.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/ajiramarket.co.tz.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

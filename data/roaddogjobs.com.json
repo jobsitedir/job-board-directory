@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "roaddogjobs.com",
+  "name": "RoadDogJobs",
+  "website": "https://roaddogjobs.com/",
+  "profile": "https://jobsitedir.com/jobboard/roaddogjobs.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "US",
+  "primary_industry": "Construction",
+  "description": "RoadDogJobs is a job board for traveling tradesmen in industrial construction, offering search filters for trade, location, per diem, lodging, and benefits.",
+  "logo": {
+    "path": "../assets/logos/roaddogjobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/roaddogjobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "tempstars.com",
+  "name": "TempStars",
+  "website": "https://tempstars.com/",
+  "profile": "https://jobsitedir.com/jobboard/tempstars.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "US",
+  "primary_industry": "Healthcare>Dental",
+  "description": "TempStars is a dental temping and hiring platform connecting dental offices with hygienists, assistants, and admin staff across Canada and the US.",
+  "logo": {
+    "path": "../assets/logos/tempstars.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/tempstars.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

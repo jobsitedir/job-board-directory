@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "donboscojobs.org",
+  "name": "Don Bosco Job Placement Network",
+  "website": "https://donboscojobs.org/",
+  "profile": "https://jobsitedir.com/jobboard/donboscojobs.org?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "IN",
+  "primary_industry": "Non-Profit",
+  "description": "Don Bosco Jobs is a job placement network for youth in India, operated by Don Bosco, listing roles like Accountant, Technician, and Sales Executive.",
+  "logo": {
+    "path": "../assets/logos/donboscojobs.org.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/donboscojobs.org.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

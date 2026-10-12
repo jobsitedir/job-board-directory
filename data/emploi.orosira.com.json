@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "emploi.orosira.com",
+  "name": "OroSira Emploi",
+  "website": "https://emploi.orosira.com/",
+  "profile": "https://jobsitedir.com/jobboard/emploi.orosira.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": null,
+  "primary_industry": "Construction",
+  "description": "OroSira Emploi is a free job platform for construction (BTP) workers in French-speaking Africa, founded in 2024 and covering Senegal, Ivory Coast, Cameroon, Mali, and more.",
+  "logo": {
+    "path": "../assets/logos/emploi.orosira.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/emploi.orosira.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "kasiyouth.co.za",
+  "name": "Kasiyouth",
+  "website": "https://kasiyouth.co.za/",
+  "profile": "https://jobsitedir.com/jobboard/kasiyouth.co.za?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "ZA",
+  "primary_industry": "Education",
+  "description": "KasiYouth is a South African job search platform focused on internships, learnerships, bursaries, and graduate programmes.",
+  "logo": {
+    "path": "../assets/logos/kasiyouth.co.za.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/kasiyouth.co.za.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

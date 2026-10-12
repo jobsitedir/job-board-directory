@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "primakariera.cz",
+  "name": "Prima kariera",
+  "website": "https://primakariera.cz/",
+  "profile": "https://jobsitedir.com/jobboard/primakariera.cz?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "CZ",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "PrimaKariera.cz is a Czech job portal for employers and job seekers, offering a credit-based posting system with prices from 790 CZK per single ad and features like CV delivery…",
+  "logo": {
+    "path": "../assets/logos/primakariera.cz.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/primakariera.cz.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

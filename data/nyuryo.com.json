@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "nyuryo.com",
+  "name": "入寮ドットコム",
+  "website": "https://nyuryo.com/",
+  "profile": "https://jobsitedir.com/jobboard/nyuryo.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "JP",
+  "primary_industry": "Hospitality & Travel",
+  "description": "Nyuryo.com is a Japanese job site that exclusively lists positions with dormitory accommodations, covering regions nationwide and offering detailed filters for dormitory type,…",
+  "logo": {
+    "path": "../assets/logos/nyuryo.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/nyuryo.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

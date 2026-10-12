@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "vagasrsonline.com",
+  "name": "Vagas RS Online",
+  "website": "https://vagasrsonline.com/",
+  "profile": "https://jobsitedir.com/jobboard/vagasrsonline.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "BR",
+  "primary_industry": "Blue Collar & Trades",
+  "description": "Vagas RS Online is a free job portal for Rio Grande do Sul, Brazil, connecting candidates and employers without acting as a recruitment agency.",
+  "logo": {
+    "path": "../assets/logos/vagasrsonline.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/vagasrsonline.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

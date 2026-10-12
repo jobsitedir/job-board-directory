@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "kazikit.co.ke",
+  "name": "KaziKit",
+  "website": "https://kazikit.co.ke/",
+  "profile": "https://jobsitedir.com/jobboard/kazikit.co.ke?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "KE",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "KaziKit is a job platform for Kenyan job seekers that sends matched job alerts via WhatsApp on Tuesday and Thursday mornings, and offers tools like a salary checker and AI…",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/kazikit.co.ke.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

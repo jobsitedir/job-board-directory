@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "lavoroperte.arpalcalabria.it",
+  "name": "LAVORO PER TE REGIONE CALABRIA",
+  "website": "https://lavoroperte.arpalcalabria.it/",
+  "profile": "https://jobsitedir.com/jobboard/lavoroperte.arpalcalabria.it?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "IT",
+  "primary_industry": "Government",
+  "description": "LavoroPerTe is a job portal managed by the Employment Services of the Calabria Region, allowing users to create up to 5 CV and 5 cover letter versions.",
+  "logo": {
+    "path": "../assets/logos/lavoroperte.arpalcalabria.it.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/lavoroperte.arpalcalabria.it.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "empleo.junin.gob.ar.hoytrabajo.com.ar",
+  "name": "Portal de Empleos Junín",
+  "website": "https://empleo.junin.gob.ar.hoytrabajo.com.ar/",
+  "profile": "https://jobsitedir.com/jobboard/empleo.junin.gob.ar.hoytrabajo.com.ar?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "AR",
+  "primary_industry": null,
+  "description": "A job portal for Junín, Buenos Aires, Argentina, listing local employment opportunities.",
+  "logo": {
+    "path": "../assets/logos/empleo.junin.gob.ar.hoytrabajo.com.ar.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/empleo.junin.gob.ar.hoytrabajo.com.ar.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

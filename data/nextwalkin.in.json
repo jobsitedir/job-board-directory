@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "nextwalkin.in",
+  "name": "NextWalkin",
+  "website": "https://nextwalkin.in/",
+  "profile": "https://jobsitedir.com/jobboard/nextwalkin.in?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "IN",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "NextWalkin is a job platform focused on walk-in interviews across 50+ Indian cities, offering verified postings, map directions, and real-time alerts.",
+  "logo": {
+    "path": "../assets/logos/nextwalkin.in.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/nextwalkin.in.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

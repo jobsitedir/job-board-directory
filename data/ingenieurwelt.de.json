@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "ingenieurwelt.de",
+  "name": "INGENIEURWELT",
+  "website": "https://ingenieurwelt.de/",
+  "profile": "https://jobsitedir.com/jobboard/ingenieurwelt.de?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "DE",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "Ingenieurwelt.de is a German job board for engineering and technology roles, offering filters by distance, remote options, employment type, and region.",
+  "logo": {
+    "path": "../assets/logos/ingenieurwelt.de.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/ingenieurwelt.de.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

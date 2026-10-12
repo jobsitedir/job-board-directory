@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "niuqizp.com",
+  "name": "牛企直聘",
+  "website": "https://niuqizp.com/",
+  "profile": "https://jobsitedir.com/jobboard/niuqizp.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "CN",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "牛企直聘 (Niuqi Direct Hire) is a Chinese job platform that curates high-quality employers and directs applications to official company recruitment websites.",
+  "logo": {
+    "path": "../assets/logos/niuqizp.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/niuqizp.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

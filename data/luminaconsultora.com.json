@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "luminaconsultora.com",
+  "name": "Lumina Consultora",
+  "website": "https://luminaconsultora.com/",
+  "profile": "https://jobsitedir.com/jobboard/luminaconsultora.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "AR",
+  "primary_industry": "Consulting",
+  "description": "Lumina Consultora is a recruitment and HR consulting firm with a job portal for companies in Argentina and Latin America to publish offers and manage applications, and for…",
+  "logo": {
+    "path": "../assets/logos/luminaconsultora.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/luminaconsultora.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

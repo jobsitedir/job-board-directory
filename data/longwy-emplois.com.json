@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "longwy-emplois.com",
+  "name": "Longwy Emplois",
+  "website": "https://longwy-emplois.com/",
+  "profile": "https://jobsitedir.com/jobboard/longwy-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": "Education",
+  "description": "Longwy-emplois.com lists 836 job offers in Longwy, France, and lets you create email alerts for personalized openings.",
+  "logo": {
+    "path": "../assets/logos/longwy-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/longwy-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

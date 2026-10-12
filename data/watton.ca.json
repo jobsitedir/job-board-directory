@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "watton.ca",
+  "name": "Watton Employment Services Inc.",
+  "website": "https://watton.ca/",
+  "profile": "https://jobsitedir.com/jobboard/watton.ca?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "CA",
+  "primary_industry": "Government",
+  "description": "Watton Employment Services is a government-funded job website serving unemployed, under-employed, or barrier-facing job seekers and employers in Northumberland County and…",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/watton.ca.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

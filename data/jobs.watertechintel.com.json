@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "jobs.watertechintel.com",
+  "name": "WaterJobsIntel",
+  "website": "https://jobs.watertechintel.com/",
+  "profile": "https://jobsitedir.com/jobboard/jobs.watertechintel.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "US",
+  "primary_industry": "Environmental",
+  "description": "A free job board focused exclusively on water treatment and wastewater roles in the US, Canada, and the UK, with over 16,900 live listings refreshed four times daily and…",
+  "logo": {
+    "path": "../assets/logos/jobs.watertechintel.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/jobs.watertechintel.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

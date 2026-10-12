@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "remotepoc.com",
+  "name": "RemotePOC",
+  "website": "https://remotepoc.com/",
+  "profile": "https://jobsitedir.com/jobboard/remotepoc.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "US",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "Remotepoc.com lists jobs for remote professionals of color, featuring a tagline 'Best jobs for remote professionals of color'.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/remotepoc.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

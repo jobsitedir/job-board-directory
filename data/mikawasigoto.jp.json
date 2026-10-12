@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "mikawasigoto.jp",
+  "name": "愛知仕事ナビ",
+  "website": "https://mikawasigoto.jp/",
+  "profile": "https://jobsitedir.com/jobboard/mikawasigoto.jp?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "JP",
+  "primary_industry": null,
+  "description": "Aichi Job Navi is a job search site focused exclusively on Aichi Prefecture, Japan, offering listings for regular, part-time, and temporary positions without placement support.",
+  "logo": {
+    "path": "../assets/logos/mikawasigoto.jp.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/mikawasigoto.jp.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

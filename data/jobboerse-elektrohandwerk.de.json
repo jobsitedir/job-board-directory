@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "jobboerse-elektrohandwerk.de",
+  "name": "Jobbörse für das Elektrohandwerk",
+  "website": "https://jobboerse-elektrohandwerk.de/",
+  "profile": "https://jobsitedir.com/jobboard/jobboerse-elektrohandwerk.de?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "DE",
+  "primary_industry": "Blue Collar & Trades",
+  "description": "The platform lists 890 job vacancies.",
+  "logo": {
+    "path": "../assets/logos/jobboerse-elektrohandwerk.de.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/jobboerse-elektrohandwerk.de.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "jobglance.app",
+  "name": "JobGlance",
+  "website": "https://jobglance.app/",
+  "profile": "https://jobsitedir.com/jobboard/jobglance.app?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": null,
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "JobGlance aggregates job listings from over 100 sources and scores each role 0–100 for resume fit using its Smart Match feature, with a free Chrome extension for unlimited…",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/jobglance.app.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

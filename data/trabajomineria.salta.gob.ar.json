@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "trabajomineria.salta.gob.ar",
+  "name": "Trabajo Minería",
+  "website": "https://trabajomineria.salta.gob.ar/",
+  "profile": "https://jobsitedir.com/jobboard/trabajomineria.salta.gob.ar?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "AR",
+  "primary_industry": "Mining/Natural Resources",
+  "description": "Trabajo Mineria Salta is a digital job platform focused on the mining sector, listing full-time positions in locations such as Salta.",
+  "logo": {
+    "path": "../assets/logos/trabajomineria.salta.gob.ar.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/trabajomineria.salta.gob.ar.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

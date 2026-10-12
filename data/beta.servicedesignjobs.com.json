@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "beta.servicedesignjobs.com",
+  "name": "Service Design Jobs",
+  "website": "https://beta.servicedesignjobs.com/",
+  "profile": "https://jobsitedir.com/jobboard/beta.servicedesignjobs.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "GB",
+  "primary_industry": "Design",
+  "description": "Service Design Jobs is a curated job board exclusively for service design professionals, offering free browsing and applications for candidates.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/beta.servicedesignjobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

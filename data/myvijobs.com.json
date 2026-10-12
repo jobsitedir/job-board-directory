@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "myvijobs.com",
+  "name": "MyVIJobs",
+  "website": "https://myvijobs.com/",
+  "profile": "https://jobsitedir.com/jobboard/myvijobs.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "US",
+  "primary_industry": "Hospitality & Travel",
+  "description": "MyVIJobs is an AI-powered job platform for the U.S.",
+  "logo": {
+    "path": "../assets/logos/myvijobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/myvijobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

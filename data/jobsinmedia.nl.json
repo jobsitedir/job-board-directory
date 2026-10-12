@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "jobsinmedia.nl",
+  "name": "JOBS IN MEDIA",
+  "website": "https://jobsinmedia.nl/",
+  "profile": "https://jobsitedir.com/jobboard/jobsinmedia.nl?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "NL",
+  "primary_industry": "Media & Communication",
+  "description": "Jobs in Media is a Dutch job board for media and communication professionals, offering free access for job seekers and a single €199 posting for employers.",
+  "logo": {
+    "path": "../assets/logos/jobsinmedia.nl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/jobsinmedia.nl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

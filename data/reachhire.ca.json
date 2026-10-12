@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "reachhire.ca",
+  "name": "Reach Hire",
+  "website": "https://reachhire.ca/",
+  "profile": "https://jobsitedir.com/jobboard/reachhire.ca?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "CA",
+  "primary_industry": "Non-Profit",
+  "description": "Reach Hire is a nonprofit career source for Alberta, owned by the Calgary Chamber of Voluntary Organizations, listing only paid nonprofit-sector jobs.",
+  "logo": {
+    "path": "../assets/logos/reachhire.ca.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/reachhire.ca.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

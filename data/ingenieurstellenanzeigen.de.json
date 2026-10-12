@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "ingenieurstellenanzeigen.de",
+  "name": "INGENIEURSTELLENANZEIGEN",
+  "website": "https://ingenieurstellenanzeigen.de/",
+  "profile": "https://jobsitedir.com/jobboard/ingenieurstellenanzeigen.de?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "DE",
+  "primary_industry": "Engineering",
+  "description": "Ingenieurstellenanzeigen.de is a German-language job board listing over 3,377 engineering positions, with search filters by distance from a location.",
+  "logo": {
+    "path": "../assets/logos/ingenieurstellenanzeigen.de.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/ingenieurstellenanzeigen.de.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

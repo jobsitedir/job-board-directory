@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "vettechjobboard.com",
+  "name": "Vet Tech Job Board",
+  "website": "https://vettechjobboard.com/",
+  "profile": "https://jobsitedir.com/jobboard/vettechjobboard.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "CA",
+  "primary_industry": "Healthcare>Veterinary",
+  "description": "A Canadian job board exclusively for Registered Veterinary Technicians (RVTs), covering all provinces and territories with a focus on credentialed clinical roles.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/vettechjobboard.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

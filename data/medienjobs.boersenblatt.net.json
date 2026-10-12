@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "medienjobs.boersenblatt.net",
+  "name": "medienjobs.boersenblatt.net",
+  "website": "https://medienjobs.boersenblatt.net/",
+  "profile": "https://jobsitedir.com/jobboard/medienjobs.boersenblatt.net?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "DE",
+  "primary_industry": "Media & Communication",
+  "description": "Medienjobs.boersenblatt.net is a German-language job board for the media and publishing industry, offering a search function with location and radius filters and a career…",
+  "logo": {
+    "path": "../assets/logos/medienjobs.boersenblatt.net.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/medienjobs.boersenblatt.net.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

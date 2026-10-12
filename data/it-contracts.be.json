@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "it-contracts.be",
+  "name": "IT-Contracts.be",
+  "website": "https://it-contracts.be/",
+  "profile": "https://jobsitedir.com/jobboard/it-contracts.be?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "BE",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "IT-Contracts.be is a Belgian job board for IT freelancers, ZZP'ers, and interim professionals, offering direct client applications without commission fees.",
+  "logo": {
+    "path": "../assets/logos/it-contracts.be.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/it-contracts.be.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "vaidyog.com",
+  "name": "Vaidyog",
+  "website": "https://vaidyog.com/",
+  "profile": "https://jobsitedir.com/jobboard/vaidyog.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "IN",
+  "primary_industry": "Healthcare>General",
+  "description": "Vaidyog is a healthcare-only job portal in India connecting doctors, nurses, and allied professionals with hospitals and clinics, featuring AI matching and a free Basic plan…",
+  "logo": {
+    "path": "../assets/logos/vaidyog.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/vaidyog.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

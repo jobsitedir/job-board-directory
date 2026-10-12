@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "vagas.quinzeconto.com.br",
+  "name": "QuinzeConto - Vagas",
+  "website": "https://vagas.quinzeconto.com.br/",
+  "profile": "https://jobsitedir.com/jobboard/vagas.quinzeconto.com.br?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "BR",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "Vagas Quinze Conto aggregates home office job listings in Brazil, offering daily alerts via WhatsApp and freelance opportunities.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/vagas.quinzeconto.com.br.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "onlyfrontendjobs.com",
+  "name": "OnlyFrontendJobs",
+  "website": "https://onlyfrontendjobs.com/",
+  "profile": "https://jobsitedir.com/jobboard/onlyfrontendjobs.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "IN",
+  "primary_industry": "Technical>Software Dev/Programming",
+  "description": "OnlyFrontendJobs.com curates hand-picked frontend developer roles for React, Next.js, Vue, and Angular, with human-checked listings, a Telegram bot for alerts, and a free…",
+  "logo": {
+    "path": "../assets/logos/onlyfrontendjobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/onlyfrontendjobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "jobs.climatetechcanada.ca",
+  "name": "Climate Tech Jobs in Canada",
+  "website": "https://jobs.climatetechcanada.ca/",
+  "profile": "https://jobsitedir.com/jobboard/jobs.climatetechcanada.ca?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "CA",
+  "primary_industry": "Sustainability & Green Tech",
+  "description": "A free job board for climate tech roles in Canada, where employers post openings at no cost and listings are reviewed before publication.",
+  "logo": {
+    "path": "../assets/logos/jobs.climatetechcanada.ca.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/jobs.climatetechcanada.ca.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

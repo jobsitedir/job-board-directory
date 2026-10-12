@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "careersforyouth.ca",
+  "name": "Careers for Youth",
+  "website": "https://careersforyouth.ca/",
+  "profile": "https://jobsitedir.com/jobboard/careersforyouth.ca?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "CA",
+  "primary_industry": "Hospitality & Travel",
+  "description": "CareersForYouth.ca is a national Canadian job platform for people aged 15–30, connecting them with internships, summer jobs, and entry-level roles.",
+  "logo": {
+    "path": "../assets/logos/careersforyouth.ca.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/careersforyouth.ca.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

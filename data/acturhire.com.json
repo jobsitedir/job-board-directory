@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "acturhire.com",
+  "name": "Acturhire",
+  "website": "https://acturhire.com/",
+  "profile": "https://jobsitedir.com/jobboard/acturhire.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "US",
+  "primary_industry": "Financial Services>Insurance",
+  "description": "Acturhire is a job board specializing in actuarial roles, listing positions from specialist recruiters not found on public careers sites.",
+  "logo": {
+    "path": "../assets/logos/acturhire.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/acturhire.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

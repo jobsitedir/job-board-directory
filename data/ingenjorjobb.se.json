@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "ingenjorjobb.se",
+  "name": "ingenjörjobb.se",
+  "website": "https://ingenjorjobb.se/",
+  "profile": "https://jobsitedir.com/jobboard/ingenjorjobb.se?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "SE",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "Ingenjörjobb.se is a Swedish job board listing 1,920 engineering jobs across fields like tech, industry, automation, and development.",
+  "logo": {
+    "path": "../assets/logos/ingenjorjobb.se.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/ingenjorjobb.se.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

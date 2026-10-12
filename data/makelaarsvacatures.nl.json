@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "makelaarsvacatures.nl",
+  "name": "Makelaarsvacatures.nl",
+  "website": "https://makelaarsvacatures.nl/",
+  "profile": "https://jobsitedir.com/jobboard/makelaarsvacatures.nl?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "NL",
+  "primary_industry": "Real Estate",
+  "description": "Makelaarsvacatures.nl is a Dutch job board exclusively for real estate agency positions across the Netherlands, featuring salary insights and a candidate registration option.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/makelaarsvacatures.nl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

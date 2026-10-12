@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "fradeo.com",
+  "name": "Fradeo",
+  "website": "https://fradeo.com/",
+  "profile": "https://jobsitedir.com/jobboard/fradeo.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": null,
+  "description": "Fradeo is a Franco-German job board with over 3,000 bilingual French/German listings, targeting speakers seeking positions in France, Germany, and the DACH region.",
+  "logo": {
+    "path": "../assets/logos/fradeo.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/fradeo.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

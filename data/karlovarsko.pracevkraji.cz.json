@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "karlovarsko.pracevkraji.cz",
+  "name": "Nabídky práce v Karlovarském kraji",
+  "website": "https://karlovarsko.pracevkraji.cz/",
+  "profile": "https://jobsitedir.com/jobboard/karlovarsko.pracevkraji.cz?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "CZ",
+  "primary_industry": null,
+  "description": "A job portal listing vacancies in the Karlovy Vary region of the Czech Republic, including part-time roles, positions for people with disabilities, and fresh graduate…",
+  "logo": {
+    "path": "../assets/logos/karlovarsko.pracevkraji.cz.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/karlovarsko.pracevkraji.cz.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

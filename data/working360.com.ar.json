@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "working360.com.ar",
+  "name": "Working360",
+  "website": "https://working360.com.ar/",
+  "profile": "https://jobsitedir.com/jobboard/working360.com.ar?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "AR",
+  "primary_industry": null,
+  "description": "Working360.com.ar is an Argentine job platform connecting job seekers and employers, offering AI-powered matching and over 30 years of experience.",
+  "logo": {
+    "path": "../assets/logos/working360.com.ar.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/working360.com.ar.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

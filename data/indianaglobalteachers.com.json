@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "indianaglobalteachers.com",
+  "name": "Indiana Global Teachers",
+  "website": "https://indianaglobalteachers.com/",
+  "profile": "https://jobsitedir.com/jobboard/indianaglobalteachers.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "IN",
+  "primary_industry": "Education",
+  "description": "Indiana Global Teachers is a teacher placement agency and job portal in India, Kerala, offering search by state, subject, and class level, plus a mobile app.",
+  "logo": {
+    "path": "../assets/logos/indianaglobalteachers.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/indianaglobalteachers.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

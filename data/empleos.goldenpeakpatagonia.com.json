@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "empleos.goldenpeakpatagonia.com",
+  "name": "Golden Peak Patagonia",
+  "website": "https://empleos.goldenpeakpatagonia.com/",
+  "profile": "https://jobsitedir.com/jobboard/empleos.goldenpeakpatagonia.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "AR",
+  "primary_industry": "Energy & Utilities",
+  "description": "A job board focused on the Vaca Muerta oil sector in Neuquén, Argentina, offering a weekly email summary of listings and salary estimates in Argentine pesos.",
+  "logo": {
+    "path": "../assets/logos/empleos.goldenpeakpatagonia.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/empleos.goldenpeakpatagonia.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

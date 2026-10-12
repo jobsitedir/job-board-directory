@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "workcompjobs.com",
+  "name": "WorkCompJobs",
+  "website": "https://workcompjobs.com/",
+  "profile": "https://jobsitedir.com/jobboard/workcompjobs.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "US",
+  "primary_industry": "Legal",
+  "description": "WorkCompJobs is a niche job board for workers' compensation professionals, backed by WorkCompCentral.",
+  "logo": {
+    "path": "../assets/logos/workcompjobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/workcompjobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

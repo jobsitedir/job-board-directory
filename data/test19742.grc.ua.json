@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "test19742.grc.ua",
+  "name": "GRC.UA",
+  "website": "https://test19742.grc.ua/",
+  "profile": "https://jobsitedir.com/jobboard/test19742.grc.ua?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "UA",
+  "primary_industry": null,
+  "description": "GRC.UA is a Ukrainian job search website for professionals of all levels, combining online job listings with an offline recruitment agency and offering filters by category,…",
+  "logo": {
+    "path": "../assets/logos/test19742.grc.ua.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/test19742.grc.ua.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

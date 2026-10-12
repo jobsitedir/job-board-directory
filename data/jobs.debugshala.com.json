@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "jobs.debugshala.com",
+  "name": "DebugShala Jobs",
+  "website": "https://jobs.debugshala.com/",
+  "profile": "https://jobsitedir.com/jobboard/jobs.debugshala.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "IN",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "DebugShala Jobs helps freshers and early professionals in India find tech roles through tailored referrals and exclusive walk-ins, with free job posting for employers.",
+  "logo": {
+    "path": "../assets/logos/jobs.debugshala.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/jobs.debugshala.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

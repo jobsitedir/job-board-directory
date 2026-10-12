@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "sachsenjob24.de",
+  "name": "sachsenjob24.de",
+  "website": "https://sachsenjob24.de/",
+  "profile": "https://jobsitedir.com/jobboard/sachsenjob24.de?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "DE",
+  "primary_industry": null,
+  "description": "Sachsenjob24.de is a regional job portal for the German state of Saxony, combining online listings with audio job spots on radio and YouTube Music.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/sachsenjob24.de.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

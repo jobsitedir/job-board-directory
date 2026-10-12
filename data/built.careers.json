@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "built.careers",
+  "name": "built.careers",
+  "website": "https://built.careers/",
+  "profile": "https://jobsitedir.com/jobboard/built.careers?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "US",
+  "primary_industry": "Construction",
+  "description": "Built Careers is a US national job board exclusively for Architecture, Engineering, Construction, and Energy roles, managed by recruiters with 50+ years of combined industry…",
+  "logo": {
+    "path": "../assets/logos/built.careers.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/built.careers.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

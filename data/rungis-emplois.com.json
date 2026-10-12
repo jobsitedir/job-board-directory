@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "rungis-emplois.com",
+  "name": "Rungis Emplois",
+  "website": "https://rungis-emplois.com/",
+  "profile": "https://jobsitedir.com/jobboard/rungis-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": "Logistics & Warehouse",
+  "description": "Rungis-emplois.com lists 1,241 job offers in Rungis, France, searchable by professional domain and recruiter, with email alerts for personalized updates.",
+  "logo": {
+    "path": "../assets/logos/rungis-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/rungis-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "vdjobb.nu",
+  "name": "VD-jobb",
+  "website": "https://vdjobb.nu/",
+  "profile": "https://jobsitedir.com/jobboard/vdjobb.nu?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "SE",
+  "primary_industry": null,
+  "description": "VDjobb.nu is a Swedish job board listing 138 open CEO and director-level positions, including hybrid/remote options.",
+  "logo": {
+    "path": "../assets/logos/vdjobb.nu.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/vdjobb.nu.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "shougl.com",
+  "name": "شغل (Shougl)",
+  "website": "https://shougl.com/",
+  "profile": "https://jobsitedir.com/jobboard/shougl.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "SA",
+  "primary_industry": "Blue Collar & Trades",
+  "description": "Shougl is a Saudi job platform connecting nationals and residents to roles in workshops, restaurants, and offices, with free direct applications and 45-day paid ads.",
+  "logo": {
+    "path": "../assets/logos/shougl.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/shougl.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

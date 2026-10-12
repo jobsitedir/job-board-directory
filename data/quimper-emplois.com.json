@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "quimper-emplois.com",
+  "name": "Quimper Emplois",
+  "website": "https://quimper-emplois.com/",
+  "profile": "https://jobsitedir.com/jobboard/quimper-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": null,
+  "description": "Quimper-emplois.com lists 3163 job offers in Quimper, France, with publication dates and the ability to create personalized email alerts.",
+  "logo": {
+    "path": "../assets/logos/quimper-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/quimper-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

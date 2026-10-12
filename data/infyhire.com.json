@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "infyhire.com",
+  "name": "InfyHire",
+  "website": "https://infyhire.com/",
+  "profile": "https://jobsitedir.com/jobboard/infyhire.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "IN",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "InfyHire is an Indian job search platform listing openings across 12 major cities and 10 states, with filters by department, qualification, experience, and job type.",
+  "logo": {
+    "path": "../assets/logos/infyhire.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/infyhire.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

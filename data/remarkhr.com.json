@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "remarkhr.com",
+  "name": "Remark",
+  "website": "https://remarkhr.com/",
+  "profile": "https://jobsitedir.com/jobboard/remarkhr.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "IN",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "RemarkHR is a free job platform in India where employers can post jobs and conduct virtual interviews, and job seekers can upload a CV to apply instantly.",
+  "logo": {
+    "path": "../assets/logos/remarkhr.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/remarkhr.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

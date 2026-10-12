@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "baitonet.jp",
+  "name": "バイトネット",
+  "website": "https://baitonet.jp/",
+  "profile": "https://jobsitedir.com/jobboard/baitonet.jp?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "JP",
+  "primary_industry": "Education",
+  "description": "Baitonet is a school-approved part-time job site for students, replicating the school bulletin board online with screened postings since April 2003.",
+  "logo": {
+    "path": "../assets/logos/baitonet.jp.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/baitonet.jp.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

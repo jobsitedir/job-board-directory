@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "hoga.jobs",
+  "name": "HOGA.JOBS",
+  "website": "https://hoga.jobs/",
+  "profile": "https://jobsitedir.com/jobboard/hoga.jobs?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "DE",
+  "primary_industry": "Hospitality & Travel",
+  "description": "Hoga.jobs is a German job platform where over 6,500 companies post openings, offering distance-based filters from 5 km to 100 km.",
+  "logo": {
+    "path": "../assets/logos/hoga.jobs.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/hoga.jobs.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

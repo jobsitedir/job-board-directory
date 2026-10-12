@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "dodojob.com",
+  "name": "dodojob",
+  "website": "https://dodojob.com/",
+  "profile": "https://jobsitedir.com/jobboard/dodojob.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "KH",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "DoDoJob is an AI-powered job platform serving Singapore and Cambodia that matches candidates via chat, skill assessment, and cross-language communication.",
+  "logo": {
+    "path": "../assets/logos/dodojob.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/dodojob.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

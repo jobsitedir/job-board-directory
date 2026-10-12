@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "nacionalempregos.com",
+  "name": "Nacional Empregos",
+  "website": "https://nacionalempregos.com/",
+  "profile": "https://jobsitedir.com/jobboard/nacionalempregos.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Generalist",
+  "primary_country": "BR",
+  "primary_industry": null,
+  "description": "Nacional Empregos is a job platform for companies and candidates in Espirito Santo, Brazil, offering free resume posting, company reviews, salary data, and employer screening…",
+  "logo": {
+    "path": "../assets/logos/nacionalempregos.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/nacionalempregos.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

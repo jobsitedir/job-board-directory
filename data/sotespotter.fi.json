@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "sotespotter.fi",
+  "name": "Sotespotter",
+  "website": "https://sotespotter.fi/",
+  "profile": "https://jobsitedir.com/jobboard/sotespotter.fi?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "FI",
+  "primary_industry": "Healthcare",
+  "description": "Sotespotter is a Finnish job platform for the social and healthcare sector (sote-ala), also listing training and continuing education courses.",
+  "logo": {
+    "path": "../assets/logos/sotespotter.fi.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/sotespotter.fi.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

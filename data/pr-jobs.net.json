@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "pr-jobs.net",
+  "name": "PR-Jobs.net",
+  "website": "https://pr-jobs.net/",
+  "profile": "https://jobsitedir.com/jobboard/pr-jobs.net?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "DE",
+  "primary_industry": "Advertising, Marketing & PR",
+  "description": "PR-Jobs.net is a German job board for PR, corporate communications, and public affairs roles, operated by Tischner & Churs Web GbR.",
+  "logo": {
+    "path": "../assets/logos/pr-jobs.net.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/pr-jobs.net.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

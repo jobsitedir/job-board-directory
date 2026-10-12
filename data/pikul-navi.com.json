@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "pikul-navi.com",
+  "name": "ピックルナビ",
+  "website": "https://pikul-navi.com/",
+  "profile": "https://jobsitedir.com/jobboard/pikul-navi.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "JP",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "Pikul Navi is a Japanese job platform by Pikul Co., Ltd.",
+  "logo": {
+    "path": "../assets/logos/pikul-navi.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/pikul-navi.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

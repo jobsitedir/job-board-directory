@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "hasol.cloud",
+  "name": "Hasol",
+  "website": "https://hasol.cloud/",
+  "profile": "https://jobsitedir.com/jobboard/hasol.cloud?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "KE",
+  "primary_industry": null,
+  "description": "Hasol is a free-to-start job connection platform for Kenya, matching workers and employers for casual gigs to professional roles, both nearby and remote.",
+  "logo": {
+    "path": "../assets/logos/hasol.cloud.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/hasol.cloud.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

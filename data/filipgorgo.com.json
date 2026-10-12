@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "filipgorgo.com",
+  "name": "filip.gorgo",
+  "website": "https://filipgorgo.com/",
+  "profile": "https://jobsitedir.com/jobboard/filipgorgo.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "PL",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "A job board for non-IT startup roles in Poland, Germany, and remote EU, with a weekly newsletter sent every Friday.",
+  "logo": {
+    "path": "../assets/logos/filipgorgo.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/filipgorgo.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

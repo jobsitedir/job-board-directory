@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "jobg2.com",
+  "name": "JOBG2.COM",
+  "website": "https://jobg2.com/",
+  "profile": "https://jobsitedir.com/jobboard/jobg2.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "PK",
+  "primary_industry": "Government",
+  "description": "JOBG2.COM is a job website with an 'About us' page, but no further details about its features or audience are available from the provided evidence.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/jobg2.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

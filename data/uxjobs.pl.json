@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "uxjobs.pl",
+  "name": "UX Jobs",
+  "website": "https://uxjobs.pl/",
+  "profile": "https://jobsitedir.com/jobboard/uxjobs.pl?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "PL",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "UXJobs.pl is a Polish job board for UX roles, offering filtering by category and employment type, plus an RSS feed.",
+  "logo": {
+    "path": "../assets/logos/uxjobs.pl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/uxjobs.pl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

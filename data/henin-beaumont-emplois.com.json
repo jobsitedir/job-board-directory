@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "henin-beaumont-emplois.com",
+  "name": "Hénin-Beaumont Emplois",
+  "website": "https://henin-beaumont-emplois.com/",
+  "profile": "https://jobsitedir.com/jobboard/henin-beaumont-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": null,
+  "description": "A local job board listing 1026 offers in Hénin-Beaumont, France, with email alerts and domain-based browsing.",
+  "logo": {
+    "path": "../assets/logos/henin-beaumont-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/henin-beaumont-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

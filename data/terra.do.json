@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "terra.do",
+  "name": "Terra.do",
+  "website": "https://terra.do/",
+  "profile": "https://jobsitedir.com/jobboard/terra.do?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "US",
+  "primary_industry": "Sustainability & Green Tech",
+  "description": "Terra.do is a climate career platform with a job board of over 88,100 roles at more than 58,300 companies, plus online fellowships and training programs for individuals and…",
+  "logo": {
+    "path": "../assets/logos/terra.do.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/terra.do.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

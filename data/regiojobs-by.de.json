@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "regiojobs-by.de",
+  "name": "Regiojobs-by",
+  "website": "https://regiojobs-by.de/",
+  "profile": "https://jobsitedir.com/jobboard/regiojobs-by.de?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "DE",
+  "primary_industry": null,
+  "description": "Regiojobs-by is a specialized job portal for Bavaria, connecting local talent with employers across industries like IT, crafts, and nursing.",
+  "logo": {
+    "path": "../assets/logos/regiojobs-by.de.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/regiojobs-by.de.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

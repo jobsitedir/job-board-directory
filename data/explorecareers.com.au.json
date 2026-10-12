@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "explorecareers.com.au",
+  "name": "Explore Careers",
+  "website": "https://explorecareers.com.au/",
+  "profile": "https://jobsitedir.com/jobboard/explorecareers.com.au?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "AU",
+  "primary_industry": "Education",
+  "description": "Explore Careers is a free Australian platform for young people, offering a curated jobs feed, career quiz, industry profiles, and a weekly newsletter across Australia, New…",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/explorecareers.com.au.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

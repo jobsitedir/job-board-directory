@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "digital-marketing-jobs-in-australia.jobboardly.com",
+  "name": "Digital Cafe - YourDigitalJobs.com.au",
+  "website": "https://digital-marketing-jobs-in-australia.jobboardly.com/",
+  "profile": "https://jobsitedir.com/jobboard/digital-marketing-jobs-in-australia.jobboardly.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "AU",
+  "primary_industry": "Advertising, Marketing & PR",
+  "description": "Digital Cafe is a job board for digital marketing and social media roles in Australia, offering full-time, part-time, contract, volunteer, and internship positions.",
+  "logo": {
+    "path": "../assets/logos/digital-marketing-jobs-in-australia.jobboardly.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/digital-marketing-jobs-in-australia.jobboardly.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

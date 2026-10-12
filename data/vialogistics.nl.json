@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "vialogistics.nl",
+  "name": "VIA Logistics",
+  "website": "https://vialogistics.nl/",
+  "profile": "https://jobsitedir.com/jobboard/vialogistics.nl?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "NL",
+  "primary_industry": "Supply Chain",
+  "description": "VIA Logistics Professionals is a Dutch recruitment site for higher-educated supply chain and logistics workers, offering permanent and temporary jobs plus training through its…",
+  "logo": {
+    "path": "../assets/logos/vialogistics.nl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/vialogistics.nl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

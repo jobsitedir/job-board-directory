@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "aldabra.no",
+  "name": "Aldabra 60+",
+  "website": "https://aldabra.no/",
+  "profile": "https://jobsitedir.com/jobboard/aldabra.no?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "NO",
+  "primary_industry": "Specialty - Other",
+  "description": "Aldabra is a free Norwegian job portal designed for job seekers aged 60 and over, featuring large fonts and color choices for readability.",
+  "logo": {
+    "path": "../assets/logos/aldabra.no.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/aldabra.no.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

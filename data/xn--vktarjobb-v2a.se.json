@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "xn--vktarjobb-v2a.se",
+  "name": "väktarjobb.se",
+  "website": "https://xn--vktarjobb-v2a.se/",
+  "profile": "https://jobsitedir.com/jobboard/xn--vktarjobb-v2a.se?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "SE",
+  "primary_industry": "Security & Clearance",
+  "description": "Väktarjobb is a Swedish job board listing over 1,000 security guard positions, with location-based filtering for cities like Borås, Göteborg, and Jönköping.",
+  "logo": {
+    "path": "../assets/logos/xn--vktarjobb-v2a.se.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/xn--vktarjobb-v2a.se.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

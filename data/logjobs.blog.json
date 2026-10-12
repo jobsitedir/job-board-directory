@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "logjobs.blog",
+  "name": "LogJobs",
+  "website": "https://logjobs.blog/",
+  "profile": "https://jobsitedir.com/jobboard/logjobs.blog?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "NG",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "LogJobs is a job board listing verified openings in Nigeria and globally, covering fields like Marketing, Tech, Finance, and Healthcare, with direct applications to hiring teams.",
+  "logo": {
+    "path": "../assets/logos/logjobs.blog.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/logjobs.blog.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

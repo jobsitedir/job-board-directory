@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "saintavold-emplois.com",
+  "name": "Saint-Avold Emplois",
+  "website": "https://saintavold-emplois.com/",
+  "profile": "https://jobsitedir.com/jobboard/saintavold-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": "Healthcare",
+  "description": "Saint-Avold Emplois lists 1,069 job offers in Saint-Avold, France, with email alerts and browsing by professional domain.",
+  "logo": {
+    "path": "../assets/logos/saintavold-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/saintavold-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

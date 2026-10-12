@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "z83jobs.co.za",
+  "name": "Z83 Jobs",
+  "website": "https://z83jobs.co.za/",
+  "profile": "https://jobsitedir.com/jobboard/z83jobs.co.za?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "ZA",
+  "primary_industry": "Government",
+  "description": "Z83 Jobs provides searchable access to public service vacancies from the weekly Public Service Vacancy Circular, listing government jobs across all provinces and national…",
+  "logo": {
+    "path": "../assets/logos/z83jobs.co.za.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/z83jobs.co.za.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

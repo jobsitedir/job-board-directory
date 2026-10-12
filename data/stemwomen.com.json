@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "stemwomen.com",
+  "name": "STEM Women",
+  "website": "https://stemwomen.com/",
+  "profile": "https://jobsitedir.com/jobboard/stemwomen.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "GB",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "STEM Women is a UK-based platform hosting graduate and apprenticeship careers events for women and non-binary STEM students, with a job board for employers.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/stemwomen.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

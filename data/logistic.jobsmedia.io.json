@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "logistic.jobsmedia.io",
+  "name": "Logistics Jobs | JobsMedia.io",
+  "website": "https://logistic.jobsmedia.io/",
+  "profile": "https://jobsitedir.com/jobboard/logistic.jobsmedia.io?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "CA",
+  "primary_industry": "Supply Chain",
+  "description": "A Canadian logistics job board listing positions from employers across the country, with salary details and filters by specialization and location.",
+  "logo": {
+    "path": "../assets/logos/logistic.jobsmedia.io.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/logistic.jobsmedia.io.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

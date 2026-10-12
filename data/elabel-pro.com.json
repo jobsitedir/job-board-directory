@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "elabel-pro.com",
+  "name": "Elabel Pro",
+  "website": "https://elabel-pro.com/",
+  "profile": "https://jobsitedir.com/jobboard/elabel-pro.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "JP",
+  "primary_industry": "Healthcare",
+  "description": "ElabelPro is a specialized job site for medical, nursing care, childcare, and beauty industries in Japan, offering direct application to companies.",
+  "logo": {
+    "path": "../assets/logos/elabel-pro.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/elabel-pro.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "ai.mynew.jobs",
+  "name": "MyNew.Jobs",
+  "website": "https://ai.mynew.jobs/",
+  "profile": "https://jobsitedir.com/jobboard/ai.mynew.jobs?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "MY",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "AI-powered career platform for the Malaysian job market, featuring Xiao Ai assistant, resume optimization, and WhatsApp notifications.",
+  "logo": {
+    "path": "../assets/logos/ai.mynew.jobs.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/ai.mynew.jobs.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

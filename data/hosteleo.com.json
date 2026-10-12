@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "hosteleo.com",
+  "name": "Hosteleo",
+  "website": "https://hosteleo.com/",
+  "profile": "https://jobsitedir.com/jobboard/hosteleo.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "ES",
+  "primary_industry": "Hospitality & Travel",
+  "description": "Hosteleo is a job portal for hospitality and tourism, founded in 2011, with over 650,000 registered users and 15,000 client companies.",
+  "logo": {
+    "path": "../assets/logos/hosteleo.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/hosteleo.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

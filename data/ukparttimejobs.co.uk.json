@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "ukparttimejobs.co.uk",
+  "name": "UK Part Time Jobs",
+  "website": "https://ukparttimejobs.co.uk/",
+  "profile": "https://jobsitedir.com/jobboard/ukparttimejobs.co.uk?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "GB",
+  "primary_industry": "Specialty - Parttime/Hourly",
+  "description": "UK Part Time Jobs aggregates part-time job listings from CV-Library, with salary details on some roles and a featured employers page for browsing companies.",
+  "logo": {
+    "path": "../assets/logos/ukparttimejobs.co.uk.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/ukparttimejobs.co.uk.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

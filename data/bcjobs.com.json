@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "bcjobs.com",
+  "name": "BCJobs.com",
+  "website": "https://bcjobs.com/",
+  "profile": "https://jobsitedir.com/jobboard/bcjobs.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "CA",
+  "primary_industry": null,
+  "description": "BCJobs is a job board focused on British Columbia, Canada, serving job seekers and employers since at least 2000 with categories like healthcare, trades, and technology.",
+  "logo": {
+    "path": "../assets/logos/bcjobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/bcjobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

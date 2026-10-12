@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "ihirebroadcasting.com",
+  "name": "iHireBroadcasting",
+  "website": "https://ihirebroadcasting.com/",
+  "profile": "https://jobsitedir.com/jobboard/ihirebroadcasting.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "US",
+  "primary_industry": "Arts & Entertainment",
+  "description": null,
+  "logo": {
+    "path": "../assets/logos/ihirebroadcasting.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/ihirebroadcasting.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

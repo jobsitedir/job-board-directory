@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "wavekarir.com",
+  "name": "de'Wave Career",
+  "website": "https://wavekarir.com/",
+  "profile": "https://jobsitedir.com/jobboard/wavekarir.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "ID",
+  "primary_industry": null,
+  "description": "Wavekarir is a free job marketplace for job seekers and businesses across Indonesia, offering filtering by category, location, and salary, plus a one-application option for…",
+  "logo": {
+    "path": "../assets/logos/wavekarir.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/wavekarir.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

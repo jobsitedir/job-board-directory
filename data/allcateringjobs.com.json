@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "allcateringjobs.com",
+  "name": "All Catering Jobs",
+  "website": "https://allcateringjobs.com/",
+  "profile": "https://jobsitedir.com/jobboard/allcateringjobs.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": null,
+  "primary_industry": "Hospitality & Travel",
+  "description": "AllCateringJobs.com is a niche job board for catering and hospitality roles across the Mediterranean, offering paid posting packages for employers and job alerts for seekers.",
+  "logo": {
+    "path": "../assets/logos/allcateringjobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/allcateringjobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

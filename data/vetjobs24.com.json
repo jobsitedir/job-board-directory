@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "vetjobs24.com",
+  "name": "VetJobs24",
+  "website": "https://vetjobs24.com/",
+  "profile": "https://jobsitedir.com/jobboard/vetjobs24.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "DE",
+  "primary_industry": "Healthcare>Veterinary",
+  "description": "VetJobs24 is an international job platform exclusively for veterinary medicine, connecting applicants and employers with job listings, profiles, and matching tools.",
+  "logo": {
+    "path": "../assets/logos/vetjobs24.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/vetjobs24.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

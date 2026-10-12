@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "stoczniowcy.pl",
+  "name": "STOCZNIOWCY - Stoczniowy Portal Pracy",
+  "website": "https://stoczniowcy.pl/",
+  "profile": "https://jobsitedir.com/jobboard/stoczniowcy.pl?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "PL",
+  "primary_industry": "Manufacturing & Production",
+  "description": "Stoczniowcy.pl is a Polish job board and company directory for the shipbuilding industry, offering account registration and paid packages.",
+  "logo": {
+    "path": "../assets/logos/stoczniowcy.pl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/stoczniowcy.pl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "kaikeinet.com",
+  "name": "カイケイ・ファン",
+  "website": "https://kaikeinet.com/",
+  "profile": "https://jobsitedir.com/jobboard/kaikeinet.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "JP",
+  "primary_industry": "Financial Services",
+  "description": "Kaikei Fan is a Japanese portal site for accounting professionals, operated by MS-Japan with over 30 years of experience.",
+  "logo": {
+    "path": "../assets/logos/kaikeinet.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/kaikeinet.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

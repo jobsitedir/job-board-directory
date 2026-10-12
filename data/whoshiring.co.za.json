@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "whoshiring.co.za",
+  "name": "Who's Hiring",
+  "website": "https://whoshiring.co.za/",
+  "profile": "https://jobsitedir.com/jobboard/whoshiring.co.za?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "ZA",
+  "primary_industry": "Government",
+  "description": "Whoshiring.co.za is an opportunities platform for youth in South Africa and worldwide, listing jobs with salary, location, and qualification details.",
+  "logo": {
+    "path": "../assets/logos/whoshiring.co.za.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/whoshiring.co.za.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

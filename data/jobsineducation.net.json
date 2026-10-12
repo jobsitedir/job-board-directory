@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "jobsineducation.net",
+  "name": "Jobs in Education",
+  "website": "https://jobsineducation.net/",
+  "profile": "https://jobsitedir.com/jobboard/jobsineducation.net?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "IN",
+  "primary_industry": "Education",
+  "description": "JobsInEducation.net is a job platform for India's education sector, serving both teaching and non-teaching roles with free job alerts and AI-powered resume parsing.",
+  "logo": {
+    "path": "../assets/logos/jobsineducation.net.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/jobsineducation.net.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

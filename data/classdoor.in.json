@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "classdoor.in",
+  "name": "ClassDoor",
+  "website": "https://classdoor.in/",
+  "profile": "https://jobsitedir.com/jobboard/classdoor.in?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "IN",
+  "primary_industry": "Education",
+  "description": "Classdoor.in is a free education job portal for India, connecting educators with 5,000+ verified schools, colleges, and coaching institutes.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/classdoor.in.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

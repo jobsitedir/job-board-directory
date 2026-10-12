@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "hrchoice.ru",
+  "name": "HR Choice Russia",
+  "website": "https://hrchoice.ru/",
+  "profile": "https://jobsitedir.com/jobboard/hrchoice.ru?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "RU",
+  "primary_industry": null,
+  "description": "HR Choice Russia is a Russian urban HR ecosystem connecting job seekers and employers across 152 cities, with 2,630 active vacancies in 10 categories including remote and…",
+  "logo": {
+    "path": "../assets/logos/hrchoice.ru.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/hrchoice.ru.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

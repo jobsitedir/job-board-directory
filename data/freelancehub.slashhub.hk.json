@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "freelancehub.slashhub.hk",
+  "name": "FreelanceHub",
+  "website": "https://freelancehub.slashhub.hk/",
+  "profile": "https://jobsitedir.com/jobboard/freelancehub.slashhub.hk?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "HK",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "FreelanceHub is a Hong Kong-based freelance marketplace with AI-powered matching, escrow protection, and an AI workspace for clients and freelancers.",
+  "logo": {
+    "path": "../assets/logos/freelancehub.slashhub.hk.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/freelancehub.slashhub.hk.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

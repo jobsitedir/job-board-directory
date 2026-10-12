@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "healthcareer.ca",
+  "name": "HealthCareer.ca",
+  "website": "https://healthcareer.ca/",
+  "profile": "https://jobsitedir.com/jobboard/healthcareer.ca?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "CA",
+  "primary_industry": "Healthcare",
+  "description": "HealthCareer.ca is a free Canadian healthcare job board aggregating nursing, physician, allied health, and admin roles from multiple sources, with near-real-time updates and…",
+  "logo": {
+    "path": "../assets/logos/healthcareer.ca.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/healthcareer.ca.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

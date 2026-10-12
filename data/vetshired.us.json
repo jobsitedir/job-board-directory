@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "vetshired.us",
+  "name": "Vets Hired",
+  "website": "https://vetshired.us/",
+  "profile": "https://jobsitedir.com/jobboard/vetshired.us?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "US",
+  "primary_industry": "Military Transition",
+  "description": "Vets Hired is a job platform for veterans, active duty military, and their spouses, offering job postings, resume searches, and virtual career fairs.",
+  "logo": {
+    "path": "../assets/logos/vetshired.us.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/vetshired.us.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

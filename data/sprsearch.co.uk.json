@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "sprsearch.co.uk",
+  "name": "SPR Search",
+  "website": "https://sprsearch.co.uk/",
+  "profile": "https://jobsitedir.com/jobboard/sprsearch.co.uk?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "GB",
+  "primary_industry": null,
+  "description": "SPR Search is a UK-focused job board serving regions like Greater Manchester and the West Midlands, offering job search and CV submission features.",
+  "logo": {
+    "path": "../assets/logos/sprsearch.co.uk.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/sprsearch.co.uk.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

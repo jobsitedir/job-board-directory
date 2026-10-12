@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "careersmason.com",
+  "name": "Careers Mason",
+  "website": "https://careersmason.com/",
+  "profile": "https://jobsitedir.com/jobboard/careersmason.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "ZA",
+  "primary_industry": "Government",
+  "description": "CareersMason lists South African job vacancies across categories like General Worker, Cleaner, and Administration Clerk, with details such as application deadlines, location,…",
+  "logo": {
+    "path": "../assets/logos/careersmason.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/careersmason.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

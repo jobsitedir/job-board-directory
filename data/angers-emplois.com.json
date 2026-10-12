@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "angers-emplois.com",
+  "name": "Angers Emplois",
+  "website": "https://angers-emplois.com/",
+  "profile": "https://jobsitedir.com/jobboard/angers-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": null,
+  "description": "Angers-emplois.com lists 4704 job offers in Angers and lets users create email alerts for personalized job notifications.",
+  "logo": {
+    "path": "../assets/logos/angers-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/angers-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

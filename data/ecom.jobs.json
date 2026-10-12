@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "ecom.jobs",
+  "name": "ecom.jobs",
+  "website": "https://ecom.jobs/",
+  "profile": "https://jobsitedir.com/jobboard/ecom.jobs?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "US",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "Ecom.jobs is a job platform focused exclusively on ecommerce roles, offering email alerts and direct introductions to hiring teams for select positions.",
+  "logo": {
+    "path": "../assets/logos/ecom.jobs.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/ecom.jobs.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

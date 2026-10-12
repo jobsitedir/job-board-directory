@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "womeninhighereducation.com",
+  "name": "Women in Higher Education",
+  "website": "https://womeninhighereducation.com/",
+  "profile": "https://jobsitedir.com/jobboard/womeninhighereducation.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "US",
+  "primary_industry": "Education",
+  "description": "WomenInHigherEducation.com is a job board for recruiting women professionals to work in academia, serving faculty, staff, administrators, and executives since 2004.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/womeninhighereducation.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

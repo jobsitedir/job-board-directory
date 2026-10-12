@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "jobradar.co.in",
+  "name": "JobRadar",
+  "website": "https://jobradar.co.in/",
+  "profile": "https://jobsitedir.com/jobboard/jobradar.co.in?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "IN",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "JobRadar is a free AI-powered job marketplace for Indian tech job seekers and freshers, offering match scores and smart alerts.",
+  "logo": {
+    "path": "../assets/logos/jobradar.co.in.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/jobradar.co.in.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

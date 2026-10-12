@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "eslteachersjob.com",
+  "name": "ESLteachersJOB.com",
+  "website": "https://eslteachersjob.com/",
+  "profile": "https://jobsitedir.com/jobboard/eslteachersjob.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "HK",
+  "primary_industry": "Education",
+  "description": "A Hong Kong-based job board for Native English Speakers seeking ESL teaching roles in kindergartens, primary, and secondary schools, offering both part-time and full-time…",
+  "logo": {
+    "path": "../assets/logos/eslteachersjob.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/eslteachersjob.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

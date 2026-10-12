@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "madarjobs.com",
+  "name": "مدار الوظائف",
+  "website": "https://madarjobs.com/",
+  "profile": "https://jobsitedir.com/jobboard/madarjobs.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "SA",
+  "primary_industry": null,
+  "description": "Madar Jobs is an independent Arabic job board covering Saudi Arabia, UAE, Jordan, Qatar, Kuwait, and other Arab countries, with browsing by country, city, specialty, and…",
+  "logo": {
+    "path": "../assets/logos/madarjobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/madarjobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

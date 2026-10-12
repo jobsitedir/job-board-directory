@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "magnusrecruitment.com.au",
+  "name": "Magnus Recruitment Solutions",
+  "website": "https://magnusrecruitment.com.au/",
+  "profile": "https://jobsitedir.com/jobboard/magnusrecruitment.com.au?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "AU",
+  "primary_industry": "Government",
+  "description": "Magnus Recruitment is a global workforce solutions provider serving government and private organisations, with NSW Government SCM0007 approval and job listings across…",
+  "logo": {
+    "path": "../assets/logos/magnusrecruitment.com.au.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/magnusrecruitment.com.au.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

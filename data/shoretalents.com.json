@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "shoretalents.com",
+  "name": "ShoreTalents",
+  "website": "https://shoretalents.com/",
+  "profile": "https://jobsitedir.com/jobboard/shoretalents.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "JM",
+  "primary_industry": "Hospitality & Travel",
+  "description": "ShoreTalents is a job board and talent marketplace for the Caribbean region and its diaspora, offering permanent, freelance, and internship roles across 14+ countries plus the…",
+  "logo": {
+    "path": "../assets/logos/shoretalents.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/shoretalents.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

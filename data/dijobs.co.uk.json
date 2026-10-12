@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "dijobs.co.uk",
+  "name": "DI Jobs",
+  "website": "https://dijobs.co.uk/",
+  "profile": "https://jobsitedir.com/jobboard/dijobs.co.uk?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "GB",
+  "primary_industry": null,
+  "description": "DI Jobs is a UK diversity job board connecting inclusive employers with diverse talent, targeting underrepresented groups including Black, Asian, ethnic minorities, LGBTQ+…",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/dijobs.co.uk.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "wuutliggey.com",
+  "name": "Wuut Liggey",
+  "website": "https://wuutliggey.com/",
+  "profile": "https://jobsitedir.com/jobboard/wuutliggey.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "SN",
+  "primary_industry": null,
+  "description": "Wuut Liggey is a free job platform for Senegal, offering reviewed listings for CDI, CDD, internships, freelance, and remote roles.",
+  "logo": {
+    "path": "../assets/logos/wuutliggey.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/wuutliggey.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

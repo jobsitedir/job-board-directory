@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "auditfriendly.co",
+  "name": "Audit Friendly",
+  "website": "https://auditfriendly.co/",
+  "profile": "https://jobsitedir.com/jobboard/auditfriendly.co?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "US",
+  "primary_industry": "Financial Services>General",
+  "description": "Audit Friendly is a free accounting and finance job board built by CPAs, covering remote roles in the US and Canada with salary ranges, software reviews, and career tools.",
+  "logo": {
+    "path": "../assets/logos/auditfriendly.co.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/auditfriendly.co.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

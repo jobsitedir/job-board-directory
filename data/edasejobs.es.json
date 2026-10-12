@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "edasejobs.es",
+  "name": "EDASE Jobs",
+  "website": "https://edasejobs.es/",
+  "profile": "https://jobsitedir.com/jobboard/edasejobs.es?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "ES",
+  "primary_industry": "Financial Services>General",
+  "description": "EDASE Jobs is a free job portal specialized in the advisory and professional firm sector in Spain, covering all provinces and remote work.",
+  "logo": {
+    "path": "../assets/logos/edasejobs.es.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/edasejobs.es.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

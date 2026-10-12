@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "flagma.biz.tr",
+  "name": "Flagma",
+  "website": "https://flagma.biz.tr/",
+  "profile": "https://jobsitedir.com/jobboard/flagma.biz.tr?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "TR",
+  "primary_industry": "Transportation",
+  "description": "Flagma is an international job platform operating in 53 countries, with a dedicated section for job vacancies in Turkey and a mobile app for iOS and Android.",
+  "logo": {
+    "path": "../assets/logos/flagma.biz.tr.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/flagma.biz.tr.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

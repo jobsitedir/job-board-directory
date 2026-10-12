@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "dutyboss.com",
+  "name": "DutyBoss",
+  "website": "https://dutyboss.com/",
+  "profile": "https://jobsitedir.com/jobboard/dutyboss.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "IN",
+  "primary_industry": "Blue Collar & Trades",
+  "description": "DutyBoss is a free platform connecting blue-collar job seekers with verified employers in India, allowing employers to post jobs and hire workers online.",
+  "logo": {
+    "path": "../assets/logos/dutyboss.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/dutyboss.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

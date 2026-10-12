@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "wp.zambiajobalerts.com",
+  "name": "Zambia Job Alerts",
+  "website": "https://wp.zambiajobalerts.com/",
+  "profile": "https://jobsitedir.com/jobboard/wp.zambiajobalerts.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "ZM",
+  "primary_industry": null,
+  "description": "Zambia Job Alerts is a job board for Zambia with over 13,000 published vacancies, offering filtering by category, job type, keywords, and location, plus CV and cover letter tools.",
+  "logo": {
+    "path": "../assets/logos/wp.zambiajobalerts.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/wp.zambiajobalerts.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

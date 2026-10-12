@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "openjobshq.com",
+  "name": "OpenJobs",
+  "website": "https://openjobshq.com/",
+  "profile": "https://jobsitedir.com/jobboard/openjobshq.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "US",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "OpenJobsHQ curates job listings in Chicago, IL and remote USA, with AI-powered search and tools like resume rewrites and cover letters.",
+  "logo": {
+    "path": "../assets/logos/openjobshq.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/openjobshq.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

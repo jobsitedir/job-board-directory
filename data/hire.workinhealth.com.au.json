@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "hire.workinhealth.com.au",
+  "name": "WorkinHealth",
+  "website": "https://hire.workinhealth.com.au/",
+  "profile": "https://jobsitedir.com/jobboard/hire.workinhealth.com.au?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "AU",
+  "primary_industry": "Healthcare>General",
+  "description": "WorkinHealth is a job board for Australia's health sector, offering AI-powered ad creation, compliance tools, and multi-board posting.",
+  "logo": {
+    "path": "../assets/logos/hire.workinhealth.com.au.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/hire.workinhealth.com.au.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "obsidi.com",
+  "name": "Obsidi",
+  "website": "https://obsidi.com/",
+  "profile": "https://jobsitedir.com/jobboard/obsidi.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "CA",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "Obsidi is an inclusive community for Black tech professionals, offering mentorship, events, and job matching with 80,000+ members.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/obsidi.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

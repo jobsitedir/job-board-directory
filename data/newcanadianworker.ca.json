@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "newcanadianworker.ca",
+  "name": "New Canadian Worker",
+  "website": "https://newcanadianworker.ca/",
+  "profile": "https://jobsitedir.com/jobboard/newcanadianworker.ca?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "CA",
+  "primary_industry": null,
+  "description": "NewCanadianWorker.ca is a job platform for new Canadians—immigrants, refugees, asylum seekers, foreign students, and new workers—offering job search, resume tools, and guidance…",
+  "logo": {
+    "path": "../assets/logos/newcanadianworker.ca.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/newcanadianworker.ca.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "vandenberg.jobboardhq.com",
+  "name": "Vandenberg SFB Employment Board",
+  "website": "https://vandenberg.jobboardhq.com/",
+  "profile": "https://jobsitedir.com/jobboard/vandenberg.jobboardhq.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "US",
+  "primary_industry": "Government",
+  "description": "Vandenberg SFB Employment Board connects service members, families, veterans, and the local community with employers in and around Vandenberg Space Force Base.",
+  "logo": {
+    "path": "../assets/logos/vandenberg.jobboardhq.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/vandenberg.jobboardhq.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

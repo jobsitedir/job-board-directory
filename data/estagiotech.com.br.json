@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "estagiotech.com.br",
+  "name": "Estágio Tech",
+  "website": "https://estagiotech.com.br/",
+  "profile": "https://jobsitedir.com/jobboard/estagiotech.com.br?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "BR",
+  "primary_industry": "Technology>AI & Data Science",
+  "description": "Estágio Tech is a Brazilian platform exclusively for technology internships, connecting students with companies and offering free courses.",
+  "logo": {
+    "path": "../assets/logos/estagiotech.com.br.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/estagiotech.com.br.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

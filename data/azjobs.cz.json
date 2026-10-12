@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "azjobs.cz",
+  "name": "azJobs",
+  "website": "https://azjobs.cz/",
+  "profile": "https://jobsitedir.com/jobboard/azjobs.cz?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "CZ",
+  "primary_industry": null,
+  "description": "AZjobs is a Czech job portal listing vacancies across the country, with filtering by city, field, and education level.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/azjobs.cz.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

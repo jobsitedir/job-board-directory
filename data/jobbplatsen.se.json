@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "jobbplatsen.se",
+  "name": "Jobbplatsen",
+  "website": "https://jobbplatsen.se/",
+  "profile": "https://jobsitedir.com/jobboard/jobbplatsen.se?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "SE",
+  "primary_industry": "Healthcare",
+  "description": "Jobbplatsen.se lists 4328 active job ads across Sweden, letting job seekers filter by role, city, or county and employers post ads from 2500 SEK.",
+  "logo": {
+    "path": "../assets/logos/jobbplatsen.se.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/jobbplatsen.se.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

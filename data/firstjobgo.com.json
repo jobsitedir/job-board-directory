@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "firstjobgo.com",
+  "name": "FirstJobGo",
+  "website": "https://firstjobgo.com/",
+  "profile": "https://jobsitedir.com/jobboard/firstjobgo.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "IN",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "FirstJobGo is a free job platform connecting job seekers and employers, featuring verified employers and direct hiring with no consultancy fees.",
+  "logo": {
+    "path": "../assets/logos/firstjobgo.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/firstjobgo.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "cebracempregos.com.br",
+  "name": "Cebrac Empregos",
+  "website": "https://cebracempregos.com.br/",
+  "profile": "https://jobsitedir.com/jobboard/cebracempregos.com.br?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "BR",
+  "primary_industry": "Education",
+  "description": "Cebrac Empregos is a Brazilian job board where candidates can search for vacancies using filters for availability, salary, and location, and companies can log in to manage…",
+  "logo": {
+    "path": "../assets/logos/cebracempregos.com.br.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/cebracempregos.com.br.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

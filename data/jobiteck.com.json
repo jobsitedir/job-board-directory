@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "jobiteck.com",
+  "name": "JOBITECK",
+  "website": "https://jobiteck.com/",
+  "profile": "https://jobsitedir.com/jobboard/jobiteck.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "CM",
+  "primary_industry": null,
+  "description": "Jobiteck lists over 13,400 job offers in Cameroon and Africa, with categories from Administration to IT and contract types including permanent, freelance, and internship.",
+  "logo": {
+    "path": "../assets/logos/jobiteck.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/jobiteck.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

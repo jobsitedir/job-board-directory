@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "canadiancybersecurityjobs.com",
+  "name": "Canadian Cybersecurity Jobs",
+  "website": "https://canadiancybersecurityjobs.com/",
+  "profile": "https://jobsitedir.com/jobboard/canadiancybersecurityjobs.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "CA",
+  "primary_industry": "Cybersecurity",
+  "description": "A national Canadian technology talent platform listing jobs in cybersecurity, AI, software engineering, and more, with free job posts for cybersecurity roles as of October 2025.",
+  "logo": {
+    "path": "../assets/logos/canadiancybersecurityjobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/canadiancybersecurityjobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

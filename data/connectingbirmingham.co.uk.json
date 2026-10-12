@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "connectingbirmingham.co.uk",
+  "name": "Connecting Birmingham",
+  "website": "https://connectingbirmingham.co.uk/",
+  "profile": "https://jobsitedir.com/jobboard/connectingbirmingham.co.uk?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "GB",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "Connecting Birmingham is a job board and company directory for tech roles in the Birmingham area, free for job seekers and updated weekly with only active listings.",
+  "logo": {
+    "path": "../assets/logos/connectingbirmingham.co.uk.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/connectingbirmingham.co.uk.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

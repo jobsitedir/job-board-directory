@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "vagastaubate.com",
+  "name": "Achei Vagas Taubaté",
+  "website": "https://vagastaubate.com/",
+  "profile": "https://jobsitedir.com/jobboard/vagastaubate.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "BR",
+  "primary_industry": null,
+  "description": "VagasTaubate.com aggregates job listings for Taubaté, Vale do Paraíba, and home office positions, with manual editorial review and free posting for occasional vacancies.",
+  "logo": {
+    "path": "../assets/logos/vagastaubate.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/vagastaubate.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

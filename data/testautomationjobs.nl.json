@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "testautomationjobs.nl",
+  "name": "Test Automation Jobs",
+  "website": "https://testautomationjobs.nl/",
+  "profile": "https://jobsitedir.com/jobboard/testautomationjobs.nl?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "NL",
+  "primary_industry": "Technical>Software Dev/Programming",
+  "description": "TestAutomationJobs.nl is a specialized job platform for Test Automation roles in the Netherlands, targeting professionals like Test Automation Engineers and SDETs.",
+  "logo": {
+    "path": "../assets/logos/testautomationjobs.nl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/testautomationjobs.nl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

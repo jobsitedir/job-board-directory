@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "orientation-environnement.fr",
+  "name": "Orientation Environnement",
+  "website": "https://orientation-environnement.fr/",
+  "profile": "https://jobsitedir.com/jobboard/orientation-environnement.fr?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "FR",
+  "primary_industry": "Environmental",
+  "description": "Orientation Environnement is a specialized French job portal for environment, regional planning, and sustainable development roles, offering job, internship, and apprenticeship…",
+  "logo": {
+    "path": "../assets/logos/orientation-environnement.fr.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/orientation-environnement.fr.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

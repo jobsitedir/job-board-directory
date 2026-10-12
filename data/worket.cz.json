@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "worket.cz",
+  "name": "Worket.cz",
+  "website": "https://worket.cz/",
+  "profile": "https://jobsitedir.com/jobboard/worket.cz?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "CZ",
+  "primary_industry": null,
+  "description": "Worket.cz is a Czech job website that shows salary ranges on listings and lets you filter by minimum salary up to 200,000 Kč.",
+  "logo": {
+    "path": "../assets/logos/worket.cz.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/worket.cz.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

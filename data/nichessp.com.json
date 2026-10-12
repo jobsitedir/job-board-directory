@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "nichessp.com",
+  "name": "NICHE SSP",
+  "website": "https://nichessp.com/",
+  "profile": "https://jobsitedir.com/jobboard/nichessp.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "US",
+  "primary_industry": "Construction",
+  "description": "Niche SSP is a US-focused job board exclusively for construction estimator and preconstruction roles, offering salary surveys and dedicated local specialists.",
+  "logo": {
+    "path": "../assets/logos/nichessp.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/nichessp.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "rabotavbulgaria.com",
+  "name": "Работа в България",
+  "website": "https://rabotavbulgaria.com/",
+  "profile": "https://jobsitedir.com/jobboard/rabotavbulgaria.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "BG",
+  "primary_industry": null,
+  "description": "Rabotavbulgaria.com is a Bulgarian job board listing openings by city, requiring free registration to post jobs.",
+  "logo": {
+    "path": "../assets/logos/rabotavbulgaria.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/rabotavbulgaria.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

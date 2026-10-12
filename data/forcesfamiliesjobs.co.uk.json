@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "forcesfamiliesjobs.co.uk",
+  "name": "Forces Families Jobs",
+  "website": "https://forcesfamiliesjobs.co.uk/",
+  "profile": "https://jobsitedir.com/jobboard/forcesfamiliesjobs.co.uk?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "GB",
+  "primary_industry": "Military Transition",
+  "description": "Forces Families Jobs is a free careers platform for family members of currently serving UK personnel, run by the tri-Service Families Federations.",
+  "logo": {
+    "path": "../assets/logos/forcesfamiliesjobs.co.uk.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/forcesfamiliesjobs.co.uk.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

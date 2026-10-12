@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "allhighered.com",
+  "name": "AllHigherEd",
+  "website": "https://allhighered.com/",
+  "profile": "https://jobsitedir.com/jobboard/allhighered.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "US",
+  "primary_industry": "Education",
+  "description": "AllHigherEd.com lists higher education jobs in all 50 states and worldwide, serving roles from university presidents to adjuncts and researchers.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/allhighered.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

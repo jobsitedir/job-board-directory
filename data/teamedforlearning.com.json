@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "teamedforlearning.com",
+  "name": "Teamed",
+  "website": "https://teamedforlearning.com/",
+  "profile": "https://jobsitedir.com/jobboard/teamedforlearning.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "US",
+  "primary_industry": "Education",
+  "description": "Teamed is a specialist recruiting and hiring partner for Learning & Development, founded in 2017, serving both organizations hiring L&D talent and L&D professionals seeking jobs.",
+  "logo": {
+    "path": "../assets/logos/teamedforlearning.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/teamedforlearning.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

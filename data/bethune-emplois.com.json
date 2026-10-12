@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "bethune-emplois.com",
+  "name": "Béthune Emplois",
+  "website": "https://bethune-emplois.com/",
+  "profile": "https://jobsitedir.com/jobboard/bethune-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": null,
+  "description": "Bethune-emplois.com lists 1063 job offers in Béthune, France, with employer name, location, and publication date on each posting.",
+  "logo": {
+    "path": "../assets/logos/bethune-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/bethune-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "ezzycareer.com",
+  "name": "Ezzy Career",
+  "website": "https://ezzycareer.com/",
+  "profile": "https://jobsitedir.com/jobboard/ezzycareer.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "ID",
+  "primary_industry": "Hospitality & Travel",
+  "description": "EzzyCareer is a free job platform for seekers and employers, focusing on hospitality, cruise line, and non-hospitality roles in Bali and abroad, with a free resume builder.",
+  "logo": {
+    "path": "../assets/logos/ezzycareer.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/ezzycareer.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

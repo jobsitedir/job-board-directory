@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "laplandwork.com",
+  "name": "LaplandWork",
+  "website": "https://laplandwork.com/",
+  "profile": "https://jobsitedir.com/jobboard/laplandwork.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FI",
+  "primary_industry": "Hospitality & Travel",
+  "description": "LaplandWork aggregates job listings from eight Finnish Lapland job boards, covering seasonal, year-round, and remote work, with a relocation guide and anonymous candidate profiles.",
+  "logo": {
+    "path": "../assets/logos/laplandwork.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/laplandwork.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "novarobota.ua",
+  "name": "Нова Робота",
+  "website": "https://novarobota.ua/",
+  "profile": "https://jobsitedir.com/jobboard/novarobota.ua?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "UA",
+  "primary_industry": null,
+  "description": "Novarobota.ua lists over 3,700 job vacancies across 600+ cities in Ukraine, offering job search by region, map, and advanced filters, plus resume creation and job alerts.",
+  "logo": {
+    "path": "../assets/logos/novarobota.ua.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/novarobota.ua.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

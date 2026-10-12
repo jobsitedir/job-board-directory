@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "lisieux-emplois.com",
+  "name": "Lisieux Emplois",
+  "website": "https://lisieux-emplois.com/",
+  "profile": "https://jobsitedir.com/jobboard/lisieux-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": null,
+  "description": "Lisieux-emplois.com lists 1,511 job offers in Lisieux, France, with each posting showing its publication date.",
+  "logo": {
+    "path": "../assets/logos/lisieux-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/lisieux-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

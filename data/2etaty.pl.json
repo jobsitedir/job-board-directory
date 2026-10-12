@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "2etaty.pl",
+  "name": "2etaty",
+  "website": "https://2etaty.pl/",
+  "profile": "https://jobsitedir.com/jobboard/2etaty.pl?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "PL",
+  "primary_industry": "Manufacturing & Production",
+  "description": "2etaty.pl is a Polish job board focused on production and industry roles, letting candidates filter by voivodeship and upload a CV for employer discovery.",
+  "logo": {
+    "path": "../assets/logos/2etaty.pl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/2etaty.pl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

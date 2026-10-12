@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "jobseekers.ie",
+  "name": "Jobseekers.ie",
+  "website": "https://jobseekers.ie/",
+  "profile": "https://jobsitedir.com/jobboard/jobseekers.ie?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "IE",
+  "primary_industry": null,
+  "description": "Jobseekers.ie is an Irish-owned job platform listing thousands of live vacancies across Ireland, with free profile creation, CV uploads, and career advice.",
+  "logo": {
+    "path": "../assets/logos/jobseekers.ie.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/jobseekers.ie.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

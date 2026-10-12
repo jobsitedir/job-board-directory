@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "jobcrexa.com",
+  "name": "JobCrexa",
+  "website": "https://jobcrexa.com/",
+  "profile": "https://jobsitedir.com/jobboard/jobcrexa.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Generalist",
+  "primary_country": "IN",
+  "primary_industry": null,
+  "description": "JobCrexa is a free, ad-free job discovery platform for job seekers in India, offering verified listings across 50+ niches and a mobile-first experience.",
+  "logo": {
+    "path": "../assets/logos/jobcrexa.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/jobcrexa.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

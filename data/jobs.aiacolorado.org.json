@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "jobs.aiacolorado.org",
+  "name": "AIA Colorado Job Board",
+  "website": "https://jobs.aiacolorado.org/",
+  "profile": "https://jobsitedir.com/jobboard/jobs.aiacolorado.org?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "US",
+  "primary_industry": "Construction",
+  "description": "AIA Colorado's job board lists architecture-related jobs in Colorado, updated daily, with filtering by keywords, location, remote OK, category, type, and annual salary.",
+  "logo": {
+    "path": "../assets/logos/jobs.aiacolorado.org.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/jobs.aiacolorado.org.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "yoonujob.com",
+  "name": "YoonuJob",
+  "website": "https://yoonujob.com/",
+  "profile": "https://jobsitedir.com/jobboard/yoonujob.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "SN",
+  "primary_industry": null,
+  "description": "YoonuJob connects candidates, companies, and ambassadors for employment and field missions in Senegal, offering job search by keyword and location with detailed filters.",
+  "logo": {
+    "path": "../assets/logos/yoonujob.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/yoonujob.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "heianordnorge.no",
+  "name": "Heia Nord-Norge",
+  "website": "https://heianordnorge.no/",
+  "profile": "https://jobsitedir.com/jobboard/heianordnorge.no?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "NO",
+  "primary_industry": "Specialty - Other",
+  "description": "Heia Nord-Norge is a recruitment agency, content agency, and job portal focused on the Northern Norway region, offering job campaigns with journalistic storytelling and a…",
+  "logo": {
+    "path": "../assets/logos/heianordnorge.no.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/heianordnorge.no.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

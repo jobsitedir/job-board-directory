@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "jobs.madridph.com",
+  "name": "Madrid Philippines",
+  "website": "https://jobs.madridph.com/",
+  "profile": "https://jobsitedir.com/jobboard/jobs.madridph.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "PH",
+  "primary_industry": null,
+  "description": "MadridPH is a niche job board serving the Philippines with 43 active listings in categories like Full Time, Collection, Field, Solutions, and Internship.",
+  "logo": {
+    "path": "../assets/logos/jobs.madridph.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/jobs.madridph.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "service-civique.gouv.fr",
+  "name": "Service Civique",
+  "website": "https://service-civique.gouv.fr/",
+  "profile": "https://jobsitedir.com/jobboard/service-civique.gouv.fr?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": "Non-Profit",
+  "description": "Service-civique.gouv.fr lists over 13,000 French civic service missions for young people aged 16–25 (up to 30 with disabilities), with no diploma required and a monthly…",
+  "logo": {
+    "path": "../assets/logos/service-civique.gouv.fr.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/service-civique.gouv.fr.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "kandido.bg",
+  "name": "Kandido.bg",
+  "website": "https://kandido.bg/",
+  "profile": "https://jobsitedir.com/jobboard/kandido.bg?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "BG",
+  "primary_industry": null,
+  "description": "Kandido.bg is a Bulgarian job platform where job seekers publish a listing with desired salary and conditions, and employers contact them when interested.",
+  "logo": {
+    "path": "../assets/logos/kandido.bg.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/kandido.bg.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

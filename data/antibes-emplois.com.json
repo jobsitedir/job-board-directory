@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "antibes-emplois.com",
+  "name": "Antibes Emplois",
+  "website": "https://antibes-emplois.com/",
+  "profile": "https://jobsitedir.com/jobboard/antibes-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "Antibes-emplois.com lists 2333 job offers in Antibes, France, and lets users create email alerts for personalized openings.",
+  "logo": {
+    "path": "../assets/logos/antibes-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/antibes-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

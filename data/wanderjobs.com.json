@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "wanderjobs.com",
+  "name": "WanderJobs",
+  "website": "https://wanderjobs.com/",
+  "profile": "https://jobsitedir.com/jobboard/wanderjobs.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "US",
+  "primary_industry": "Hospitality & Travel",
+  "description": "WanderJobs is a job board for seasonal employers that provide staff housing, run by traveler Jacqueline.",
+  "logo": {
+    "path": "../assets/logos/wanderjobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/wanderjobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

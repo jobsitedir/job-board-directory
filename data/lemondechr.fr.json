@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "lemondechr.fr",
+  "name": "Le Monde du CHR",
+  "website": "https://lemondechr.fr/",
+  "profile": "https://jobsitedir.com/jobboard/lemondechr.fr?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "FR",
+  "primary_industry": "Hospitality & Travel",
+  "description": "LeMondeCHR.fr is a specialized job board for the hospitality industry (cafés, hotels, restaurants) in France, offering salary visibility and verified employer listings.",
+  "logo": {
+    "path": "../assets/logos/lemondechr.fr.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/lemondechr.fr.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

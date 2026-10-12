@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "pracestat.cz",
+  "name": "Pracestat.cz",
+  "website": "https://pracestat.cz/",
+  "profile": "https://jobsitedir.com/jobboard/pracestat.cz?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "CZ",
+  "primary_industry": "Government",
+  "description": "Práce pro stát is a Czech job portal for state administration, local government, state enterprises, and state-funded organizations, serving candidates seeking careers in the…",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/pracestat.cz.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

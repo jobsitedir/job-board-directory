@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "supercareer.io",
+  "name": "SuperCareer",
+  "website": "https://supercareer.io/",
+  "profile": "https://jobsitedir.com/jobboard/supercareer.io?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Generalist",
+  "primary_country": "FR",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "SuperCareer is a French job aggregator that uses AI to match CVs with offers from over 100 sites, providing a compatibility score out of 100.",
+  "logo": {
+    "path": "../assets/logos/supercareer.io.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/supercareer.io.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

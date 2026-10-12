@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "uz.joblum.com",
+  "name": "Joblum Узбекистан",
+  "website": "https://uz.joblum.com/",
+  "profile": "https://jobsitedir.com/jobboard/uz.joblum.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "UZ",
+  "primary_industry": null,
+  "description": "Joblum is a job search site for Uzbekistan, listing thousands of vacancies across cities like Tashkent, Samarkand, and Bukhara.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/uz.joblum.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

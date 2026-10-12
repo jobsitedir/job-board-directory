@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "jobiz.ma",
+  "name": "Jobiz",
+  "website": "https://jobiz.ma/",
+  "profile": "https://jobsitedir.com/jobboard/jobiz.ma?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "MA",
+  "primary_industry": null,
+  "description": "Jobiz Offres emploi Maroc is a Moroccan job board listing international permanent jobs and volunteer opportunities, such as a nail technician role in Abu Dhabi and a tire…",
+  "logo": {
+    "path": "../assets/logos/jobiz.ma.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/jobiz.ma.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

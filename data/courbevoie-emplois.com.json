@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "courbevoie-emplois.com",
+  "name": "Courbevoie Emplois",
+  "website": "https://courbevoie-emplois.com/",
+  "profile": "https://jobsitedir.com/jobboard/courbevoie-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": null,
+  "description": "Courbevoie-emplois.com lists 1,977 job offers in Courbevoie, France, with features like job alerts, CV upload, and filtering by professional domain.",
+  "logo": {
+    "path": "../assets/logos/courbevoie-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/courbevoie-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

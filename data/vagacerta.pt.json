@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "vagacerta.pt",
+  "name": "Vagacerta.pt",
+  "website": "https://vagacerta.pt/",
+  "profile": "https://jobsitedir.com/jobboard/vagacerta.pt?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "PT",
+  "primary_industry": null,
+  "description": "Vagacerta.pt lists job vacancies in Portugal, updated daily, with free applications.",
+  "logo": {
+    "path": "../assets/logos/vagacerta.pt.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/vagacerta.pt.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

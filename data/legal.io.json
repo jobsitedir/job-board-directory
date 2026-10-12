@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "legal.io",
+  "name": "Legal.io",
+  "website": "https://legal.io/",
+  "profile": "https://jobsitedir.com/jobboard/legal.io?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "US",
+  "primary_industry": "Legal",
+  "description": "Legal.io is a hiring platform for legal professionals, offering contract, temp-to-perm, and full-time roles through a vetted community of 100k+ members.",
+  "logo": {
+    "path": "../assets/logos/legal.io.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/legal.io.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

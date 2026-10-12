@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "nejlepsibrigady.cz",
+  "name": "Nejlepsibrigady.cz",
+  "website": "https://nejlepsibrigady.cz/",
+  "profile": "https://jobsitedir.com/jobboard/nejlepsibrigady.cz?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "CZ",
+  "primary_industry": null,
+  "description": "Nejlepsibrigady.cz lists 24,254 job and part-time offers across all 14 Czech regions and EU/abroad.",
+  "logo": {
+    "path": "../assets/logos/nejlepsibrigady.cz.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/nejlepsibrigady.cz.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

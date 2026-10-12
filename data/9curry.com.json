@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "9curry.com",
+  "name": "9curry.com",
+  "website": "https://9curry.com/",
+  "profile": "https://jobsitedir.com/jobboard/9curry.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Job_Board",
+  "primary_country": "IN",
+  "primary_industry": null,
+  "description": "Govt & private job notifications, admit cards, results and answer keys — updated daily since 2017.",
+  "logo": {
+    "path": "../assets/logos/9curry.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/9curry.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

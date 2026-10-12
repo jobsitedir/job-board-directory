@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "camsvjob.com",
+  "name": "S&V Cambodia Job",
+  "website": "https://camsvjob.com/",
+  "profile": "https://jobsitedir.com/jobboard/camsvjob.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "KH",
+  "primary_industry": null,
+  "description": "Camsvjob is a Cambodian job site launched in September 2011, offering CV building, job alerts, and a recruitment management system for employers.",
+  "logo": {
+    "path": "../assets/logos/camsvjob.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/camsvjob.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

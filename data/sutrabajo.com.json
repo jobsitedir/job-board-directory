@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "sutrabajo.com",
+  "name": "SuTrabajo.com",
+  "website": "https://sutrabajo.com/",
+  "profile": "https://jobsitedir.com/jobboard/sutrabajo.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "CO",
+  "primary_industry": null,
+  "description": "SuTrabajo.com is a free job board focused on internships, productive stage, and junior positions in Colombia, with daily updates and a mobile app that can be added to the home…",
+  "logo": {
+    "path": "../assets/logos/sutrabajo.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/sutrabajo.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

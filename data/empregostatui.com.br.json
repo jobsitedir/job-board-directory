@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "empregostatui.com.br",
+  "name": "Empregos Tatuí",
+  "website": "https://empregostatui.com.br/",
+  "profile": "https://jobsitedir.com/jobboard/empregostatui.com.br?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "BR",
+  "primary_industry": null,
+  "description": "Empregos Tatuí is a free job board for employers to post vacancies in Tatuí/SP and surrounding cities, offering job types such as full-time, internship, and freelance.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/empregostatui.com.br.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

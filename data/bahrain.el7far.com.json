@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "bahrain.el7far.com",
+  "name": "Jobs In Bahrain وظائف البحرين",
+  "website": "https://bahrain.el7far.com/",
+  "profile": "https://jobsitedir.com/jobboard/bahrain.el7far.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "BH",
+  "primary_industry": null,
+  "description": "The website provides job listings from companies, schools, hospitals, and recruitment sources in Kuwait.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/bahrain.el7far.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

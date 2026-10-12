@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "canadianworker.ca",
+  "name": "Canadian Worker",
+  "website": "https://canadianworker.ca/",
+  "profile": "https://jobsitedir.com/jobboard/canadianworker.ca?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "CA",
+  "primary_industry": null,
+  "description": "CanadianWorker.ca is a free, open job board for Canadian employers and job seekers, offering self-service posting without prior approval or verification.",
+  "logo": {
+    "path": "../assets/logos/canadianworker.ca.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/canadianworker.ca.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

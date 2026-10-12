@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "dentmatch.io",
+  "name": "DentMatch",
+  "website": "https://dentmatch.io/",
+  "profile": "https://jobsitedir.com/jobboard/dentmatch.io?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "NO",
+  "primary_industry": "Healthcare>Dental",
+  "description": "DentMatch is a free job platform for dental professionals and clinics in Norway, using a swipe-and-match system with HPR authorization verification.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/dentmatch.io.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

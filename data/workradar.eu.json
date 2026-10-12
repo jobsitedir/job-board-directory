@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "workradar.eu",
+  "name": "WorkRadar.eu",
+  "website": "https://workradar.eu/",
+  "profile": "https://jobsitedir.com/jobboard/workradar.eu?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": null,
+  "primary_industry": "Blue Collar & Trades",
+  "description": "Workradar.eu lists job offers in Europe with salary shown in EUR per month or per hour, such as a warehouse worker role paying 1,379–1,609 EUR/month.",
+  "logo": {
+    "path": "../assets/logos/workradar.eu.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/workradar.eu.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

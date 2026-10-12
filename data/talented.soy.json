@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "talented.soy",
+  "name": "Talented",
+  "website": "https://talented.soy/",
+  "profile": "https://jobsitedir.com/jobboard/talented.soy?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "MX",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "Talented is an AI-powered employment platform for Mexico that interprets CVs, detects gaps, and calculates compatibility instantly.",
+  "logo": {
+    "path": "../assets/logos/talented.soy.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/talented.soy.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

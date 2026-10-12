@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "nithrajobs.com",
+  "name": "Nithra Jobs",
+  "website": "https://nithrajobs.com/",
+  "profile": "https://jobsitedir.com/jobboard/nithrajobs.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "IN",
+  "primary_industry": null,
+  "description": "Nithra Jobs lists over 80,000 opportunities across 30+ categories in India, with filters for experience (0–31 years) and education level.",
+  "logo": {
+    "path": "../assets/logos/nithrajobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/nithrajobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

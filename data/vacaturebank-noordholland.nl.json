@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "vacaturebank-noordholland.nl",
+  "name": "Vacaturebank Noord-Holland",
+  "website": "https://vacaturebank-noordholland.nl/",
+  "profile": "https://jobsitedir.com/jobboard/vacaturebank-noordholland.nl?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "NL",
+  "primary_industry": null,
+  "description": "Vacaturebank Noord-Holland is a regional job board for the Dutch province of North Holland, part of a network aiming for national coverage.",
+  "logo": {
+    "path": "../assets/logos/vacaturebank-noordholland.nl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/vacaturebank-noordholland.nl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

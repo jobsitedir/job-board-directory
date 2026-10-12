@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "jobsinmcr.co.uk",
+  "name": "Jobs in Manchester",
+  "website": "https://jobsinmcr.co.uk/",
+  "profile": "https://jobsitedir.com/jobboard/jobsinmcr.co.uk?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "GB",
+  "primary_industry": null,
+  "description": "Jobs in Manchester is a dedicated job board for employers and job seekers in Manchester and Greater Manchester, covering all industries.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/jobsinmcr.co.uk.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

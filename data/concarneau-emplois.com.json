@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "concarneau-emplois.com",
+  "name": "Concarneau Emplois",
+  "website": "https://concarneau-emplois.com/",
+  "profile": "https://jobsitedir.com/jobboard/concarneau-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": "Hospitality & Travel",
+  "description": "Concarneau-Emplois.com aggregates job listings for Concarneau and the Finistère department (29), offering 1,279 current vacancies.",
+  "logo": {
+    "path": "../assets/logos/concarneau-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/concarneau-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

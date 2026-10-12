@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "dev.ipracujzdalnie.pl",
+  "name": "iPRACUJZDALNIE",
+  "website": "https://dev.ipracujzdalnie.pl/",
+  "profile": "https://jobsitedir.com/jobboard/dev.ipracujzdalnie.pl?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "PL",
+  "primary_industry": "Non-Profit",
+  "description": "iPracujZdalnie.pl is a Polish job portal and employment agency for people with certified disabilities, promoting remote and stationary work across Poland.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/dev.ipracujzdalnie.pl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

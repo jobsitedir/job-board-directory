@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "legal.jobsmedia.io",
+  "name": "Legal Jobs | JobsMedia.io",
+  "website": "https://legal.jobsmedia.io/",
+  "profile": "https://jobsitedir.com/jobboard/legal.jobsmedia.io?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "CA",
+  "primary_industry": "Legal",
+  "description": "A Canadian legal job board listing positions across 15 specializations, from Administrative Law to Paralegal, with salary and job-type details.",
+  "logo": {
+    "path": "../assets/logos/legal.jobsmedia.io.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/legal.jobsmedia.io.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

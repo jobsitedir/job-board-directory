@@ -1,0 +1,13 @@
+name: Suggest a website
+description: Suggest a recruitment website for the directory
+body:
+  - type: input
+    id: website
+    attributes:
+      label: Website address
+    validations:
+      required: true
+  - type: textarea
+    id: explanation
+    attributes:
+      label: What does this website offer?

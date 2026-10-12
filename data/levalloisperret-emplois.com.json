@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "levalloisperret-emplois.com",
+  "name": "Levallois-Perret Emplois",
+  "website": "https://levalloisperret-emplois.com/",
+  "profile": "https://jobsitedir.com/jobboard/levalloisperret-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": null,
+  "description": "Levalloisperret-emplois.com lists 1,728 job offers in Levallois-Perret, France, and lets users create email alerts for personalized openings.",
+  "logo": {
+    "path": "../assets/logos/levalloisperret-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/levalloisperret-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

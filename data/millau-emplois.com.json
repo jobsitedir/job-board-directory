@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "millau-emplois.com",
+  "name": "Millau Emplois",
+  "website": "https://millau-emplois.com/",
+  "profile": "https://jobsitedir.com/jobboard/millau-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": null,
+  "description": "Millau-Emplois.com lists 806 job offers in Millau, France, with a dedicated link to browse all local openings.",
+  "logo": {
+    "path": "../assets/logos/millau-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/millau-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

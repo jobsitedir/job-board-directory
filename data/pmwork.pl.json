@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "pmwork.pl",
+  "name": "PMwork.pl",
+  "website": "https://pmwork.pl/",
+  "profile": "https://jobsitedir.com/jobboard/pmwork.pl?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "PL",
+  "primary_industry": null,
+  "description": "PMWork.pl lists jobs in Poland and abroad, offering detailed filters and email alerts for candidates, plus a dedicated employer panel with company profiles and sub-accounts.",
+  "logo": {
+    "path": "../assets/logos/pmwork.pl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/pmwork.pl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

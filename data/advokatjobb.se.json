@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "advokatjobb.se",
+  "name": "advokatjobb.se",
+  "website": "https://advokatjobb.se/",
+  "profile": "https://jobsitedir.com/jobboard/advokatjobb.se?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "SE",
+  "primary_industry": "Legal",
+  "description": "Advokatjobb.se lists 356 lawyer and legal professional jobs in Sweden, redirecting to Ledigajobb.se for applications.",
+  "logo": {
+    "path": "../assets/logos/advokatjobb.se.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/advokatjobb.se.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

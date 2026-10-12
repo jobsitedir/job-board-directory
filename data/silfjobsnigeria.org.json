@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "silfjobsnigeria.org",
+  "name": "SILF Jobs Nigeria",
+  "website": "https://silfjobsnigeria.org/",
+  "profile": "https://jobsitedir.com/jobboard/silfjobsnigeria.org?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "NG",
+  "primary_industry": "Non-Profit",
+  "description": "SILF Jobs Nigeria is a non-profit-backed job platform based in Abuja that lists verified opportunities across all Nigerian states, Africa, and internationally.",
+  "logo": {
+    "path": "../assets/logos/silfjobsnigeria.org.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/silfjobsnigeria.org.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

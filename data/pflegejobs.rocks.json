@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "pflegejobs.rocks",
+  "name": "Pflegejobs.rocks",
+  "website": "https://pflegejobs.rocks/",
+  "profile": "https://jobsitedir.com/jobboard/pflegejobs.rocks?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "DE",
+  "primary_industry": "Healthcare",
+  "description": "Pflegejobs.rocks is a nursing job board for Germany, Austria, and Switzerland, listing 3,321 current openings with direct employer applications and no registration required.",
+  "logo": {
+    "path": "../assets/logos/pflegejobs.rocks.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/pflegejobs.rocks.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

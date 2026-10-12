@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "jobulus.com",
+  "name": "Jobulus",
+  "website": "https://jobulus.com/",
+  "profile": "https://jobsitedir.com/jobboard/jobulus.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": null,
+  "primary_industry": "Technical",
+  "description": "Jobulus is a tech job board for developers, designers, and marketers, listing positions in countries like the USA, India, Pakistan, and Argentina.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/jobulus.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "jaabz.com",
+  "name": "Jaabz",
+  "website": "https://jaabz.com/",
+  "profile": "https://jobsitedir.com/jobboard/jaabz.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "US",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "Jaabz is a tech job board listing roles with visa sponsorship, relocation packages, and remote work options, plus a free Telegram job alert bot.",
+  "logo": {
+    "path": "../assets/logos/jaabz.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/jaabz.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

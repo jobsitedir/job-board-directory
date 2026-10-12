@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "cesson-sevigne-emplois.com",
+  "name": "Cesson-Sévigné Emplois",
+  "website": "https://cesson-sevigne-emplois.com/",
+  "profile": "https://jobsitedir.com/jobboard/cesson-sevigne-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": null,
+  "description": "Cesson-Sévigné Emplois lists 1,936 job offers in Cesson-Sévigné and nearby communes in department 35, with personalized email alerts and domain-based browsing.",
+  "logo": {
+    "path": "../assets/logos/cesson-sevigne-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/cesson-sevigne-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

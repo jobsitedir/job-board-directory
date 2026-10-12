@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "remoteworkfromanywhere.com",
+  "name": "RemoteWorkFromAnywhere",
+  "website": "https://remoteworkfromanywhere.com/",
+  "profile": "https://jobsitedir.com/jobboard/remoteworkfromanywhere.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "US",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "A job board listing 100% remote opportunities with no relocation or location restrictions, featuring salary details and multiple employment types.",
+  "logo": {
+    "path": "../assets/logos/remoteworkfromanywhere.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/remoteworkfromanywhere.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

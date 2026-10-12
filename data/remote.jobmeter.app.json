@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "remote.jobmeter.app",
+  "name": "JobMeter",
+  "website": "https://remote.jobmeter.app/",
+  "profile": "https://jobsitedir.com/jobboard/remote.jobmeter.app?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Generalist",
+  "primary_country": null,
+  "primary_industry": null,
+  "description": "JobMeter is a free job board listing remote-first and hybrid roles across the US, UK, Canada, Europe, and other regions, with AI-powered matching and career tools.",
+  "logo": {
+    "path": "../assets/logos/remote.jobmeter.app.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/remote.jobmeter.app.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

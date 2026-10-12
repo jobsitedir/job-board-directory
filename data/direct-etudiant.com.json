@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "direct-etudiant.com",
+  "name": "Direct Étudiant",
+  "website": "https://direct-etudiant.com/",
+  "profile": "https://jobsitedir.com/jobboard/direct-etudiant.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": "Education",
+  "description": "Direct Étudiant is a French job board focused on internships (Stage) and work-study programs (Alternance) for students, offering CV submission, career advice, and recruiter…",
+  "logo": {
+    "path": "../assets/logos/direct-etudiant.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/direct-etudiant.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

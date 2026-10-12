@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "workforgov.co.za",
+  "name": "WorkforGov.co.za",
+  "website": "https://workforgov.co.za/",
+  "profile": "https://jobsitedir.com/jobboard/workforgov.co.za?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "ZA",
+  "primary_industry": "Government",
+  "description": "WorkforGov.co.za is a South African job information platform listing government vacancies, internships, learnerships, and bursaries from national departments, municipalities,…",
+  "logo": {
+    "path": "../assets/logos/workforgov.co.za.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/workforgov.co.za.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

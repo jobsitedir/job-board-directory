@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "employdiversity.com",
+  "name": "Employ Diversity",
+  "website": "https://employdiversity.com/",
+  "profile": "https://jobsitedir.com/jobboard/employdiversity.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "US",
+  "primary_industry": "Healthcare",
+  "description": "EmployDiversity is a free job board for candidates, offering employers paid packages to attract diverse professionals through featured listings, homepage visibility, and social…",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/employdiversity.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

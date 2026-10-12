@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "recruteur.lesjeudis.com",
+  "name": "LesJeudis",
+  "website": "https://recruteur.lesjeudis.com/",
+  "profile": "https://jobsitedir.com/jobboard/recruteur.lesjeudis.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "FR",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "Les Jeudis is a French tech recruitment platform for employers like ESNs, software publishers, and agencies.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/recruteur.lesjeudis.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

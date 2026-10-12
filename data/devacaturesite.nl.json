@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "devacaturesite.nl",
+  "name": "devacaturesite.nl",
+  "website": "https://devacaturesite.nl/",
+  "profile": "https://jobsitedir.com/jobboard/devacaturesite.nl?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "NL",
+  "primary_industry": null,
+  "description": "A Dutch job search engine that aggregates listings from multiple boards including Indeed, SimplyHired, and CareerJet, letting you search by keyword and location from one place.",
+  "logo": {
+    "path": "../assets/logos/devacaturesite.nl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/devacaturesite.nl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

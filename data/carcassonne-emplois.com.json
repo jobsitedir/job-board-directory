@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "carcassonne-emplois.com",
+  "name": "Carcassonne Emplois",
+  "website": "https://carcassonne-emplois.com/",
+  "profile": "https://jobsitedir.com/jobboard/carcassonne-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": null,
+  "description": "Carcassonne-emplois.com lists 1228 job offers in Carcassonne, France, for local job seekers.",
+  "logo": {
+    "path": "../assets/logos/carcassonne-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/carcassonne-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

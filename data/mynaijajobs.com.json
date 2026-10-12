@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "mynaijajobs.com",
+  "name": "MyNaijaJobs",
+  "website": "https://mynaijajobs.com/",
+  "profile": "https://jobsitedir.com/jobboard/mynaijajobs.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "NG",
+  "primary_industry": null,
+  "description": "MyNaijaJobs.com lists jobs across Nigerian states like Lagos, Abuja, and Kano, with filtering by keyword, location, remote option, and category.",
+  "logo": {
+    "path": "../assets/logos/mynaijajobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/mynaijajobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

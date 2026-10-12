@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "morgan.jobs",
+  "name": "Morgan",
+  "website": "https://morgan.jobs/",
+  "profile": "https://jobsitedir.com/jobboard/morgan.jobs?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "FR",
+  "primary_industry": "Blue Collar & Trades",
+  "description": "Morgan is an AI-powered staffing platform for temporary, interim, and permanent jobs in France, with a mobile app for workers and a unified dashboard for employers.",
+  "logo": {
+    "path": "../assets/logos/morgan.jobs.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/morgan.jobs.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

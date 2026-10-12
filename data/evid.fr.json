@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "evid.fr",
+  "name": "Evid",
+  "website": "https://evid.fr/",
+  "profile": "https://jobsitedir.com/jobboard/evid.fr?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "FR",
+  "primary_industry": "Sales & Business Development",
+  "description": "Evid is a free recruitment platform for sales professionals, where candidates create masked profiles and only reveal their identity when they choose.",
+  "logo": {
+    "path": "../assets/logos/evid.fr.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/evid.fr.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

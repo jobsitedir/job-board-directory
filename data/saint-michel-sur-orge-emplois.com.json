@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "saint-michel-sur-orge-emplois.com",
+  "name": "Saint-Michel-sur-Orge Emplois",
+  "website": "https://saint-michel-sur-orge-emplois.com/",
+  "profile": "https://jobsitedir.com/jobboard/saint-michel-sur-orge-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": "Education",
+  "description": "A local job board listing 442 offers in Saint-Michel-sur-Orge (Essonne, 91), with domain-based browsing and email alerts.",
+  "logo": {
+    "path": "../assets/logos/saint-michel-sur-orge-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/saint-michel-sur-orge-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "sozialjobs.de",
+  "name": "Sozialjobs.de",
+  "website": "https://sozialjobs.de/",
+  "profile": "https://jobsitedir.com/jobboard/sozialjobs.de?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "DE",
+  "primary_industry": "Healthcare",
+  "description": "Sozialjobs.de is a German job board for social, medical, health, and nursing roles, operated by Carmen Bremen from Cologne as part of the CareLounge community.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/sozialjobs.de.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

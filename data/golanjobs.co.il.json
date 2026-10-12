@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "golanjobs.co.il",
+  "name": "מרכז תעסוקה גולן",
+  "website": "https://golanjobs.co.il/",
+  "profile": "https://jobsitedir.com/jobboard/golanjobs.co.il?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "IL",
+  "primary_industry": "Government",
+  "description": "GolanJobs is a regional job site for the Golan area, operated by the Golan Employment Center.",
+  "logo": {
+    "path": "../assets/logos/golanjobs.co.il.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/golanjobs.co.il.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "jobson.elevateprimesolutions.com",
+  "name": "JobsOn",
+  "website": "https://jobson.elevateprimesolutions.com/",
+  "profile": "https://jobsitedir.com/jobboard/jobson.elevateprimesolutions.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "IN",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "JobsOn is a job portal for job seekers and employers, offering search filters by location, industry, salary, and work mode, including remote opportunities.",
+  "logo": {
+    "path": "../assets/logos/jobson.elevateprimesolutions.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/jobson.elevateprimesolutions.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "designerjobb.se",
+  "name": "designerjobb.se",
+  "website": "https://designerjobb.se/",
+  "profile": "https://jobsitedir.com/jobboard/designerjobb.se?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "SE",
+  "primary_industry": "Design",
+  "description": "Designerjobb.se lists 449 design jobs in Sweden and is a sub-site of Ledigajobb.se, with an option to install it as a home-screen app.",
+  "logo": {
+    "path": "../assets/logos/designerjobb.se.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/designerjobb.se.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

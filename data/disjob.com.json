@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "disjob.com",
+  "name": "disJob",
+  "website": "https://disjob.com/",
+  "profile": "https://jobsitedir.com/jobboard/disjob.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "ES",
+  "primary_industry": null,
+  "description": "Disjob.com is a Spanish job portal for people with disabilities, operated by Grupo Femxa and other entities, offering province-based filtering and profiles from low…",
+  "logo": {
+    "path": "../assets/logos/disjob.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/disjob.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

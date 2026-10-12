@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "jobs.myomek.com",
+  "name": "Omek Jobs",
+  "website": "https://jobs.myomek.com/",
+  "profile": "https://jobsitedir.com/jobboard/jobs.myomek.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "NL",
+  "primary_industry": null,
+  "description": "MyOmeK is a job platform for tech, IT, and operations professionals, featuring in-person networking events and recurring online drop-in sessions.",
+  "logo": {
+    "path": "../assets/logos/jobs.myomek.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/jobs.myomek.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

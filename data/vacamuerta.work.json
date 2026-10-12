@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "vacamuerta.work",
+  "name": "vacamuerta.work",
+  "website": "https://vacamuerta.work/",
+  "profile": "https://jobsitedir.com/jobboard/vacamuerta.work?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "AR",
+  "primary_industry": "Energy & Utilities",
+  "description": "Vacamuerta.work is a free job platform for candidates focused on technical roles in Argentina's Vaca Muerta and Neuquén region, featuring AI matching and salary references.",
+  "logo": {
+    "path": "../assets/logos/vacamuerta.work.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/vacamuerta.work.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

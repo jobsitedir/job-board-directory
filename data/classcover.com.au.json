@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "classcover.com.au",
+  "name": "ClassCover",
+  "website": "https://classcover.com.au/",
+  "profile": "https://jobsitedir.com/jobboard/classcover.com.au?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "AU",
+  "primary_industry": "Education",
+  "description": "ClassCover is a platform for schools and teachers in Australia and Ireland, offering casual bookings and job postings for full-time, part-time, and contract roles.",
+  "logo": {
+    "path": "../assets/logos/classcover.com.au.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/classcover.com.au.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

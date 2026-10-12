@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "pracbaza.pl",
+  "name": "PracBaza",
+  "website": "https://pracbaza.pl/",
+  "profile": "https://jobsitedir.com/jobboard/pracbaza.pl?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "PL",
+  "primary_industry": "Technical",
+  "description": "PracBaza is a Polish recruitment agency for ERP/IT professionals, founded in 2018, offering anonymous job searching and salary-visible listings.",
+  "logo": {
+    "path": "../assets/logos/pracbaza.pl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/pracbaza.pl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

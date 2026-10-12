@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "jobinbtp.fr",
+  "name": "jobinbtp",
+  "website": "https://jobinbtp.fr/",
+  "profile": "https://jobsitedir.com/jobboard/jobinbtp.fr?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "FR",
+  "primary_industry": "Construction",
+  "description": "JobInBTP is a French job board focused on construction (BTP) roles, listing 7,575 offers and 72 recruiting companies at the time of snapshot.",
+  "logo": {
+    "path": "../assets/logos/jobinbtp.fr.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/jobinbtp.fr.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

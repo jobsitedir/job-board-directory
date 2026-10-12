@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "it.euspert.com",
+  "name": "Euspert",
+  "website": "https://it.euspert.com/",
+  "profile": "https://jobsitedir.com/jobboard/it.euspert.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "IT",
+  "primary_industry": null,
+  "description": "Euspert is an Italian job board listing over 132,718 ads, offering 30-day postings with optional renewal and CV database filtering by location, degree, experience, and job…",
+  "logo": {
+    "path": "../assets/logos/it.euspert.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/it.euspert.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

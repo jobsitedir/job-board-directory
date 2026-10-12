@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "ni.hayempleo.com",
+  "name": "Hayempleo.com",
+  "website": "https://ni.hayempleo.com/",
+  "profile": "https://jobsitedir.com/jobboard/ni.hayempleo.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "NI",
+  "primary_industry": null,
+  "description": "Hayempleo Nicaragua is a free job platform for employers to post vacancies in Nicaragua.",
+  "logo": {
+    "path": "../assets/logos/ni.hayempleo.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/ni.hayempleo.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

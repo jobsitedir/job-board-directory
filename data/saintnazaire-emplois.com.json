@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "saintnazaire-emplois.com",
+  "name": "Saint-Nazaire Emplois",
+  "website": "https://saintnazaire-emplois.com/",
+  "profile": "https://jobsitedir.com/jobboard/saintnazaire-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": null,
+  "description": "SaintNazaire-Emplois.com is a job board focused on Saint-Nazaire, France, listing 4,553 offers and allowing users to create email alerts for personalized job updates.",
+  "logo": {
+    "path": "../assets/logos/saintnazaire-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/saintnazaire-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

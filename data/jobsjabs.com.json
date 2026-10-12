@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "jobsjabs.com",
+  "name": "JobsJabs",
+  "website": "https://jobsjabs.com/",
+  "profile": "https://jobsitedir.com/jobboard/jobsjabs.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "IN",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "JobsJabs is a job portal for India featuring verified jobs from top companies, with filters for experience, salary, and job type.",
+  "logo": {
+    "path": "../assets/logos/jobsjabs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/jobsjabs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

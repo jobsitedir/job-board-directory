@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "iprogrammatori.it",
+  "name": "iProgrammatori",
+  "website": "https://iprogrammatori.it/",
+  "profile": "https://jobsitedir.com/jobboard/iprogrammatori.it?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "IT",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "iProgrammatori is an Italian community for developers and IT companies, offering job listings, a programming forum, and skill improvement resources.",
+  "logo": {
+    "path": "../assets/logos/iprogrammatori.it.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/iprogrammatori.it.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "eslbase.com",
+  "name": "Eslbase",
+  "website": "https://eslbase.com/",
+  "profile": "https://jobsitedir.com/jobboard/eslbase.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": null,
+  "primary_industry": "Education",
+  "description": "Eslbase is a TEFL job board based in Bristol, UK, listing English teaching positions worldwide and online since 2005.",
+  "logo": {
+    "path": "../assets/logos/eslbase.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/eslbase.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

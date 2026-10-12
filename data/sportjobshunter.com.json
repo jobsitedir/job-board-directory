@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "sportjobshunter.com",
+  "name": "Sport Jobs Hunter",
+  "website": "https://sportjobshunter.com/",
+  "profile": "https://jobsitedir.com/jobboard/sportjobshunter.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "FR",
+  "primary_industry": "Sports & Recreation",
+  "description": "Sportjobshunter.com lists sports-related jobs in France, offering contract types such as CDI, CDD, Freelance, and Stage.",
+  "logo": {
+    "path": "../assets/logos/sportjobshunter.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/sportjobshunter.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

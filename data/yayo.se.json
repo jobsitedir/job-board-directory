@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "yayo.se",
+  "name": "Yayo.se",
+  "website": "https://yayo.se/",
+  "profile": "https://jobsitedir.com/jobboard/yayo.se?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "SE",
+  "primary_industry": null,
+  "description": "Yayo.se is a free job search platform covering all of Sweden, where job seekers can filter by county, municipality, and occupation, and create CVs and cover letters using…",
+  "logo": {
+    "path": "../assets/logos/yayo.se.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/yayo.se.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "dpjobs.space",
+  "name": "DP Jobs",
+  "website": "https://dpjobs.space/",
+  "profile": "https://jobsitedir.com/jobboard/dpjobs.space?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": null,
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "DP Jobs is a free job board focused on remote, education, and international careers across 50+ countries, sending users directly to official employer sites to apply.",
+  "logo": {
+    "path": "../assets/logos/dpjobs.space.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/dpjobs.space.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

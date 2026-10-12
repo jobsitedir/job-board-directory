@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "vadempleo.disjob.com",
+  "name": "vadEmpleo",
+  "website": "https://vadempleo.disjob.com/",
+  "profile": "https://jobsitedir.com/jobboard/vadempleo.disjob.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "ES",
+  "primary_industry": "Specialty - Other",
+  "description": "VadEmpleo is a Spanish job platform for companies and social entities to find candidates with disabilities, covering all provinces and offering remote work filters.",
+  "logo": {
+    "path": "../assets/logos/vadempleo.disjob.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/vadempleo.disjob.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

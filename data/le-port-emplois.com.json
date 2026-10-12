@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "le-port-emplois.com",
+  "name": "Le Port Emplois",
+  "website": "https://le-port-emplois.com/",
+  "profile": "https://jobsitedir.com/jobboard/le-port-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": "Logistics & Warehouse",
+  "description": "Le-Port-Emplois.com lists 1,113 job offers in Le Port, France, with email alerts and browsing by professional domain.",
+  "logo": {
+    "path": "../assets/logos/le-port-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/le-port-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

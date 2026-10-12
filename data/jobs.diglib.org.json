@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "jobs.diglib.org",
+  "name": "CLIR+DLF Job Board",
+  "website": "https://jobs.diglib.org/",
+  "profile": "https://jobsitedir.com/jobboard/jobs.diglib.org?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "US",
+  "primary_industry": "Education",
+  "description": "The CLIR and DLF Job Board serves libraries, archives, cultural institutions, and higher education with paid positions only, offering advanced search filters and 60-day…",
+  "logo": {
+    "path": "../assets/logos/jobs.diglib.org.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/jobs.diglib.org.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

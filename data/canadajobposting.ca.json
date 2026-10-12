@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "canadajobposting.ca",
+  "name": "Canada Job Posting",
+  "website": "https://canadajobposting.ca/",
+  "profile": "https://jobsitedir.com/jobboard/canadajobposting.ca?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "CA",
+  "primary_industry": "Blue Collar & Trades",
+  "description": "CanadaJobPosting is a job board for Canadian employers and job seekers, listing 171 open roles with features like map view, wage details, and employer-reviewed accounts.",
+  "logo": {
+    "path": "../assets/logos/canadajobposting.ca.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/canadajobposting.ca.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

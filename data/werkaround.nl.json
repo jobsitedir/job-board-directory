@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "werkaround.nl",
+  "name": "WerkAround",
+  "website": "https://werkaround.nl/",
+  "profile": "https://jobsitedir.com/jobboard/werkaround.nl?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "NL",
+  "primary_industry": "Education",
+  "description": "WerkAround is a job platform for student jobs across sixteen cities in the Netherlands, with filters by city, category, and language.",
+  "logo": {
+    "path": "../assets/logos/werkaround.nl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/werkaround.nl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

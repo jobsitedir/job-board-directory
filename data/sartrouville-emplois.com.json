@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "sartrouville-emplois.com",
+  "name": "Sartrouville Emplois",
+  "website": "https://sartrouville-emplois.com/",
+  "profile": "https://jobsitedir.com/jobboard/sartrouville-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": "Education",
+  "description": "Sartrouville-Emplois lists 936 job offers in Sartrouville and lets users create personalized email alerts that can be deleted at any time.",
+  "logo": {
+    "path": "../assets/logos/sartrouville-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/sartrouville-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

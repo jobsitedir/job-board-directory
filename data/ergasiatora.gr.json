@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "ergasiatora.gr",
+  "name": "Ergasiatora.gr",
+  "website": "https://ergasiatora.gr/",
+  "profile": "https://jobsitedir.com/jobboard/ergasiatora.gr?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "GR",
+  "primary_industry": null,
+  "description": "ErgasiaTora.gr is a Greek job website that posts ads on its own platform, social media (1,100,000+ members), and MSN via a partner network, with the team handling full ad…",
+  "logo": {
+    "path": "../assets/logos/ergasiatora.gr.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/ergasiatora.gr.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

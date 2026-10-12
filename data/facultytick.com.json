@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "facultytick.com",
+  "name": "Faculty Tick",
+  "website": "https://facultytick.com/",
+  "profile": "https://jobsitedir.com/jobboard/facultytick.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "IN",
+  "primary_industry": "Education",
+  "description": "Faculty Tick is an academic career portal and job search engine for faculty recruitment in India, with listings categorized by discipline such as Engineering, Medical, Law, and…",
+  "logo": {
+    "path": "../assets/logos/facultytick.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/facultytick.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

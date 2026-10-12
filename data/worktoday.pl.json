@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "worktoday.pl",
+  "name": "WorkToday.pl",
+  "website": "https://worktoday.pl/",
+  "profile": "https://jobsitedir.com/jobboard/worktoday.pl?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "PL",
+  "primary_industry": "Blue Collar & Trades",
+  "description": "WorkToday.pl is a job search engine for verified offers abroad, mainly in the Netherlands, Germany, Belgium, and Denmark, with a 30-second application process that requires no…",
+  "logo": {
+    "path": "../assets/logos/worktoday.pl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/worktoday.pl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

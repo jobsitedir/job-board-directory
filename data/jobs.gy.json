@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "jobs.gy",
+  "name": "Jobs.gy",
+  "website": "https://jobs.gy/",
+  "profile": "https://jobsitedir.com/jobboard/jobs.gy?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "GY",
+  "primary_industry": "Energy & Utilities",
+  "description": "Jobs.gy is a Guyana- and Caribbean-focused job platform where employers post vacancies and job seekers upload resumes and search for jobs.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/jobs.gy.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

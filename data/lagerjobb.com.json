@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "lagerjobb.com",
+  "name": "Lagerjobb.com",
+  "website": "https://lagerjobb.com/",
+  "profile": "https://jobsitedir.com/jobboard/lagerjobb.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "SE",
+  "primary_industry": "Supply Chain",
+  "description": "Lagerjobb.com is a niche Swedish job site for warehouse, truck driver, and logistics positions, listing over 1,100 active jobs across 248 locations.",
+  "logo": {
+    "path": "../assets/logos/lagerjobb.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/lagerjobb.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

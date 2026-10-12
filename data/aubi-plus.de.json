@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "aubi-plus.de",
+  "name": "AUBI-plus",
+  "website": "https://aubi-plus.de/",
+  "profile": "https://jobsitedir.com/jobboard/aubi-plus.de?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "DE",
+  "primary_industry": "Education",
+  "description": "AUBI-plus is a German job platform focused on vocational training (Ausbildung) and dual study programs (Duales Studium).",
+  "logo": {
+    "path": "../assets/logos/aubi-plus.de.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/aubi-plus.de.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

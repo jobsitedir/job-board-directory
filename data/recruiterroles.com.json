@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "recruiterroles.com",
+  "name": "Recruiter Roles",
+  "website": "https://recruiterroles.com/",
+  "profile": "https://jobsitedir.com/jobboard/recruiterroles.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "US",
+  "primary_industry": null,
+  "description": "Recruiter Roles is a job board built for recruiters and talent acquisition professionals, listing remote, hybrid, and in-office openings across industries like Technology,…",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/recruiterroles.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

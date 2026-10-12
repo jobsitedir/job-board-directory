@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "empleo.camaravalencia.com",
+  "name": "Cámara Valencia Empleo",
+  "website": "https://empleo.camaravalencia.com/",
+  "profile": "https://jobsitedir.com/jobboard/empleo.camaravalencia.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "ES",
+  "primary_industry": null,
+  "description": "Empleo Camara Valencia is a job portal for candidates in the Valencia region, offering CV and video CV creation tools and skill assessments.",
+  "logo": {
+    "path": "../assets/logos/empleo.camaravalencia.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/empleo.camaravalencia.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "jobs.charityjobsni.com",
+  "name": "Charity Jobs NI",
+  "website": "https://jobs.charityjobsni.com/",
+  "profile": "https://jobsitedir.com/jobboard/jobs.charityjobsni.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "GB",
+  "primary_industry": "Non-Profit",
+  "description": "CharityJobsNI.com connects Northern Ireland-based charities with job seekers and volunteers, offering job alerts and profile creation.",
+  "logo": {
+    "path": "../assets/logos/jobs.charityjobsni.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/jobs.charityjobsni.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

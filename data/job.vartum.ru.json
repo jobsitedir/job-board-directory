@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "job.vartum.ru",
+  "name": "Работа на дому",
+  "website": "https://job.vartum.ru/",
+  "profile": "https://jobsitedir.com/jobboard/job.vartum.ru?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "RU",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": null,
+  "logo": {
+    "path": "../assets/logos/job.vartum.ru.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/job.vartum.ru.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "jobsadelaidecity.com.au",
+  "name": "Adelaide Jobs Board",
+  "website": "https://jobsadelaidecity.com.au/",
+  "profile": "https://jobsitedir.com/jobboard/jobsadelaidecity.com.au?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "AU",
+  "primary_industry": null,
+  "description": "Jobs Adelaide City is a local job board for Adelaide, Australia, offering standard and featured listings with Facebook promotion and 30-day durations.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/jobsadelaidecity.com.au.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

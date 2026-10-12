@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "pozp.cz",
+  "name": "POZP.cz",
+  "website": "https://pozp.cz/",
+  "profile": "https://jobsitedir.com/jobboard/pozp.cz?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "CZ",
+  "primary_industry": "Non-Profit",
+  "description": "POZP is a Czech job portal exclusively for people with disabilities and the companies that employ them, offering free basic functions for both sides.",
+  "logo": {
+    "path": "../assets/logos/pozp.cz.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/pozp.cz.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

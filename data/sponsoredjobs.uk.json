@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "sponsoredjobs.uk",
+  "name": "Sponsored Jobs UK",
+  "website": "https://sponsoredjobs.uk/",
+  "profile": "https://jobsitedir.com/jobboard/sponsoredjobs.uk?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "GB",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "Sponsored Jobs UK lists employers in the United Kingdom licensed to sponsor work visas, aggregating data from the official Home Office register with updates typically within 24…",
+  "logo": {
+    "path": "../assets/logos/sponsoredjobs.uk.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/sponsoredjobs.uk.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "servicejobb.se",
+  "name": "Servicejobb.se",
+  "website": "https://servicejobb.se/",
+  "profile": "https://jobsitedir.com/jobboard/servicejobb.se?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "SE",
+  "primary_industry": "Hospitality & Travel",
+  "description": "Servicejobb.se aggregates service job listings in Sweden, offering a broad range from full-time to part-time roles, updated continuously.",
+  "logo": {
+    "path": "../assets/logos/servicejobb.se.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/servicejobb.se.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

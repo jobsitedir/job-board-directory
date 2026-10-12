@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "ictjobs.et",
+  "name": "ICT Jobs Ethiopia",
+  "website": "https://ictjobs.et/",
+  "profile": "https://jobsitedir.com/jobboard/ictjobs.et?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "ET",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "ICT Jobs Ethiopia is a free discovery service listing technology and non-profit vacancies across Ethiopia, including Addis Ababa and regional cities, with manual employer…",
+  "logo": {
+    "path": "../assets/logos/ictjobs.et.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/ictjobs.et.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

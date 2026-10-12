@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "mytopjob.de",
+  "name": "Mytopjob.de",
+  "website": "https://mytopjob.de/",
+  "profile": "https://jobsitedir.com/jobboard/mytopjob.de?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "DE",
+  "primary_industry": "Hospitality & Travel",
+  "description": "mytopjob.de is a German career portal for professionals and executives in gastronomy, foodservice, hospitality, and culinary arts, exclusively listing jobs from Institute of…",
+  "logo": {
+    "path": "../assets/logos/mytopjob.de.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/mytopjob.de.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "datacenterjobmarket.com",
+  "name": "Data Center Job Market",
+  "website": "https://datacenterjobmarket.com/",
+  "profile": "https://jobsitedir.com/jobboard/datacenterjobmarket.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "US",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "Data Center Job Market is a career platform focused exclusively on the data center industry, covering roles from site selection and construction to facility operations and…",
+  "logo": {
+    "path": "../assets/logos/datacenterjobmarket.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/datacenterjobmarket.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

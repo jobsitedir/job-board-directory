@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "xyntara.in",
+  "name": "Xyntara",
+  "website": "https://xyntara.in/",
+  "profile": "https://jobsitedir.com/jobboard/xyntara.in?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "IN",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "Xyntara is an Indian job portal and recruitment platform offering free AI-powered resume tools, ATS scoring, and interview feedback for job seekers.",
+  "logo": {
+    "path": "../assets/logos/xyntara.in.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/xyntara.in.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

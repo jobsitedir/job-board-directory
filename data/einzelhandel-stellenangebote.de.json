@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "einzelhandel-stellenangebote.de",
+  "name": "Einzelhandel Stellenangebote",
+  "website": "https://einzelhandel-stellenangebote.de/",
+  "profile": "https://jobsitedir.com/jobboard/einzelhandel-stellenangebote.de?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "DE",
+  "primary_industry": "Retail",
+  "description": "A specialized German job board for retail professionals, managers, and career changers, listing 25 current offers across 24 cities with free search and application.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/einzelhandel-stellenangebote.de.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

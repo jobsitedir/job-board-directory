@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "ziadakamao.com",
+  "name": "ZiadaKamao",
+  "website": "https://ziadakamao.com/",
+  "profile": "https://jobsitedir.com/jobboard/ziadakamao.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "PK",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "Pakistan-focused AI-powered platform combining income streams, career growth plans, and a sealed-bid marketplace for freelancers and employers.",
+  "logo": {
+    "path": "../assets/logos/ziadakamao.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/ziadakamao.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

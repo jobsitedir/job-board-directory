@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "seekfitjob.com",
+  "name": "SeekFitJob",
+  "website": "https://seekfitjob.com/",
+  "profile": "https://jobsitedir.com/jobboard/seekfitjob.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "KH",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "SeekFitJob is a Cambodian job website where job seekers can create profiles and apply via Telegram or email, and employers use an AI-powered platform to post jobs, screen…",
+  "logo": {
+    "path": "../assets/logos/seekfitjob.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/seekfitjob.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

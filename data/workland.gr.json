@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "workland.gr",
+  "name": "Workland",
+  "website": "https://workland.gr/",
+  "profile": "https://jobsitedir.com/jobboard/workland.gr?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "GR",
+  "primary_industry": "Hospitality & Travel",
+  "description": "Workland is a Greek recruitment agency listing jobs in hospitality, services, and industry, primarily in the Peloponnese Region and Attica.",
+  "logo": {
+    "path": "../assets/logos/workland.gr.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/workland.gr.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

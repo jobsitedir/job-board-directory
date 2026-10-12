@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "payrightjobs.com",
+  "name": "PayRight Ghana",
+  "website": "https://payrightjobs.com/",
+  "profile": "https://jobsitedir.com/jobboard/payrightjobs.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "GH",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "PayRight Ghana is a job board that requires every listing to show a salary range based on market data, with jobs tagged as 'Fair Pay' or 'Below Market'.",
+  "logo": {
+    "path": "../assets/logos/payrightjobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/payrightjobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

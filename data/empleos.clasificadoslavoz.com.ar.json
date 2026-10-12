@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "empleos.clasificadoslavoz.com.ar",
+  "name": "Clasificados La Voz - Empleos",
+  "website": "https://empleos.clasificadoslavoz.com.ar/",
+  "profile": "https://jobsitedir.com/jobboard/empleos.clasificadoslavoz.com.ar?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "AR",
+  "primary_industry": null,
+  "description": "Empleos Clasificados La Voz is a job board for the Córdoba region of Argentina, part of the Clasificados La Voz network linked to the newspaper La Voz.",
+  "logo": {
+    "path": "../assets/logos/empleos.clasificadoslavoz.com.ar.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/empleos.clasificadoslavoz.com.ar.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

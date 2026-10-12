@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "doprace.cz",
+  "name": "Do práce",
+  "website": "https://doprace.cz/",
+  "profile": "https://jobsitedir.com/jobboard/doprace.cz?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "CZ",
+  "primary_industry": null,
+  "description": "DoPráce.cz lists jobs across the Czech Republic, letting you search by city, salary, education level, and keyword.",
+  "logo": {
+    "path": "../assets/logos/doprace.cz.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/doprace.cz.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

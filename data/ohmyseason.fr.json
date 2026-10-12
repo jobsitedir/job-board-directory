@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "ohmyseason.fr",
+  "name": "Ohmyseason",
+  "website": "https://ohmyseason.fr/",
+  "profile": "https://jobsitedir.com/jobboard/ohmyseason.fr?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "FR",
+  "primary_industry": "Hospitality & Travel",
+  "description": "Ohmyseason is a French job platform for seasonal hospitality work, offering a map-based search and salary visibility for roles in cuisine, service, reception, animation, and…",
+  "logo": {
+    "path": "../assets/logos/ohmyseason.fr.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/ohmyseason.fr.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

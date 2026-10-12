@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "fr.engineering.jobs",
+  "name": "Engineering.jobs",
+  "website": "https://fr.engineering.jobs/",
+  "profile": "https://jobsitedir.com/jobboard/fr.engineering.jobs?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "FR",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "Engineering.jobs is a specialized job site for engineering, IT, and technical roles in France, offering access to a CV database of over 100,000 profiles.",
+  "logo": {
+    "path": "../assets/logos/fr.engineering.jobs.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/fr.engineering.jobs.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

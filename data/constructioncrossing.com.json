@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "constructioncrossing.com",
+  "name": "ConstructionCrossing.com",
+  "website": "https://constructioncrossing.com/",
+  "profile": "https://jobsitedir.com/jobboard/constructioncrossing.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "US",
+  "primary_industry": "Construction",
+  "description": "ConstructionCrossing is a private job site for construction engineers and associates, using over 100 researchers to find jobs not widely advertised.",
+  "logo": {
+    "path": "../assets/logos/constructioncrossing.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/constructioncrossing.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

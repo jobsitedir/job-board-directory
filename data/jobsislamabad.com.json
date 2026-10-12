@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "jobsislamabad.com",
+  "name": "JobsIslamabad",
+  "website": "https://jobsislamabad.com/",
+  "profile": "https://jobsitedir.com/jobboard/jobsislamabad.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "PK",
+  "primary_industry": null,
+  "description": "JobsIslamabad is a free job discovery platform listing genuine vacancies and internships from employers hiring in Islamabad and Rawalpindi, with permanent pages showing the…",
+  "logo": {
+    "path": "../assets/logos/jobsislamabad.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/jobsislamabad.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

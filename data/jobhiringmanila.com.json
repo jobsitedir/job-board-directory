@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "jobhiringmanila.com",
+  "name": "JOB MANILA",
+  "website": "https://jobhiringmanila.com/",
+  "profile": "https://jobsitedir.com/jobboard/jobhiringmanila.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "PH",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "JobHiringManila is a free job platform for seekers in the Philippines, focusing on Metro Manila, Cebu, and Davao, with AI-powered matching and salary data.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/jobhiringmanila.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

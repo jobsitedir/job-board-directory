@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "statjobb-nord.lovable.app",
+  "name": "Statjobb",
+  "website": "https://statjobb-nord.lovable.app/",
+  "profile": "https://jobsitedir.com/jobboard/statjobb-nord.lovable.app?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "NO",
+  "primary_industry": "Government",
+  "description": "Statjobb is a specialized job portal for the Norwegian public sector, aggregating daily-updated listings from municipalities, state agencies, universities, and health trusts.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/statjobb-nord.lovable.app.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

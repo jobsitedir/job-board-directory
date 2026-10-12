@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "healthcarejobs.ie",
+  "name": "Healthcarejobs.ie",
+  "website": "https://healthcarejobs.ie/",
+  "profile": "https://jobsitedir.com/jobboard/healthcarejobs.ie?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "IE",
+  "primary_industry": "Healthcare",
+  "description": "Healthcarejobs.ie is a specialist job board for health and social care professionals in Ireland, listing roles from employers such as the HSE, care homes, and charities.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/healthcarejobs.ie.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

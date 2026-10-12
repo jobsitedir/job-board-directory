@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "jobs.rubyonrails.org",
+  "name": "Rails Job Board",
+  "website": "https://jobs.rubyonrails.org/",
+  "profile": "https://jobsitedir.com/jobboard/jobs.rubyonrails.org?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "US",
+  "primary_industry": "Technical>Software Dev/Programming",
+  "description": "Rails Job Board is a paid job board for Ruby on Rails roles, offering Basic ($199/45 days) and Featured ($299/60 days, highlighted) postings.",
+  "logo": {
+    "path": "../assets/logos/jobs.rubyonrails.org.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/jobs.rubyonrails.org.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

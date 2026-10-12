@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "zz.nl",
+  "name": "ZZ.nl",
+  "website": "https://zz.nl/",
+  "profile": "https://jobsitedir.com/jobboard/zz.nl?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "NL",
+  "primary_industry": "Healthcare",
+  "description": "ZZ.nl is a job site for healthcare and welfare roles in the Dutch province of Zeeland, offering job alerts and direct application buttons.",
+  "logo": {
+    "path": "../assets/logos/zz.nl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/zz.nl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

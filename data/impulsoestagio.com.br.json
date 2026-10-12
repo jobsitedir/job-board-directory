@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "impulsoestagio.com.br",
+  "name": "Impulso Estágio",
+  "website": "https://impulsoestagio.com.br/",
+  "profile": "https://jobsitedir.com/jobboard/impulsoestagio.com.br?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "BR",
+  "primary_industry": "Education",
+  "description": "Impulso Estágio is a Brazilian job platform focused on internships and young apprentice positions for beginners, with a quick profile setup and one-click applications.",
+  "logo": {
+    "path": "../assets/logos/impulsoestagio.com.br.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/impulsoestagio.com.br.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

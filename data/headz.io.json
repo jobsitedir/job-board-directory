@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "headz.io",
+  "name": "Headz",
+  "website": "https://headz.io/",
+  "profile": "https://jobsitedir.com/jobboard/headz.io?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "RU",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "Headz is an AI-powered IT talent matching platform where employers review pre-moderated candidates using a Tinder-like interface.",
+  "logo": {
+    "path": "../assets/logos/headz.io.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/headz.io.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

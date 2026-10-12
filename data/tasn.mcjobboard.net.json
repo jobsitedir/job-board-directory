@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "tasn.mcjobboard.net",
+  "name": "Texas Association for School Nutrition Job Board",
+  "website": "https://tasn.mcjobboard.net/",
+  "profile": "https://jobsitedir.com/jobboard/tasn.mcjobboard.net?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "US",
+  "primary_industry": "Food & Beverage",
+  "description": "A job board operated by the Texas Association for School Nutrition, listing school nutrition jobs in Texas with application deadlines and email alerts.",
+  "logo": {
+    "path": "../assets/logos/tasn.mcjobboard.net.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/tasn.mcjobboard.net.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

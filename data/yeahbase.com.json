@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "yeahbase.com",
+  "name": "Yeahbase",
+  "website": "https://yeahbase.com/",
+  "profile": "https://jobsitedir.com/jobboard/yeahbase.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "DE",
+  "primary_industry": "Sales & Business Development",
+  "description": "Yeahbase is a job platform for sales professionals in Germany, Austria, and Switzerland, also covering nursing and skilled trades.",
+  "logo": {
+    "path": "../assets/logos/yeahbase.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/yeahbase.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

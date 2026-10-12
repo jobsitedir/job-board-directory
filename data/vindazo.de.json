@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "vindazo.de",
+  "name": "VINDAZO",
+  "website": "https://vindazo.de/",
+  "profile": "https://jobsitedir.com/jobboard/vindazo.de?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Generalist",
+  "primary_country": "DE",
+  "primary_industry": null,
+  "description": "Vindazo is a German-language job search engine that aggregates listings from multiple sources across Germany, allowing searches by title, keyword, region, or industry.",
+  "logo": {
+    "path": "../assets/logos/vindazo.de.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/vindazo.de.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

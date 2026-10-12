@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "manchesterjobconnect.com",
+  "name": "Manchester Job Connect",
+  "website": "https://manchesterjobconnect.com/",
+  "profile": "https://jobsitedir.com/jobboard/manchesterjobconnect.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "GB",
+  "primary_industry": null,
+  "description": "Manchester Job Connect is a free-to-use job platform for candidates in Greater Manchester, where every vacancy is posted directly by a verified employer and no roles are…",
+  "logo": {
+    "path": "../assets/logos/manchesterjobconnect.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/manchesterjobconnect.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

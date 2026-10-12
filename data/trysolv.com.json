@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "trysolv.com",
+  "name": "Appsolv Limited",
+  "website": "https://trysolv.com/",
+  "profile": "https://jobsitedir.com/jobboard/trysolv.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "NG",
+  "primary_industry": "Arts & Entertainment",
+  "description": "Solv is a Nigerian freelance platform for entertainment talent, offering identity verification, escrow payments, and mobile apps for Android and iPhone.",
+  "logo": {
+    "path": "../assets/logos/trysolv.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/trysolv.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

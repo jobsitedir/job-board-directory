@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "rwad.net",
+  "name": "رواد نت للوظائف",
+  "website": "https://rwad.net/",
+  "profile": "https://jobsitedir.com/jobboard/rwad.net?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "SA",
+  "primary_industry": "Government",
+  "description": "Rwad.net is a free job-posting site for Saudi nationals, listing roles by type (e.g., government, engineering) and city, with a specific policy for women's job ads.",
+  "logo": {
+    "path": "../assets/logos/rwad.net.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/rwad.net.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

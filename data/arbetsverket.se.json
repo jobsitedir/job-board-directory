@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "arbetsverket.se",
+  "name": "Arbetsverket",
+  "website": "https://arbetsverket.se/",
+  "profile": "https://jobsitedir.com/jobboard/arbetsverket.se?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "SE",
+  "primary_industry": null,
+  "description": "Arbetsverket lists 15,968 active job vacancies across Sweden and lets employers post their first ad for free.",
+  "logo": {
+    "path": "../assets/logos/arbetsverket.se.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/arbetsverket.se.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

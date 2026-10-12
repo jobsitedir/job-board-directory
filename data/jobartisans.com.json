@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "jobartisans.com",
+  "name": "Jobartisans.com",
+  "website": "https://jobartisans.com/",
+  "profile": "https://jobsitedir.com/jobboard/jobartisans.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "FR",
+  "primary_industry": "Blue Collar & Trades",
+  "description": "Jobartisans.com lists weekly job offers, currently showing 1,261 new positions for the current week.",
+  "logo": {
+    "path": "../assets/logos/jobartisans.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/jobartisans.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

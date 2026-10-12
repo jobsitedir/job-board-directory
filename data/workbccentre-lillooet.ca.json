@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "workbccentre-lillooet.ca",
+  "name": "WorkBC Centre Lillooet",
+  "website": "https://workbccentre-lillooet.ca/",
+  "profile": "https://jobsitedir.com/jobboard/workbccentre-lillooet.ca?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "CA",
+  "primary_industry": "Government",
+  "description": "WorkBC Centre Lillooet is a free, government-funded job centre in Lillooet, BC, offering employment counselling, skills training, and a Self Serve Resource Centre for job…",
+  "logo": {
+    "path": "../assets/logos/workbccentre-lillooet.ca.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/workbccentre-lillooet.ca.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

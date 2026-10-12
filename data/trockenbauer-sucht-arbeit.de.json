@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "trockenbauer-sucht-arbeit.de",
+  "name": "Trockenbauer sucht Arbeit",
+  "website": "https://trockenbauer-sucht-arbeit.de/",
+  "profile": "https://jobsitedir.com/jobboard/trockenbauer-sucht-arbeit.de?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "DE",
+  "primary_industry": "Construction",
+  "description": "A free job search engine for drywall construction (Trockenbauer) roles, aggregating listings from multiple partner boards across Germany, Austria, and Switzerland.",
+  "logo": {
+    "path": "../assets/logos/trockenbauer-sucht-arbeit.de.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/trockenbauer-sucht-arbeit.de.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

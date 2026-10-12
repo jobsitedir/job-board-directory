@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "workhai.com",
+  "name": "WorkHai",
+  "website": "https://workhai.com/",
+  "profile": "https://jobsitedir.com/jobboard/workhai.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "IN",
+  "primary_industry": "Blue Collar & Trades",
+  "description": "WorkHai is a job platform connecting job seekers and employers across India, offering search by role, location, experience, and category with mobile access.",
+  "logo": {
+    "path": "../assets/logos/workhai.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/workhai.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

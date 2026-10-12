@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "correctng.com",
+  "name": "CorrectNG",
+  "website": "https://correctng.com/",
+  "profile": "https://jobsitedir.com/jobboard/correctng.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "NG",
+  "primary_industry": null,
+  "description": "CorrectNG is a Nigerian hiring platform where employers can post unlimited jobs for free and job seekers can apply with one click, build a CV, and receive daily vacancy alerts.",
+  "logo": {
+    "path": "../assets/logos/correctng.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/correctng.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

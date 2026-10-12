@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "portalelavoro.com",
+  "name": "Portale Lavoro",
+  "website": "https://portalelavoro.com/",
+  "profile": "https://jobsitedir.com/jobboard/portalelavoro.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "IT",
+  "primary_industry": null,
+  "description": "Portalelavoro.com is a free Italian job board covering all 20 regions and provinces, with over 500 new ads daily across 20 categories.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/portalelavoro.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

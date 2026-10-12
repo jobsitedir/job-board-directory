@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "mediajobb.nu",
+  "name": "Mediajobb.nu",
+  "website": "https://mediajobb.nu/",
+  "profile": "https://jobsitedir.com/jobboard/mediajobb.nu?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "SE",
+  "primary_industry": "Arts & Entertainment",
+  "description": "Mediajobb.nu lists media jobs in Sweden, including roles like content producer and editor, with postings in Stockholm and Solna.",
+  "logo": {
+    "path": "../assets/logos/mediajobb.nu.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/mediajobb.nu.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "h2bjobboard.com",
+  "name": "H2B Job Board",
+  "website": "https://h2bjobboard.com/",
+  "profile": "https://jobsitedir.com/jobboard/h2bjobboard.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "US",
+  "primary_industry": "Hospitality & Travel",
+  "description": "The H2B Job Board helps American employers find seasonal staff via immigration programs like H2B, while welcoming worldwide applicants to browse and apply to jobs in Canada and…",
+  "logo": {
+    "path": "../assets/logos/h2bjobboard.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/h2bjobboard.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

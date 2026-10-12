@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "jobseager.com",
+  "name": "JobsEager",
+  "website": "https://jobseager.com/",
+  "profile": "https://jobsitedir.com/jobboard/jobseager.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "IN",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "Jobseager.com is a job listing website that lets you filter openings by experience level from Fresher to 30 Years, and shows required experience ranges like '0 Years-3 Years'.",
+  "logo": {
+    "path": "../assets/logos/jobseager.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/jobseager.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

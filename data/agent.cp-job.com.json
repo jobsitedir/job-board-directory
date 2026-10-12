@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "agent.cp-job.com",
+  "name": "株式会社キャリアプランニング 転職求人サイト",
+  "website": "https://agent.cp-job.com/",
+  "profile": "https://jobsitedir.com/jobboard/agent.cp-job.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "JP",
+  "primary_industry": "Manufacturing & Production",
+  "description": "CP Job is a Japanese job site listing openings with details like job type, employment type, salary, and location.",
+  "logo": {
+    "path": "../assets/logos/agent.cp-job.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/agent.cp-job.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "fungsi.id",
+  "name": "Fungsi.id",
+  "website": "https://fungsi.id/",
+  "profile": "https://jobsitedir.com/jobboard/fungsi.id?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "ID",
+  "primary_industry": null,
+  "description": "Fungsi.id is a free job listing platform for Indonesia, aggregating daily openings from 217 cities and marking closed positions automatically.",
+  "logo": {
+    "path": "../assets/logos/fungsi.id.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/fungsi.id.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

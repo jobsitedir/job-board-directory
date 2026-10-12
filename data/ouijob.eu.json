@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "ouijob.eu",
+  "name": "ObjectiFrance",
+  "website": "https://ouijob.eu/",
+  "profile": "https://jobsitedir.com/jobboard/ouijob.eu?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": null,
+  "description": "ObjectiFrance (formerly OuiJob) helps non-EU foreign workers find a job and obtain a visa for France, with free unlimited applications and a paid support plan.",
+  "logo": {
+    "path": "../assets/logos/ouijob.eu.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/ouijob.eu.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "vacatures-hoogezand.nl",
+  "name": "Vacatures Hoogezand",
+  "website": "https://vacatures-hoogezand.nl/",
+  "profile": "https://jobsitedir.com/jobboard/vacatures-hoogezand.nl?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "NL",
+  "primary_industry": null,
+  "description": "Vacatures-hoogezand.nl lists job vacancies specifically in Hoogezand, Netherlands, with a category filter to browse openings.",
+  "logo": {
+    "path": "../assets/logos/vacatures-hoogezand.nl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/vacatures-hoogezand.nl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "l-hay-les-roses-emplois.com",
+  "name": "L'Haÿ-les-Roses Emplois",
+  "website": "https://l-hay-les-roses-emplois.com/",
+  "profile": "https://jobsitedir.com/jobboard/l-hay-les-roses-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": null,
+  "description": "A local job board listing 780 offers in L'Haÿ-les-Roses and nearby towns, with email alerts and domain-based browsing.",
+  "logo": {
+    "path": "../assets/logos/l-hay-les-roses-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/l-hay-les-roses-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

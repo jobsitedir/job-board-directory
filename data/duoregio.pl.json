@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "duoregio.pl",
+  "name": "DuoRegio",
+  "website": "https://duoregio.pl/",
+  "profile": "https://jobsitedir.com/jobboard/duoregio.pl?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "PL",
+  "primary_industry": null,
+  "description": null,
+  "logo": {
+    "path": "../assets/logos/duoregio.pl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/duoregio.pl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

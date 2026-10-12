@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "rekrytointi.io",
+  "name": "Rekrytointi.io",
+  "website": "https://rekrytointi.io/",
+  "profile": "https://jobsitedir.com/jobboard/rekrytointi.io?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FI",
+  "primary_industry": null,
+  "description": "Rekrytointi.io is a free Finnish job aggregator that collects open and hidden job listings from across Finland under one roof.",
+  "logo": {
+    "path": "../assets/logos/rekrytointi.io.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/rekrytointi.io.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

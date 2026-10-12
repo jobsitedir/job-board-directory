@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "lagerjobb.nu",
+  "name": "lagerjobb.nu",
+  "website": "https://lagerjobb.nu/",
+  "profile": "https://jobsitedir.com/jobboard/lagerjobb.nu?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "SE",
+  "primary_industry": "Supply Chain",
+  "description": "Lagerjobb.nu lists over 3,000 warehouse jobs in Sweden, including roles like warehouse worker and forklift driver, with some positions allowing CV-free applications.",
+  "logo": {
+    "path": "../assets/logos/lagerjobb.nu.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/lagerjobb.nu.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

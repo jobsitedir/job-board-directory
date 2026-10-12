@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "baustellen.jobs",
+  "name": "BAUSTELLEN.JOBS",
+  "website": "https://baustellen.jobs/",
+  "profile": "https://jobsitedir.com/jobboard/baustellen.jobs?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "DE",
+  "primary_industry": "Construction",
+  "description": "Baustellen.jobs is a German-language job board focused on construction industry positions, listing over 6,500 companies as references.",
+  "logo": {
+    "path": "../assets/logos/baustellen.jobs.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/baustellen.jobs.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

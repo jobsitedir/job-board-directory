@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "remotejobsinhighered.com",
+  "name": "RemoteJobsInHigherEd.com",
+  "website": "https://remotejobsinhighered.com/",
+  "profile": "https://jobsitedir.com/jobboard/remotejobsinhighered.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "US",
+  "primary_industry": "Education",
+  "description": "RemoteJobsInHigherEd.com connects job seekers with remote positions from universities, colleges, and educational institutions worldwide, and has been used for recruiting since…",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/remotejobsinhighered.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

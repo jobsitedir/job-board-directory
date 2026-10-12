@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "vfxengine.com",
+  "name": "VFX Engine",
+  "website": "https://vfxengine.com/",
+  "profile": "https://jobsitedir.com/jobboard/vfxengine.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "MX",
+  "primary_industry": "Arts & Entertainment",
+  "description": "VFX Engine is a free job board and career hub for VFX and animation professionals, featuring studio-sourced jobs, demo reels, and a map view.",
+  "logo": {
+    "path": "../assets/logos/vfxengine.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/vfxengine.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "injobe.com",
+  "name": "Injobe",
+  "website": "https://injobe.com/",
+  "profile": "https://jobsitedir.com/jobboard/injobe.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "UA",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "Injobe is a job search website focused on remote and online vacancies, offering filtering by work mode and experience level.",
+  "logo": {
+    "path": "../assets/logos/injobe.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/injobe.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

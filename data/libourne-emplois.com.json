@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "libourne-emplois.com",
+  "name": "Libourne Emplois",
+  "website": "https://libourne-emplois.com/",
+  "profile": "https://jobsitedir.com/jobboard/libourne-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": null,
+  "description": "Libourne-emplois.com is a job board listing 818 offers in Libourne, France, with filters by professional domain and a job alert feature.",
+  "logo": {
+    "path": "../assets/logos/libourne-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/libourne-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

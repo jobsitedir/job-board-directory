@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "roanne-emplois.com",
+  "name": "Roanne Emplois",
+  "website": "https://roanne-emplois.com/",
+  "profile": "https://jobsitedir.com/jobboard/roanne-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": null,
+  "description": "Roanne-emplois.com lists 1,685 job offers in Roanne, France, searchable by professional domain and contract type, with email alerts for personalized updates.",
+  "logo": {
+    "path": "../assets/logos/roanne-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/roanne-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

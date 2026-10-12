@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "vagasparacartorios.com.br",
+  "name": "Vagas Para Cartórios",
+  "website": "https://vagasparacartorios.com.br/",
+  "profile": "https://jobsitedir.com/jobboard/vagasparacartorios.com.br?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "BR",
+  "primary_industry": "Legal",
+  "description": "Vagas para Cartórios is a Brazilian job platform exclusively for the notarial and registry sector, connecting notary offices with professionals.",
+  "logo": {
+    "path": "../assets/logos/vagasparacartorios.com.br.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/vagasparacartorios.com.br.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

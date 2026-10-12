@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "sada-jobs.com",
+  "name": "صدى الكفاءات",
+  "website": "https://sada-jobs.com/",
+  "profile": "https://jobsitedir.com/jobboard/sada-jobs.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "SA",
+  "primary_industry": null,
+  "description": "Sada Jobs is a Saudi digital platform licensed by the Ministry of Human Resources and Social Development, specializing in attracting and recruiting Saudi talents.",
+  "logo": {
+    "path": "../assets/logos/sada-jobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/sada-jobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

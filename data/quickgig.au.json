@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "quickgig.au",
+  "name": "QuickGig",
+  "website": "https://quickgig.au/",
+  "profile": "https://jobsitedir.com/jobboard/quickgig.au?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "AU",
+  "primary_industry": "Hospitality & Travel",
+  "description": "QuickGig is a shift marketplace connecting hospitality venues with pre-vetted casual workers across Australia and New Zealand, using AI to match workers to shifts based on…",
+  "logo": {
+    "path": "../assets/logos/quickgig.au.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/quickgig.au.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "glosjobs.co.uk",
+  "name": "Gloucestershire Jobs",
+  "website": "https://glosjobs.co.uk/",
+  "profile": "https://jobsitedir.com/jobboard/glosjobs.co.uk?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "GB",
+  "primary_industry": null,
+  "description": "GlosJobs is a Gloucestershire, UK job board operating since 2001, offering location-filtered listings and free advertising for voluntary roles.",
+  "logo": {
+    "path": "../assets/logos/glosjobs.co.uk.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/glosjobs.co.uk.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

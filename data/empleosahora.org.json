@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "empleosahora.org",
+  "name": "Empleos Ahora",
+  "website": "https://empleosahora.org/",
+  "profile": "https://jobsitedir.com/jobboard/empleosahora.org?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "US",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "EmpleosAhora is a job board covering 36 American countries, currently listing positions in the US, Mexico, and the Dominican Republic, with daily updates from reliable sources.",
+  "logo": {
+    "path": "../assets/logos/empleosahora.org.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/empleosahora.org.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

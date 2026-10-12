@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "employedindia.in",
+  "name": "Employed India",
+  "website": "https://employedindia.in/",
+  "profile": "https://jobsitedir.com/jobboard/employedindia.in?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "IN",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "Employed India is a free job platform for Indian job seekers and employers, offering verified listings across industries and locations from metros to tier-3 towns.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/employedindia.in.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

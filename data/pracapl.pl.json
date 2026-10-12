@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "pracapl.pl",
+  "name": "PracaPL",
+  "website": "https://pracapl.pl/",
+  "profile": "https://jobsitedir.com/jobboard/pracapl.pl?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "PL",
+  "primary_industry": null,
+  "description": "Praca.pl is a Polish job board listing openings in IT, Sales, Marketing, and more across major cities like Warsaw and Krakow, with a dedicated remote work category.",
+  "logo": {
+    "path": "../assets/logos/pracapl.pl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/pracapl.pl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

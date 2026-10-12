@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "newjobstanzania.com",
+  "name": "NewJobs Tanzania",
+  "website": "https://newjobstanzania.com/",
+  "profile": "https://jobsitedir.com/jobboard/newjobstanzania.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "TZ",
+  "primary_industry": null,
+  "description": "NewJobs Tanzania is a job board listing vacancies and career opportunities in Tanzania, where job seekers can create accounts, upload CVs, and receive email alerts for new…",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/newjobstanzania.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

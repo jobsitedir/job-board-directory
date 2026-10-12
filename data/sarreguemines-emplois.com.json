@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "sarreguemines-emplois.com",
+  "name": "Sarreguemines Emplois",
+  "website": "https://sarreguemines-emplois.com/",
+  "profile": "https://jobsitedir.com/jobboard/sarreguemines-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": null,
+  "description": "Sarreguemines-emplois.com lists 658 job offers in Sarreguemines and nearby towns, with domain-based browsing and CV submission for recruiter contact.",
+  "logo": {
+    "path": "../assets/logos/sarreguemines-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/sarreguemines-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "empleovino.es",
+  "name": "EmpleoVino.es",
+  "website": "https://empleovino.es/",
+  "profile": "https://jobsitedir.com/jobboard/empleovino.es?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "ES",
+  "primary_industry": "Food & Beverage",
+  "description": "EmpleoVino.es is a job portal for the wine sector, covering specialties from wineries to wine tourism, with a weekly email subscription and a dedicated grape harvest page.",
+  "logo": {
+    "path": "../assets/logos/empleovino.es.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/empleovino.es.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

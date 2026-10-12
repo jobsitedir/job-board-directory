@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "salesdevjobs.com",
+  "name": "SalesDevJobs",
+  "website": "https://salesdevjobs.com/",
+  "profile": "https://jobsitedir.com/jobboard/salesdevjobs.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "US",
+  "primary_industry": "Technical>Software Dev/Programming",
+  "description": "SalesDevJobs.com is a job board for SDR and BDR roles in SaaS and B2B sales, with manually verified listings and career resources for advancing into AE or RevOps.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/salesdevjobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

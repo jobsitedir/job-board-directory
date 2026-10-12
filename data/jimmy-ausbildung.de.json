@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "jimmy-ausbildung.de",
+  "name": "Jimmy Ausbildung",
+  "website": "https://jimmy-ausbildung.de/",
+  "profile": "https://jobsitedir.com/jobboard/jimmy-ausbildung.de?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "DE",
+  "primary_industry": "Education",
+  "description": "Jimmy-Ausbildung is a free German job platform for apprenticeship seekers that replaces resumes with a 20-minute chat interview and uses a scientific matching method.",
+  "logo": {
+    "path": "../assets/logos/jimmy-ausbildung.de.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/jimmy-ausbildung.de.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

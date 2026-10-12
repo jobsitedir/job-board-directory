@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "kapitoly.com",
+  "name": "Kapitoly.com",
+  "website": "https://kapitoly.com/",
+  "profile": "https://jobsitedir.com/jobboard/kapitoly.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Generalist",
+  "primary_country": "RU",
+  "primary_industry": null,
+  "description": "Kapitoly.com lists job vacancies across 12+ countries and offers salary statistics, remote work filters, and a no-experience filter for job seekers.",
+  "logo": {
+    "path": "../assets/logos/kapitoly.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/kapitoly.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

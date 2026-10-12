@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "franceia.jobs",
+  "name": "FranceIA.jobs",
+  "website": "https://franceia.jobs/",
+  "profile": "https://jobsitedir.com/jobboard/franceia.jobs?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "FR",
+  "primary_industry": "Technology>AI & Data Science",
+  "description": "FranceIA.jobs is a French-English job board for AI, data, and machine learning roles, where offers are AI-selected from company ATS and human-verified before posting.",
+  "logo": {
+    "path": "../assets/logos/franceia.jobs.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/franceia.jobs.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "salesemployment.ca",
+  "name": "SalesEmployment",
+  "website": "https://salesemployment.ca/",
+  "profile": "https://jobsitedir.com/jobboard/salesemployment.ca?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "CA",
+  "primary_industry": "Sales & Business Development",
+  "description": "SalesEmployment is a Canadian job board for sales professionals, featuring verified employers and commission-only scam screening.",
+  "logo": {
+    "path": "../assets/logos/salesemployment.ca.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/salesemployment.ca.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

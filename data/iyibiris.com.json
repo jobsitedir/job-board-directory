@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "iyibiris.com",
+  "name": "iyibiris.com",
+  "website": "https://iyibiris.com/",
+  "profile": "https://jobsitedir.com/jobboard/iyibiris.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "TR",
+  "primary_industry": null,
+  "description": "İyiBiris is a Turkish job board licensed by İŞKUR that connects employers with job seekers, featuring a career guide and requiring employer tax certificate verification.",
+  "logo": {
+    "path": "../assets/logos/iyibiris.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/iyibiris.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

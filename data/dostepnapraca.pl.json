@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "dostepnapraca.pl",
+  "name": "DostepnaPraca.pl",
+  "website": "https://dostepnapraca.pl/",
+  "profile": "https://jobsitedir.com/jobboard/dostepnapraca.pl?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "PL",
+  "primary_industry": "Non-Profit",
+  "description": "DostepnaPraca.pl is a Polish job portal for people with disabilities, connecting candidates with inclusive employers through clear listings and expert resources.",
+  "logo": {
+    "path": "../assets/logos/dostepnapraca.pl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/dostepnapraca.pl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "jerseyhired.com",
+  "name": "Jersey Hired",
+  "website": "https://jerseyhired.com/",
+  "profile": "https://jobsitedir.com/jobboard/jerseyhired.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "US",
+  "primary_industry": null,
+  "description": "Jersey Hired is a New Jersey-focused job board listing local and national opportunities across dozens of categories, with job alerts, candidate profiles, and an RSS feed.",
+  "logo": {
+    "path": "../assets/logos/jerseyhired.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/jerseyhired.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

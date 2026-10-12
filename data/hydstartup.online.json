@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "hydstartup.online",
+  "name": "HydStartupArena",
+  "website": "https://hydstartup.online/",
+  "profile": "https://jobsitedir.com/jobboard/hydstartup.online?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "IN",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "HydStartup.Online maps 96 companies in the Hyderabad Tech Corridor and lists jobs with salary ranges, experience levels, work modes, and required skills.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/hydstartup.online.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

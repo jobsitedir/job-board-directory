@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "jobs.biospace.com",
+  "name": "BioSpace",
+  "website": "https://jobs.biospace.com/",
+  "profile": "https://jobsitedir.com/jobboard/jobs.biospace.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "US",
+  "primary_industry": "Biotechnology",
+  "description": "BioSpace Jobs is a life-sciences job board for roles in biotech, pharma, healthcare, and academia, primarily in North America.",
+  "logo": {
+    "path": "../assets/logos/jobs.biospace.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/jobs.biospace.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

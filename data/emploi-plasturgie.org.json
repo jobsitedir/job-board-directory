@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "emploi-plasturgie.org",
+  "name": "Emploi-Plasturgie.org",
+  "website": "https://emploi-plasturgie.org/",
+  "profile": "https://jobsitedir.com/jobboard/emploi-plasturgie.org?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "FR",
+  "primary_industry": "Manufacturing & Production",
+  "description": "Emploi-Plasturgie.org is a French job platform for the plastics and composites industry, offering a personalized quiz to help users find suitable roles.",
+  "logo": {
+    "path": "../assets/logos/emploi-plasturgie.org.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/emploi-plasturgie.org.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

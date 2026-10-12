@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "praceproozp.cz",
+  "name": "Práce pro OZP a ZPS",
+  "website": "https://praceproozp.cz/",
+  "profile": "https://jobsitedir.com/jobboard/praceproozp.cz?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "CZ",
+  "primary_industry": "Blue Collar & Trades",
+  "description": "Práce pro OZP is a Czech job board for people with disabilities (OZP/ZPS), currently listing 1,658 offers with region filters and salary details.",
+  "logo": {
+    "path": "../assets/logos/praceproozp.cz.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/praceproozp.cz.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

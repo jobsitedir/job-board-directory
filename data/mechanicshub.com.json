@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "mechanicshub.com",
+  "name": "Mechanics Hub",
+  "website": "https://mechanicshub.com/",
+  "profile": "https://jobsitedir.com/jobboard/mechanicshub.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "US",
+  "primary_industry": "Blue Collar & Trades",
+  "description": "Mechanics Hub is a recruitment firm and job board for Diesel Mechanics and related trade professionals in North America, offering full-time direct hire positions and free…",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/mechanicshub.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

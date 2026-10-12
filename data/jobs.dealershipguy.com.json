@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "jobs.dealershipguy.com",
+  "name": "CDG Automotive Job Board",
+  "website": "https://jobs.dealershipguy.com/",
+  "profile": "https://jobsitedir.com/jobboard/jobs.dealershipguy.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "US",
+  "primary_industry": "Automotive",
+  "description": "CDG Job Board is a free-to-browse job site for the automotive industry, offering listings from dealership roles to automotive SaaS and a free basic plan for employers.",
+  "logo": {
+    "path": "../assets/logos/jobs.dealershipguy.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/jobs.dealershipguy.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

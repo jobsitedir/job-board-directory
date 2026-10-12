@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "lucknowjobseekers.com",
+  "name": "Lucknow Job Seekers",
+  "website": "https://lucknowjobseekers.com/",
+  "profile": "https://jobsitedir.com/jobboard/lucknowjobseekers.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "IN",
+  "primary_industry": "Government",
+  "description": "Lucknow Job Seekers is a job portal focused on government and private jobs in Lucknow and across Uttar Pradesh, India, covering departments like UPSSSC, UPPSC, and UP Police.",
+  "logo": {
+    "path": "../assets/logos/lucknowjobseekers.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/lucknowjobseekers.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

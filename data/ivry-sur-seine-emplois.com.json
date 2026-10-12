@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "ivry-sur-seine-emplois.com",
+  "name": "Ivry-sur-Seine Emplois",
+  "website": "https://ivry-sur-seine-emplois.com/",
+  "profile": "https://jobsitedir.com/jobboard/ivry-sur-seine-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": null,
+  "description": "Ivry-sur-Seine-Emplois is a local job website serving the Ivry-sur-Seine area, offering a job alert feature for personalized email notifications.",
+  "logo": {
+    "path": "../assets/logos/ivry-sur-seine-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/ivry-sur-seine-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

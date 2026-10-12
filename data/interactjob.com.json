@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "interactjob.com",
+  "name": "InteractJob",
+  "website": "https://interactjob.com/",
+  "profile": "https://jobsitedir.com/jobboard/interactjob.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": null,
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "InteractJob is a free, AI-powered remote job board aggregating thousands of positions from the USA, Europe, Africa, and worldwide, updated daily.",
+  "logo": {
+    "path": "../assets/logos/interactjob.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/interactjob.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

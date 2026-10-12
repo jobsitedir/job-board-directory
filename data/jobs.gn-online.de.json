@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "jobs.gn-online.de",
+  "name": "GN-Jobs",
+  "website": "https://jobs.gn-online.de/",
+  "profile": "https://jobsitedir.com/jobboard/jobs.gn-online.de?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "DE",
+  "primary_industry": "Media & Communication",
+  "description": null,
+  "logo": {
+    "path": "../assets/logos/jobs.gn-online.de.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/jobs.gn-online.de.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

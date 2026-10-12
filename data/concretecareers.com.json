@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "concretecareers.com",
+  "name": "Concrete Careers",
+  "website": "https://concretecareers.com/",
+  "profile": "https://jobsitedir.com/jobboard/concretecareers.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "US",
+  "primary_industry": "Construction",
+  "description": "ConcreteCareers.com is a recruiting website exclusively for the concrete industry, serving job seekers and employers across sectors like ready-mix, precast, and decorative…",
+  "logo": {
+    "path": "../assets/logos/concretecareers.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/concretecareers.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

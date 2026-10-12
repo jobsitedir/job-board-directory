@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "careercentre.uz",
+  "name": "Career Centre",
+  "website": "https://careercentre.uz/",
+  "profile": "https://jobsitedir.com/jobboard/careercentre.uz?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "UZ",
+  "primary_industry": null,
+  "description": "CareerCentre.uz is a free job platform connecting students and employers across all regions of Uzbekistan, including the Republic of Karakalpakstan.",
+  "logo": {
+    "path": "../assets/logos/careercentre.uz.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/careercentre.uz.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

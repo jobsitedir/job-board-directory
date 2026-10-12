@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "deportejobs.com",
+  "name": "Deporte Jobs",
+  "website": "https://deportejobs.com/",
+  "profile": "https://jobsitedir.com/jobboard/deportejobs.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "AR",
+  "primary_industry": "Sports & Recreation",
+  "description": "Deportejobs is a job portal focused on sports in Latin America, offering a weekly newsletter with sports job opportunities.",
+  "logo": {
+    "path": "../assets/logos/deportejobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/deportejobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

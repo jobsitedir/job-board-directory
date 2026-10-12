@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "receptionistjobb.se",
+  "name": "Receptionistjobb.se",
+  "website": "https://receptionistjobb.se/",
+  "profile": "https://jobsitedir.com/jobboard/receptionistjobb.se?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "SE",
+  "primary_industry": "Hospitality & Travel",
+  "description": "Receptionistjobb.se is a Swedish job board listing 1,075 receptionist openings, with a search function to find positions.",
+  "logo": {
+    "path": "../assets/logos/receptionistjobb.se.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/receptionistjobb.se.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

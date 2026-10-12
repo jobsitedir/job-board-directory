@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "mapjob.pl",
+  "name": "MapJob",
+  "website": "https://mapjob.pl/",
+  "profile": "https://jobsitedir.com/jobboard/mapjob.pl?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "PL",
+  "primary_industry": "Blue Collar & Trades",
+  "description": "MapJob is a job map platform that displays offers geographically on an interactive map, covering Poland and Europe with free 30-second applications.",
+  "logo": {
+    "path": "../assets/logos/mapjob.pl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/mapjob.pl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

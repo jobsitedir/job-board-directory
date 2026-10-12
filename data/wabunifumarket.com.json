@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "wabunifumarket.com",
+  "name": "Wabunifu Market",
+  "website": "https://wabunifumarket.com/",
+  "profile": "https://jobsitedir.com/jobboard/wabunifumarket.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "KE",
+  "primary_industry": "Design",
+  "description": "Wabunifu Market is a Kenyan freelance marketplace connecting African creatives with global clients, offering escrow-protected payments and M-Pesa payouts.",
+  "logo": {
+    "path": "../assets/logos/wabunifumarket.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/wabunifumarket.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

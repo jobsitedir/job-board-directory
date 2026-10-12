@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "portalpracy.pl",
+  "name": "portal pracy",
+  "website": "https://portalpracy.pl/",
+  "profile": "https://jobsitedir.com/jobboard/portalpracy.pl?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "PL",
+  "primary_industry": "Blue Collar & Trades",
+  "description": "PortalPracy.pl is a Polish job board where employers can post free or paid listings and job seekers can create profiles, upload CVs, and receive email alerts.",
+  "logo": {
+    "path": "../assets/logos/portalpracy.pl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/portalpracy.pl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

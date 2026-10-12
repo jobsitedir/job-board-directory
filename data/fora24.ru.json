@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "fora24.ru",
+  "name": "Фора24",
+  "website": "https://fora24.ru/",
+  "profile": "https://jobsitedir.com/jobboard/fora24.ru?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "RU",
+  "primary_industry": "Blue Collar & Trades",
+  "description": "Fora24.ru is a Russian job board with map-based search, remote and shift work categories, and a company directory of direct employers.",
+  "logo": {
+    "path": "../assets/logos/fora24.ru.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/fora24.ru.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

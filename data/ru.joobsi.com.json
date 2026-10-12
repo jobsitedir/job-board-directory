@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "ru.joobsi.com",
+  "name": "Joobsi",
+  "website": "https://ru.joobsi.com/",
+  "profile": "https://jobsitedir.com/jobboard/ru.joobsi.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "RU",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "Joobsi aggregates job listings from multiple Russian sites into one place, helping job seekers find work across Russia with city-based search and salary details.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/ru.joobsi.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

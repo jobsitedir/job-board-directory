@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "talent21job.com",
+  "name": "Talent21 Jobs",
+  "website": "https://talent21job.com/",
+  "profile": "https://jobsitedir.com/jobboard/talent21job.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "AE",
+  "primary_industry": "Healthcare",
+  "description": "Talent21 is a recruitment platform for job seekers and employers in India and the GCC, listing 39 active jobs across industries like IT, Oil & Gas, and Healthcare.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/talent21job.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

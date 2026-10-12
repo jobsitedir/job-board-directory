@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "caregivax.com",
+  "name": "Caregivax",
+  "website": "https://caregivax.com/",
+  "profile": "https://jobsitedir.com/jobboard/caregivax.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "US",
+  "primary_industry": "Healthcare",
+  "description": "Caregivax is a nationwide healthcare staffing platform in the United States that connects healthcare professionals with employers, offering per diem, contract, travel, and…",
+  "logo": {
+    "path": "../assets/logos/caregivax.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/caregivax.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

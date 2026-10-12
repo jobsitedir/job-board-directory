@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "lovejob.lt",
+  "name": "lovejob.lt",
+  "website": "https://lovejob.lt/",
+  "profile": "https://jobsitedir.com/jobboard/lovejob.lt?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "LT",
+  "primary_industry": null,
+  "description": "Lovejob.lt is a Lithuanian job platform serving job seekers and employers in Lithuania and abroad, with versions in Lithuanian, Ukrainian, and English.",
+  "logo": {
+    "path": "../assets/logos/lovejob.lt.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/lovejob.lt.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

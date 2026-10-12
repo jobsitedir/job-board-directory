@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "wlancer.com",
+  "name": "Wlancer.com",
+  "website": "https://wlancer.com/",
+  "profile": "https://jobsitedir.com/jobboard/wlancer.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "MA",
+  "primary_industry": "Government",
+  "description": "Wlancer.com lists jobs, freelance missions, and internships in Morocco, the Middle East, and Gulf countries, with search by keyword, location, or category and advanced filters.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/wlancer.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

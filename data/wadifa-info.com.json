@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "wadifa-info.com",
+  "name": "Wadifa Info",
+  "website": "https://wadifa-info.com/",
+  "profile": "https://jobsitedir.com/jobboard/wadifa-info.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "MA",
+  "primary_industry": "Government",
+  "description": "Wadifa-info.com is a Moroccan portal that aggregates official public-sector job announcements from hundreds of administrations across all 12 regions, available in Arabic and…",
+  "logo": {
+    "path": "../assets/logos/wadifa-info.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/wadifa-info.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "thetargetjobs.com",
+  "name": "The Target Jobs",
+  "website": "https://thetargetjobs.com/",
+  "profile": "https://jobsitedir.com/jobboard/thetargetjobs.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "ET",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "The Target Jobs connects job seekers with verified employers in IT & Business, offering over 500 active jobs across 15+ categories in Ethiopia.",
+  "logo": {
+    "path": "../assets/logos/thetargetjobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/thetargetjobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "mycareer-jp.com",
+  "name": "ミツケル にほんのしごと",
+  "website": "https://mycareer-jp.com/",
+  "profile": "https://jobsitedir.com/jobboard/mycareer-jp.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "JP",
+  "primary_industry": "Hospitality & Travel",
+  "description": "Mitsukeru Nihon no Shigoto is a Japanese job introduction service for foreign nationals, operated by a licensed Tokyo Stock Exchange-listed company with multilingual support.",
+  "logo": {
+    "path": "../assets/logos/mycareer-jp.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/mycareer-jp.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

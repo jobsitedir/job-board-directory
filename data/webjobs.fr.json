@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "webjobs.fr",
+  "name": "WEBJOBS France",
+  "website": "https://webjobs.fr/",
+  "profile": "https://jobsitedir.com/jobboard/webjobs.fr?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "FR",
+  "primary_industry": "Technical",
+  "description": "Webjobs.fr is a French job board for IT and freelance recruitment, offering free and paid job posting plans with direct contact between candidates and recruiters.",
+  "logo": {
+    "path": "../assets/logos/webjobs.fr.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/webjobs.fr.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

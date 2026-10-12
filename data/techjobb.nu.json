@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "techjobb.nu",
+  "name": "techjobb.nu",
+  "website": "https://techjobb.nu/",
+  "profile": "https://jobsitedir.com/jobboard/techjobb.nu?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "SE",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "Techjobb.nu is a Swedish job board for tech professionals, offering search, recent listings, and suggestions based on your search history.",
+  "logo": {
+    "path": "../assets/logos/techjobb.nu.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/techjobb.nu.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

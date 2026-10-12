@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "e-elabel.com",
+  "name": "Elabel",
+  "website": "https://e-elabel.com/",
+  "profile": "https://jobsitedir.com/jobboard/e-elabel.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "JP",
+  "primary_industry": "Healthcare",
+  "description": "Elabel is a comprehensive job search website serving the Kansai region (Osaka, Kyoto, Wakayama) with filters by occupation, location, and conditions, plus a LINE consultation…",
+  "logo": {
+    "path": "../assets/logos/e-elabel.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/e-elabel.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

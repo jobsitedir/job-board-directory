@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "arcachon-emplois.com",
+  "name": "Arcachon Emplois",
+  "website": "https://arcachon-emplois.com/",
+  "profile": "https://jobsitedir.com/jobboard/arcachon-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": "Hospitality & Travel",
+  "description": "Arcachon-emplois.com lists 1,442 job offers in Arcachon, France, and lets you create email alerts or submit your CV for recruiters to find you.",
+  "logo": {
+    "path": "../assets/logos/arcachon-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/arcachon-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

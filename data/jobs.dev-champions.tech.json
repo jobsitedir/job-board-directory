@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "jobs.dev-champions.tech",
+  "name": "Dev Champions Jobs",
+  "website": "https://jobs.dev-champions.tech/",
+  "profile": "https://jobsitedir.com/jobboard/jobs.dev-champions.tech?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "NG",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "D•C Jobs is a tech-focused job board listing roles in Nigeria and remote across Africa, with filters for work mode, salary, and country.",
+  "logo": {
+    "path": "../assets/logos/jobs.dev-champions.tech.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/jobs.dev-champions.tech.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

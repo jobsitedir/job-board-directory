@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "spanicentral.co.za",
+  "name": "SpaniCentral",
+  "website": "https://spanicentral.co.za/",
+  "profile": "https://jobsitedir.com/jobboard/spanicentral.co.za?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "ZA",
+  "primary_industry": "Education",
+  "description": "SpaniCentral is a South African job platform focused on internships, learnerships, graduate programmes, entry-level and general jobs, with free job search.",
+  "logo": {
+    "path": "../assets/logos/spanicentral.co.za.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/spanicentral.co.za.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

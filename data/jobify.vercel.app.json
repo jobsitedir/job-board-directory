@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "jobify.vercel.app",
+  "name": "VitalJob",
+  "website": "https://jobify.vercel.app/",
+  "profile": "https://jobsitedir.com/jobboard/jobify.vercel.app?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "MA",
+  "primary_industry": null,
+  "description": "VitalJob.ma is a free Moroccan job platform connecting job seekers and employers across all sectors, with targeted search, 24/7 ad posting, and a personal space.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/jobify.vercel.app.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "obyavi-za-rabota.com",
+  "name": "obyavi-za-rabota.com",
+  "website": "https://obyavi-za-rabota.com/",
+  "profile": "https://jobsitedir.com/jobboard/obyavi-za-rabota.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "BG",
+  "primary_industry": "Blue Collar & Trades",
+  "description": "Obyavi-za-rabota.com lists jobs in Bulgaria and abroad, organized by country, city, and profession, with options for seasonal and permanent work in popular destinations.",
+  "logo": {
+    "path": "../assets/logos/obyavi-za-rabota.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/obyavi-za-rabota.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

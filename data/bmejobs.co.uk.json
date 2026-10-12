@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "bmejobs.co.uk",
+  "name": "BME Jobs UK",
+  "website": "https://bmejobs.co.uk/",
+  "profile": "https://jobsitedir.com/jobboard/bmejobs.co.uk?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "GB",
+  "primary_industry": null,
+  "description": "BME Jobs is a UK job board connecting Black and Minority Ethnic professionals with employers committed to diversity and inclusion, featuring an inclusive hiring employers…",
+  "logo": {
+    "path": "../assets/logos/bmejobs.co.uk.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/bmejobs.co.uk.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

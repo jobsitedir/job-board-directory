@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "wadiflive.com",
+  "name": "Wadiflive",
+  "website": "https://wadiflive.com/",
+  "profile": "https://jobsitedir.com/jobboard/wadiflive.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "SA",
+  "primary_industry": "Government",
+  "description": "Wadiflive is an Arabic job-aggregation platform that collects employment ads and training opportunities from official sources, organizing them by city or specialty for job seekers.",
+  "logo": {
+    "path": "../assets/logos/wadiflive.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/wadiflive.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "stadiumjobs.co.uk",
+  "name": "Stadium Jobs",
+  "website": "https://stadiumjobs.co.uk/",
+  "profile": "https://jobsitedir.com/jobboard/stadiumjobs.co.uk?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "GB",
+  "primary_industry": "Hospitality & Travel",
+  "description": "Stadium Jobs is a UK-focused job board listing matchday and event vacancies at sports stadiums, with venue guides, operator profiles, and practical hiring guides.",
+  "logo": {
+    "path": "../assets/logos/stadiumjobs.co.uk.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/stadiumjobs.co.uk.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

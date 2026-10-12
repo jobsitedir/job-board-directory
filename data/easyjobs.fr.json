@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "easyjobs.fr",
+  "name": "EasyJobs",
+  "website": "https://easyjobs.fr/",
+  "profile": "https://jobsitedir.com/jobboard/easyjobs.fr?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": null,
+  "description": "EasyJobs is a French job board with a search tool for job title, keywords, or company and location, plus an alphabetical directory of frequent searches.",
+  "logo": {
+    "path": "../assets/logos/easyjobs.fr.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/easyjobs.fr.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "5wzayefi.com",
+  "name": "وظائفي الخليج",
+  "website": "https://5wzayefi.com/",
+  "profile": "https://jobsitedir.com/jobboard/5wzayefi.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "AE",
+  "primary_industry": null,
+  "description": "وظائفي الخليج (Wazaifi Al-Khaleej) is a job website with a dedicated category for UAE jobs.",
+  "logo": {
+    "path": "../assets/logos/5wzayefi.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/5wzayefi.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

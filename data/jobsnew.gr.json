@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "jobsnew.gr",
+  "name": "JobsNew",
+  "website": "https://jobsnew.gr/",
+  "profile": "https://jobsitedir.com/jobboard/jobsnew.gr?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "GR",
+  "primary_industry": "Hospitality & Travel",
+  "description": "Jobsnew.gr is a Greek job board connecting employers and job seekers, offering job posting, resume tools, career advice, and candidate evaluation.",
+  "logo": {
+    "path": "../assets/logos/jobsnew.gr.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/jobsnew.gr.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

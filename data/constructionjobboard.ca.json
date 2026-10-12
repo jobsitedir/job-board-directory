@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "constructionjobboard.ca",
+  "name": "Construction Job Board",
+  "website": "https://constructionjobboard.ca/",
+  "profile": "https://jobsitedir.com/jobboard/constructionjobboard.ca?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "CA",
+  "primary_industry": "Construction",
+  "description": "Constructionjobboard.ca is a Canadian job board connecting employers and job seekers specifically in the construction industry, with hourly database updates.",
+  "logo": {
+    "path": "../assets/logos/constructionjobboard.ca.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/constructionjobboard.ca.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

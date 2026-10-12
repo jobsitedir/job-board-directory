@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "gant-job-board.jobboardly.com",
+  "name": "GANT Job Board",
+  "website": "https://gant-job-board.jobboardly.com/",
+  "profile": "https://jobsitedir.com/jobboard/gant-job-board.jobboardly.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "US",
+  "primary_industry": null,
+  "description": "Gant Job Board is a general-purpose job site serving employers and job seekers across multiple industries, offering job alerts and flexible posting options.",
+  "logo": {
+    "path": "../assets/logos/gant-job-board.jobboardly.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/gant-job-board.jobboardly.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

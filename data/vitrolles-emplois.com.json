@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "vitrolles-emplois.com",
+  "name": "Vitrolles Emplois",
+  "website": "https://vitrolles-emplois.com/",
+  "profile": "https://jobsitedir.com/jobboard/vitrolles-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": null,
+  "description": "Vitrolles-emplois.com is a job board listing over 2,000 current openings in Vitrolles, France, with direct apply buttons and email alerts.",
+  "logo": {
+    "path": "../assets/logos/vitrolles-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/vitrolles-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

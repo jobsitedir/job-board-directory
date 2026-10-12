@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "ovjobs.ca",
+  "name": "OVjobs",
+  "website": "https://ovjobs.ca/",
+  "profile": "https://jobsitedir.com/jobboard/ovjobs.ca?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "CA",
+  "primary_industry": null,
+  "description": "OVJobs.ca is a regional job board for the Ottawa Valley, covering areas from Mattawa to Ottawa and Bancroft to the Pontiac region, run by Forward Thinking in Petawawa, Ontario.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/ovjobs.ca.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

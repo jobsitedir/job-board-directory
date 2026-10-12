@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "beyondstaff.co.za",
+  "name": "Beyond Staff",
+  "website": "https://beyondstaff.co.za/",
+  "profile": "https://jobsitedir.com/jobboard/beyondstaff.co.za?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "ZA",
+  "primary_industry": "Government",
+  "description": "Beyond Staff is a South African job board listing government vacancies (e.g., Eskom, Department of Public Works) and DPSA posts, with filters by location, category, and job type.",
+  "logo": {
+    "path": "../assets/logos/beyondstaff.co.za.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/beyondstaff.co.za.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "atdatlanta.mcjobboard.net",
+  "name": "ATD Greater Atlanta Chapter Job Board",
+  "website": "https://atdatlanta.mcjobboard.net/",
+  "profile": "https://jobsitedir.com/jobboard/atdatlanta.mcjobboard.net?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "US",
+  "primary_industry": "Education",
+  "description": "The ATD Greater Atlanta Chapter Job Board serves the L&D community in the Greater Atlanta area, offering job listings with filters, salary info, and quick apply options.",
+  "logo": {
+    "path": "../assets/logos/atdatlanta.mcjobboard.net.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/atdatlanta.mcjobboard.net.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

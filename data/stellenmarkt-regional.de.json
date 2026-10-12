@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "stellenmarkt-regional.de",
+  "name": "Stellenmarkt Regional",
+  "website": "https://stellenmarkt-regional.de/",
+  "profile": "https://jobsitedir.com/jobboard/stellenmarkt-regional.de?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "DE",
+  "primary_industry": null,
+  "description": "Stellenmarkt Regional is a German job board offering free use for job seekers, with over 195,000 listings nationwide and regionally, and GDPR-compliant hosting on German servers.",
+  "logo": {
+    "path": "../assets/logos/stellenmarkt-regional.de.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/stellenmarkt-regional.de.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

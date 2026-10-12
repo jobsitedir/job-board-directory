@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "constructioncareer.ca",
+  "name": "Construction Workers Canada – Association Job Board",
+  "website": "https://constructioncareer.ca/",
+  "profile": "https://jobsitedir.com/jobboard/constructioncareer.ca?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "CA",
+  "primary_industry": "Construction",
+  "description": "ConstructionCareer.ca is a Canadian job board dedicated to the construction industry, connecting job seekers and employers across skilled trades, management, and engineering…",
+  "logo": {
+    "path": "../assets/logos/constructioncareer.ca.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/constructioncareer.ca.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

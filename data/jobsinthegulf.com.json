@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "jobsinthegulf.com",
+  "name": "وظائف الخليج",
+  "website": "https://jobsinthegulf.com/",
+  "profile": "https://jobsitedir.com/jobboard/jobsinthegulf.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "KW",
+  "primary_industry": null,
+  "description": "JobsInTheGulf.com is a job portal serving Kuwait, Jordan, UAE, Bahrain, Saudi Arabia, Oman, and Qatar, offering registration, login, and job posting for roles like accountant,…",
+  "logo": {
+    "path": "../assets/logos/jobsinthegulf.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/jobsinthegulf.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

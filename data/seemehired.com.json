@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "seemehired.com",
+  "name": "SeeMeHired",
+  "website": "https://seemehired.com/",
+  "profile": "https://jobsitedir.com/jobboard/seemehired.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Other",
+  "primary_country": "GB",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "SeeMeHired is an applicant tracking system and talent acquisition platform for UK and Ireland employers, covering job advertising, screening, interviews, and onboarding.",
+  "logo": {
+    "path": "../assets/logos/seemehired.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/seemehired.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

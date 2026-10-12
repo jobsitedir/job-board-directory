@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "dk.quicktojobs.com",
+  "name": "QuickToJobs Denmark",
+  "website": "https://dk.quicktojobs.com/",
+  "profile": "https://jobsitedir.com/jobboard/dk.quicktojobs.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Generalist",
+  "primary_country": "DK",
+  "primary_industry": null,
+  "description": "QuickToJobs is a global job board network covering over 70 countries across Europe, the Americas, Asia/Oceania, and Africa, offering quick applications and employer tools like…",
+  "logo": {
+    "path": "../assets/logos/dk.quicktojobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/dk.quicktojobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

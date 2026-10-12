@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "source-mate.jobboardly.com",
+  "name": "Source Mate Ltd",
+  "website": "https://source-mate.jobboardly.com/",
+  "profile": "https://jobsitedir.com/jobboard/source-mate.jobboardly.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Generalist",
+  "primary_country": "GB",
+  "primary_industry": "Construction",
+  "description": "Source Mate is a job board built for construction but open to every industry, offering free job posting and paid plans starting at £50 for a 30-day post.",
+  "logo": {
+    "path": "../assets/logos/source-mate.jobboardly.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/source-mate.jobboardly.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

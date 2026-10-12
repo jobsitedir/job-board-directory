@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "hireonthespot.ai",
+  "name": "Hire On The Spot",
+  "website": "https://hireonthespot.ai/",
+  "profile": "https://jobsitedir.com/jobboard/hireonthespot.ai?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "US",
+  "primary_industry": "Blue Collar & Trades",
+  "description": "HireOnTheSpot is a same-day hiring platform where job seekers can apply, interview, and receive a job offer all in one day, serving U.S.",
+  "logo": {
+    "path": "../assets/logos/hireonthespot.ai.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/hireonthespot.ai.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

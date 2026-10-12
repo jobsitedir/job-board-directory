@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "foorilla.com",
+  "name": "Foorilla",
+  "website": "https://foorilla.com/",
+  "profile": "https://jobsitedir.com/jobboard/foorilla.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "IN",
+  "primary_industry": "Technical>Software Dev/Programming",
+  "description": "Foorilla is a career platform for coders, builders, hackers, and makers, offering a job board with API access and a changelog.",
+  "logo": {
+    "path": "../assets/logos/foorilla.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/foorilla.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

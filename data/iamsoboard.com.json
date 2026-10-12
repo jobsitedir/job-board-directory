@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "iamsoboard.com",
+  "name": "I Am So Board",
+  "website": "https://iamsoboard.com/",
+  "profile": "https://jobsitedir.com/jobboard/iamsoboard.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "US",
+  "primary_industry": "Advertising, Marketing & PR",
+  "description": "IAmSo is a job board for creative and marketing roles in St.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/iamsoboard.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

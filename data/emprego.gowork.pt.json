@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "emprego.gowork.pt",
+  "name": "Go Work",
+  "website": "https://emprego.gowork.pt/",
+  "profile": "https://jobsitedir.com/jobboard/emprego.gowork.pt?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "PT",
+  "primary_industry": null,
+  "description": "GoWork.pt is a Portuguese job website focused on HR process management, recruitment, temporary work, and outsourcing, founded in 2007 as part of Grupo Rumos.",
+  "logo": {
+    "path": "../assets/logos/emprego.gowork.pt.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/emprego.gowork.pt.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "recruit.sampeople.co.uk",
+  "name": "SAMpeople Recruit",
+  "website": "https://recruit.sampeople.co.uk/",
+  "profile": "https://jobsitedir.com/jobboard/recruit.sampeople.co.uk?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "GB",
+  "primary_industry": "Education",
+  "description": "Sam People is a UK education job board for school staff, offering salary, role type, and key stage filters.",
+  "logo": {
+    "path": "../assets/logos/recruit.sampeople.co.uk.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/recruit.sampeople.co.uk.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

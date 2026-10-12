@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "champs-sur-marne-emplois.fr",
+  "name": "Champs-sur-Marne Emplois",
+  "website": "https://champs-sur-marne-emplois.fr/",
+  "profile": "https://jobsitedir.com/jobboard/champs-sur-marne-emplois.fr?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": null,
+  "description": "Champs-sur-Marne-emplois.fr lists 479 local job offers and lets you create email alerts or upload your CV for recruiters to find you.",
+  "logo": {
+    "path": "../assets/logos/champs-sur-marne-emplois.fr.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/champs-sur-marne-emplois.fr.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

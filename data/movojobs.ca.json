@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "movojobs.ca",
+  "name": "MovoJobs",
+  "website": "https://movojobs.ca/",
+  "profile": "https://jobsitedir.com/jobboard/movojobs.ca?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "CA",
+  "primary_industry": null,
+  "description": "MovoJobs aggregates job listings from across Canada for English-speaking job seekers, with free employer posting and duplicate removal.",
+  "logo": {
+    "path": "../assets/logos/movojobs.ca.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/movojobs.ca.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

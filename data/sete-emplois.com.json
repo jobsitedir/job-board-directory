@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "sete-emplois.com",
+  "name": "Sète Emplois",
+  "website": "https://sete-emplois.com/",
+  "profile": "https://jobsitedir.com/jobboard/sete-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": "Education",
+  "description": "Sete-emplois.com aggregates job offers in Sète, France, and nearby Hérault communes, with email alerts and CV submission.",
+  "logo": {
+    "path": "../assets/logos/sete-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/sete-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "ai-indo.com",
+  "name": "NEFES HIRE",
+  "website": "https://ai-indo.com/",
+  "profile": "https://jobsitedir.com/jobboard/ai-indo.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "ID",
+  "primary_industry": "Hospitality & Travel",
+  "description": "NEFES HIRE connects Indonesian hospitality professionals with overseas jobs in hotels, spas, food and beverage, housekeeping, and cruise lines.",
+  "logo": {
+    "path": "../assets/logos/ai-indo.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/ai-indo.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

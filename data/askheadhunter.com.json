@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "askheadhunter.com",
+  "name": "AskHeadHunter",
+  "website": "https://askheadhunter.com/",
+  "profile": "https://jobsitedir.com/jobboard/askheadhunter.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Generalist",
+  "primary_country": null,
+  "primary_industry": null,
+  "description": "AskHeadHunter is a recruitment platform for tech-savvy companies and job seekers, using algorithm-based matching and analytics to connect talent with employers.",
+  "logo": {
+    "path": "../assets/logos/askheadhunter.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/askheadhunter.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

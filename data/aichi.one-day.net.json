@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "aichi.one-day.net",
+  "name": "フュージョンワーク ワンデイドットネット",
+  "website": "https://aichi.one-day.net/",
+  "profile": "https://jobsitedir.com/jobboard/aichi.one-day.net?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "JP",
+  "primary_industry": "Hospitality & Travel",
+  "description": "One-Day.net is a free job site for Japan's service industry, focused on Aichi Prefecture, with pre-reviewed postings and permanent free listings for employers.",
+  "logo": {
+    "path": "../assets/logos/aichi.one-day.net.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/aichi.one-day.net.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

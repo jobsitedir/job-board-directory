@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "inklusif.org",
+  "name": "Inklusif",
+  "website": "https://inklusif.org/",
+  "profile": "https://jobsitedir.com/jobboard/inklusif.org?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "MY",
+  "primary_industry": "Technology>AI & Data Science",
+  "description": "Inklusif is a Malaysian job platform for OKU (Orang Kurang Upaya) job seekers, featuring AI-powered matching and Guardian AI to flag ableist language in job descriptions.",
+  "logo": {
+    "path": "../assets/logos/inklusif.org.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/inklusif.org.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

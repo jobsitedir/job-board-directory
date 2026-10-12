@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "montauban-emplois.com",
+  "name": "Montauban Emplois",
+  "website": "https://montauban-emplois.com/",
+  "profile": "https://jobsitedir.com/jobboard/montauban-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": null,
+  "description": "Montauban-emplois.com lists 2238 job offers in Montauban, France, with features like email alerts and CV submission for recruiters.",
+  "logo": {
+    "path": "../assets/logos/montauban-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/montauban-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

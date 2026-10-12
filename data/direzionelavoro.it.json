@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "direzionelavoro.it",
+  "name": "Direzione Lavoro",
+  "website": "https://direzionelavoro.it/",
+  "profile": "https://jobsitedir.com/jobboard/direzionelavoro.it?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "IT",
+  "primary_industry": null,
+  "description": "Direzione Lavoro is an Italian temporary employment agency with over thirty branches nationwide, where job seekers can register and submit spontaneous applications.",
+  "logo": {
+    "path": "../assets/logos/direzionelavoro.it.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/direzionelavoro.it.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

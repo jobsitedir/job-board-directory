@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "gdrc.org.cn",
+  "name": "易职邦广东人才招聘网",
+  "website": "https://gdrc.org.cn/",
+  "profile": "https://jobsitedir.com/jobboard/gdrc.org.cn?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "CN",
+  "primary_industry": null,
+  "description": "Guangdong Talent Recruitment Network (gdrc.org.cn) is a professional job platform serving Guangdong province, offering online recruitment, education certification, and career…",
+  "logo": {
+    "path": "../assets/logos/gdrc.org.cn.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/gdrc.org.cn.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

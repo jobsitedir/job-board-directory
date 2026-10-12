@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "veyoramedi.com",
+  "name": "Veyora Global Medical Careers",
+  "website": "https://veyoramedi.com/",
+  "profile": "https://jobsitedir.com/jobboard/veyoramedi.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "AE",
+  "primary_industry": "Healthcare",
+  "description": "Veyora is a specialized medical recruitment platform for healthcare professionals and employers in the Gulf and Jordan, founded by Abdullah Ziad Abdel Karim Al-Qudah.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/veyoramedi.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

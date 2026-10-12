@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "etampes-emplois.com",
+  "name": "Étampes Emplois",
+  "website": "https://etampes-emplois.com/",
+  "profile": "https://jobsitedir.com/jobboard/etampes-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": null,
+  "description": "Étampes-emplois.com lists 743 job offers in Étampes, France, and lets users create personalized email alerts for new postings.",
+  "logo": {
+    "path": "../assets/logos/etampes-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/etampes-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

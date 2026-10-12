@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "jobs.fmj.co.uk",
+  "name": "FMJ Jobs",
+  "website": "https://jobs.fmj.co.uk/",
+  "profile": "https://jobsitedir.com/jobboard/jobs.fmj.co.uk?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "GB",
+  "primary_industry": "Property Mgmt./Facilities",
+  "description": "FMJ Jobs is a UK-focused job board for the facilities management sector, offering job seeker registration, passive job seeker mode with referral earnings, and job alerts.",
+  "logo": {
+    "path": "../assets/logos/jobs.fmj.co.uk.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/jobs.fmj.co.uk.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

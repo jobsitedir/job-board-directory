@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "enisra.com",
+  "name": "Enisra",
+  "website": "https://enisra.com/",
+  "profile": "https://jobsitedir.com/jobboard/enisra.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "ET",
+  "primary_industry": null,
+  "description": "Enisra is an Ethiopian job platform listing roles in Addis Ababa across categories like IT, Finance, and Design, with paid employer packages starting at ETB 2,700.",
+  "logo": {
+    "path": "../assets/logos/enisra.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/enisra.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

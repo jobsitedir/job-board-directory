@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "enbekgo.kz",
+  "name": "EnbekGo.kz",
+  "website": "https://enbekgo.kz/",
+  "profile": "https://jobsitedir.com/jobboard/enbekgo.kz?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "KZ",
+  "primary_industry": "Blue Collar & Trades",
+  "description": "EnbekGo.kz connects companies and workers for shift work in five Kazakh cities: Almaty, Astana, Shymkent, Aktobe, and Karaganda.",
+  "logo": {
+    "path": "../assets/logos/enbekgo.kz.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/enbekgo.kz.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

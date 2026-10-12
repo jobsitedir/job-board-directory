@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "emploibougebenin.com",
+  "name": "Emploi Bouge Bénin",
+  "website": "https://emploibougebenin.com/",
+  "profile": "https://jobsitedir.com/jobboard/emploibougebenin.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "BJ",
+  "primary_industry": null,
+  "description": "Emploi Bouge Benin is a job platform serving Benin, offering permanent, fixed-term, internship, and freelance roles, with a paid CV service for 1,500 FCFA.",
+  "logo": {
+    "path": "../assets/logos/emploibougebenin.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/emploibougebenin.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

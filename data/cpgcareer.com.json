@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "cpgcareer.com",
+  "name": "CPG Careers",
+  "website": "https://cpgcareer.com/",
+  "profile": "https://jobsitedir.com/jobboard/cpgcareer.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "US",
+  "primary_industry": "Food & Beverage",
+  "description": "CPG Career is a curated job board for salaried corporate, brand, and professional roles in the consumer packaged goods and food and beverage industries, with every listing…",
+  "logo": {
+    "path": "../assets/logos/cpgcareer.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/cpgcareer.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

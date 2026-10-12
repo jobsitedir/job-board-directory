@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "hospoforce.com",
+  "name": "Hospoforce",
+  "website": "https://hospoforce.com/",
+  "profile": "https://jobsitedir.com/jobboard/hospoforce.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "AU",
+  "primary_industry": "Hospitality & Travel",
+  "description": "Hospoforce is a hospitality-specific job platform for Australia, connecting job seekers and employers nationwide with free registration for both candidates and employers.",
+  "logo": {
+    "path": "../assets/logos/hospoforce.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/hospoforce.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

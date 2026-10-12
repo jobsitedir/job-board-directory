@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "jobs.gobuildalabama.com",
+  "name": "Go Build Alabama Job Board",
+  "website": "https://jobs.gobuildalabama.com/",
+  "profile": "https://jobsitedir.com/jobboard/jobs.gobuildalabama.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "US",
+  "primary_industry": "Construction",
+  "description": "Go Build Alabama Jobs is a free job site for Alabama's construction industry, where only licensed commercial contractors can post jobs.",
+  "logo": {
+    "path": "../assets/logos/jobs.gobuildalabama.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/jobs.gobuildalabama.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "awamirtawzif.com",
+  "name": "أوامر التوظيف",
+  "website": "https://awamirtawzif.com/",
+  "profile": "https://jobsitedir.com/jobboard/awamirtawzif.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "SA",
+  "primary_industry": "Government",
+  "description": "Awamir Tawzif is a job posting platform for government, private, and military jobs in Saudi Arabia, with a specialized team available around the clock for electronic service…",
+  "logo": {
+    "path": "../assets/logos/awamirtawzif.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/awamirtawzif.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

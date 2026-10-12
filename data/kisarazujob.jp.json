@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "kisarazujob.jp",
+  "name": "木更津バイトナビ",
+  "website": "https://kisarazujob.jp/",
+  "profile": "https://jobsitedir.com/jobboard/kisarazujob.jp?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "JP",
+  "primary_industry": "Hospitality & Travel",
+  "description": "Kisarazu Job Navi is a local job board for the Kisarazu area, targeting high school students, university students, housewives, part-time workers, and working adults with…",
+  "logo": {
+    "path": "../assets/logos/kisarazujob.jp.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/kisarazujob.jp.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

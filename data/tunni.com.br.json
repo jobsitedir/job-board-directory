@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "tunni.com.br",
+  "name": "Tunni",
+  "website": "https://tunni.com.br/",
+  "profile": "https://jobsitedir.com/jobboard/tunni.com.br?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "BR",
+  "primary_industry": null,
+  "description": "Tunni lists job vacancies throughout Brazil, helping candidates find opportunities nationwide.",
+  "logo": {
+    "path": "../assets/logos/tunni.com.br.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/tunni.com.br.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "ingenieuregesucht.de",
+  "name": "Ingenieuregesucht.de",
+  "website": "https://ingenieuregesucht.de/",
+  "profile": "https://jobsitedir.com/jobboard/ingenieuregesucht.de?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "DE",
+  "primary_industry": "Engineering",
+  "description": "IngenieureGesucht.de is a free German job board for engineers and technical professionals, aggregating listings from multiple sources with deduplication and offering…",
+  "logo": {
+    "path": "../assets/logos/ingenieuregesucht.de.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/ingenieuregesucht.de.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

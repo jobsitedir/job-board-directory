@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "careerupgrader.jobboardly.com",
+  "name": "Career Upgrader Jobs",
+  "website": "https://careerupgrader.jobboardly.com/",
+  "profile": "https://jobsitedir.com/jobboard/careerupgrader.jobboardly.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "US",
+  "primary_industry": "Financial Services>General",
+  "description": "CareerUpgrader is a job board serving job seekers and employers, with listings in Finance, IT, Operations, and Sales.",
+  "logo": {
+    "path": "../assets/logos/careerupgrader.jobboardly.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/careerupgrader.jobboardly.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

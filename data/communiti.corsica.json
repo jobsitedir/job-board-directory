@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "communiti.corsica",
+  "name": "communiti",
+  "website": "https://communiti.corsica/",
+  "profile": "https://jobsitedir.com/jobboard/communiti.corsica?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": null,
+  "description": "Communiti is a professional network for Corsica and its diaspora, offering free job posting and a semantic search engine powered by local AI.",
+  "logo": {
+    "path": "../assets/logos/communiti.corsica.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/communiti.corsica.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

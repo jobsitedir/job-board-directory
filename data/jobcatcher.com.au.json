@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "jobcatcher.com.au",
+  "name": "JobCatcher",
+  "website": "https://jobcatcher.com.au/",
+  "profile": "https://jobsitedir.com/jobboard/jobcatcher.com.au?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "AU",
+  "primary_industry": null,
+  "description": "JobCatcher is a job board for recruitment agencies to hire experienced recruiters, with verified accounts and video adverts.",
+  "logo": {
+    "path": "../assets/logos/jobcatcher.com.au.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/jobcatcher.com.au.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

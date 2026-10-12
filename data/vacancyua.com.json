@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "vacancyua.com",
+  "name": "VacancyUA",
+  "website": "https://vacancyua.com/",
+  "profile": "https://jobsitedir.com/jobboard/vacancyua.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "UA",
+  "primary_industry": "Blue Collar & Trades",
+  "description": "Vacancyua.com lists job vacancies in Ukraine with salary information in Ukrainian hryvnia, including remote work filters and location-specific pages for cities like Kyiv, Lviv,…",
+  "logo": {
+    "path": "../assets/logos/vacancyua.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/vacancyua.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

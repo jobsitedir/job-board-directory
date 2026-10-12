@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "jobboard.jasperemployment.com",
+  "name": "Jasper Job Board",
+  "website": "https://jobboard.jasperemployment.com/",
+  "profile": "https://jobsitedir.com/jobboard/jobboard.jasperemployment.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "CA",
+  "primary_industry": "Hospitality & Travel",
+  "description": "Jasper Employment Job Board lists jobs in Jasper, Alberta, from multiple employers, with filters for position type and job category.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/jobboard.jasperemployment.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

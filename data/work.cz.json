@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "work.cz",
+  "name": "Work.cz",
+  "website": "https://work.cz/",
+  "profile": "https://jobsitedir.com/jobboard/work.cz?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "CZ",
+  "primary_industry": null,
+  "description": "Work.cz is a Czech job board that lets you search vacancies by city, field, and education level, with featured listings from Prague, Brno, and Ostrava.",
+  "logo": {
+    "path": "../assets/logos/work.cz.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/work.cz.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

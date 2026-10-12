@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "hotel-ya.com",
+  "name": "HOTERES",
+  "website": "https://hotel-ya.com/",
+  "profile": "https://jobsitedir.com/jobboard/hotel-ya.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "JP",
+  "primary_industry": "Hospitality & Travel",
+  "description": "HOTERES is a Japanese job board specialized in the hotel industry, listing permanent, career-change, and new-opening positions across all regions of Japan and overseas.",
+  "logo": {
+    "path": "../assets/logos/hotel-ya.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/hotel-ya.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

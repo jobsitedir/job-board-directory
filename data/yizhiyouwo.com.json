@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "yizhiyouwo.com",
+  "name": "医招网",
+  "website": "https://yizhiyouwo.com/",
+  "profile": "https://jobsitedir.com/jobboard/yizhiyouwo.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "CN",
+  "primary_industry": "Healthcare",
+  "description": "Yizhiyouwo is a specialized recruitment platform for medical and healthcare positions, offering job categories from public hospitals to pharmaceutical companies.",
+  "logo": {
+    "path": "../assets/logos/yizhiyouwo.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/yizhiyouwo.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "centerboard.co.ke",
+  "name": "Center Board",
+  "website": "https://centerboard.co.ke/",
+  "profile": "https://jobsitedir.com/jobboard/centerboard.co.ke?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "KE",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "Center Board is a Kenyan career platform connecting job seekers with verified opportunities and offering businesses HR, payroll, and employee engagement tools.",
+  "logo": {
+    "path": "../assets/logos/centerboard.co.ke.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/centerboard.co.ke.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

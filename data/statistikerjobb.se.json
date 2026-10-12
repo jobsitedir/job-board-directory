@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "statistikerjobb.se",
+  "name": "Statistikerjobb",
+  "website": "https://statistikerjobb.se/",
+  "profile": "https://jobsitedir.com/jobboard/statistikerjobb.se?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "SE",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "Statistikerjobb.se is a Swedish job board listing 386 statistician positions, redirecting applicants to Ledigajobb.se for applications.",
+  "logo": {
+    "path": "../assets/logos/statistikerjobb.se.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/statistikerjobb.se.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

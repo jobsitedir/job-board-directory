@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "misehire.com",
+  "name": "MiseHire",
+  "website": "https://misehire.com/",
+  "profile": "https://jobsitedir.com/jobboard/misehire.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "CA",
+  "primary_industry": "Hospitality & Travel",
+  "description": "MiseHire is a free job board for hospitality professionals across Canada, featuring roles like Chef, Server, and Hotel Manager with visible salary and location details.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/misehire.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

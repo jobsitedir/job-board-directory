@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite JobSiteDir and the dataset release."
+title: "Job Board Directory by JobSiteDir"
+type: dataset
+version: "2026-10.r2"
+url: "https://jobsitedir.com"
+authors:
+  - name: "JobSiteDir"
+license: CC-BY-NC-4.0

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "workinhospo.com.au",
+  "name": "WorkinHospo",
+  "website": "https://workinhospo.com.au/",
+  "profile": "https://jobsitedir.com/jobboard/workinhospo.com.au?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "AU",
+  "primary_industry": "Hospitality & Travel",
+  "description": "WorkinHospo is an Australian hospitality job platform powered by the Australian Restaurant & Cafe Association, offering job search, career pathways, and skills training.",
+  "logo": {
+    "path": "../assets/logos/workinhospo.com.au.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/workinhospo.com.au.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

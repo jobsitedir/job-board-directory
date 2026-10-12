@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "emploiauto.fr",
+  "name": "Emploi Auto",
+  "website": "https://emploiauto.fr/",
+  "profile": "https://jobsitedir.com/jobboard/emploiauto.fr?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "FR",
+  "primary_industry": "Automotive",
+  "description": "EmploiAuto.fr is a French job board focused exclusively on automotive distribution and repair roles, such as mechanic, bodywork painter, and workshop manager.",
+  "logo": {
+    "path": "../assets/logos/emploiauto.fr.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/emploiauto.fr.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

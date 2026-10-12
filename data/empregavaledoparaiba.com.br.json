@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "empregavaledoparaiba.com.br",
+  "name": "Emprega Vale do Paraiba",
+  "website": "https://empregavaledoparaiba.com.br/",
+  "profile": "https://jobsitedir.com/jobboard/empregavaledoparaiba.com.br?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "BR",
+  "primary_industry": null,
+  "description": "Emprega Vale do Paraíba is a free job board focused on the Vale do Paraíba region in Brazil, covering cities like Lorena, Guaratinguetá, and Aparecida.",
+  "logo": {
+    "path": "../assets/logos/empregavaledoparaiba.com.br.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/empregavaledoparaiba.com.br.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

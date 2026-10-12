@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "workech.gr",
+  "name": "Workech",
+  "website": "https://workech.gr/",
+  "profile": "https://jobsitedir.com/jobboard/workech.gr?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "GR",
+  "primary_industry": "Hospitality & Travel",
+  "description": "Workech.gr lists legal jobs in Germany, Netherlands, Italy, and Greece for logistics, production, and tourism, offering contracts, housing, and support from application to arrival.",
+  "logo": {
+    "path": "../assets/logos/workech.gr.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/workech.gr.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

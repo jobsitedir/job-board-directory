@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "cognac-emplois.com",
+  "name": "Cognac Emplois",
+  "website": "https://cognac-emplois.com/",
+  "profile": "https://jobsitedir.com/jobboard/cognac-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": null,
+  "description": "Cognac-Emplois lists 1,192 job offers in Cognac, France, and lets users create personalized email alerts that can be deleted at any time.",
+  "logo": {
+    "path": "../assets/logos/cognac-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/cognac-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

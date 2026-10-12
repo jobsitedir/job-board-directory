@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "empleofrancia.com",
+  "name": "Empleo Francia",
+  "website": "https://empleofrancia.com/",
+  "profile": "https://jobsitedir.com/jobboard/empleofrancia.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": "Legal",
+  "description": "Empleo Francia is a job board for Franco-Spanish professionals, published by the Official Chamber of Commerce of Spain in France (COCEF).",
+  "logo": {
+    "path": "../assets/logos/empleofrancia.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/empleofrancia.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

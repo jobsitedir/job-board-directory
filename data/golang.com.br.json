@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "golang.com.br",
+  "name": "Golang Brasil",
+  "website": "https://golang.com.br/",
+  "profile": "https://jobsitedir.com/jobboard/golang.com.br?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "BR",
+  "primary_industry": "Technical>Software Dev/Programming",
+  "description": "Golang Brasil is a community portal listing 41 active Go/Golang developer jobs in Brazil, with filters for remote, hybrid, and on-site work and seniority levels.",
+  "logo": {
+    "path": "../assets/logos/golang.com.br.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/golang.com.br.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

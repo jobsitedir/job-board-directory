@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "healthcarework.ca",
+  "name": "HealthcareWork.ca",
+  "website": "https://healthcarework.ca/",
+  "profile": "https://jobsitedir.com/jobboard/healthcarework.ca?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "CA",
+  "primary_industry": "Healthcare",
+  "description": "HealthcareWork.ca is a free job platform for Canadian healthcare job seekers and employers, offering verified postings and filters by location, specialty, experience level, and…",
+  "logo": {
+    "path": "../assets/logos/healthcarework.ca.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/healthcarework.ca.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

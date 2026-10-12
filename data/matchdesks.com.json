@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "matchdesks.com",
+  "name": "MatchDesks",
+  "website": "https://matchdesks.com/",
+  "profile": "https://jobsitedir.com/jobboard/matchdesks.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "CA",
+  "primary_industry": null,
+  "description": "MatchDesks is a Canadian job board covering all 13 provinces and territories, with free job posting for employers and mandatory salary ranges on every listing.",
+  "logo": {
+    "path": "../assets/logos/matchdesks.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/matchdesks.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

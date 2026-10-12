@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "flagma-no.com",
+  "name": "Flagma",
+  "website": "https://flagma-no.com/",
+  "profile": "https://jobsitedir.com/jobboard/flagma-no.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "NO",
+  "primary_industry": null,
+  "description": "Flagma is an international business platform operating since 2000, connecting job seekers and employers across 53 countries, with 4,450 current vacancies in 117 Norwegian cities.",
+  "logo": {
+    "path": "../assets/logos/flagma-no.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/flagma-no.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

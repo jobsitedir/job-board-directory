@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "gighour.com",
+  "name": "GigHour",
+  "website": "https://gighour.com/",
+  "profile": "https://jobsitedir.com/jobboard/gighour.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "IN",
+  "primary_industry": "Blue Collar & Trades",
+  "description": "GigHour is a free-to-join hourly-pay platform in India that pays workers within 24 hours via UPI and charges employers a 4-7% fee only when a shift is completed.",
+  "logo": {
+    "path": "../assets/logos/gighour.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/gighour.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

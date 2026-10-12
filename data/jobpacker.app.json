@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "jobpacker.app",
+  "name": "JobPacker",
+  "website": "https://jobpacker.app/",
+  "profile": "https://jobsitedir.com/jobboard/jobpacker.app?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "JP",
+  "primary_industry": "Education",
+  "description": "JobPacker is a free, long-term paid internship job site for students, specializing in the Nagoya City and Aichi area, operated mainly by current Nagoya University students.",
+  "logo": {
+    "path": "../assets/logos/jobpacker.app.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/jobpacker.app.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

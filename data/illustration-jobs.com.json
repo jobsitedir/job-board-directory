@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "illustration-jobs.com",
+  "name": "Illustration Jobs",
+  "website": "https://illustration-jobs.com/",
+  "profile": "https://jobsitedir.com/jobboard/illustration-jobs.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "US",
+  "primary_industry": "Arts & Entertainment",
+  "description": "Illustration-jobs.com is a free job board for illustration roles, where employers can post listings at no cost and job seekers can find positions that explicitly exclude AI…",
+  "logo": {
+    "path": "../assets/logos/illustration-jobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/illustration-jobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

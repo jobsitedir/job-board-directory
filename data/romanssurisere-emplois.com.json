@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "romanssurisere-emplois.com",
+  "name": "Romans-sur-Isère Emplois",
+  "website": "https://romanssurisere-emplois.com/",
+  "profile": "https://jobsitedir.com/jobboard/romanssurisere-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": null,
+  "description": "Romans-sur-Isère job board lists 1,203 local offers with domain filters and email alerts, powered by HelloWork.",
+  "logo": {
+    "path": "../assets/logos/romanssurisere-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/romanssurisere-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

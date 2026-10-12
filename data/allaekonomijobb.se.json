@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "allaekonomijobb.se",
+  "name": "allaekonomijobb.se",
+  "website": "https://allaekonomijobb.se/",
+  "profile": "https://jobsitedir.com/jobboard/allaekonomijobb.se?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "SE",
+  "primary_industry": "Financial Services>General",
+  "description": "Allaekonomijobb.se is a Swedish job board that aggregates economy jobs in one place, currently listing 2,318 positions for job seekers in the finance field.",
+  "logo": {
+    "path": "../assets/logos/allaekonomijobb.se.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/allaekonomijobb.se.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

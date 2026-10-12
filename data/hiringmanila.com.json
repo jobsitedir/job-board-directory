@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "hiringmanila.com",
+  "name": "HIRING MANILA",
+  "website": "https://hiringmanila.com/",
+  "profile": "https://jobsitedir.com/jobboard/hiringmanila.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "PH",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "Hiring Manila is a job search hub for premium career opportunities in the Philippines, offering filtered listings by urgency, work setup, experience, and salary, with AI-driven…",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/hiringmanila.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

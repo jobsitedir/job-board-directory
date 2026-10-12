@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "hoitomo.jp",
+  "name": "ほいとも",
+  "website": "https://hoitomo.jp/",
+  "profile": "https://jobsitedir.com/jobboard/hoitomo.jp?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "JP",
+  "primary_industry": "Healthcare>General",
+  "description": "Hoitomo is a childcare worker job site for the Kansai and Chubu regions, offering over 3,500 listings including permanent, part-time, and temporary staffing roles.",
+  "logo": {
+    "path": "../assets/logos/hoitomo.jp.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/hoitomo.jp.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

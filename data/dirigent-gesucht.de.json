@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "dirigent-gesucht.de",
+  "name": "dirigent-gesucht.de",
+  "website": "https://dirigent-gesucht.de/",
+  "profile": "https://jobsitedir.com/jobboard/dirigent-gesucht.de?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "DE",
+  "primary_industry": "Arts & Entertainment",
+  "description": "Dirigent-gesucht.de is a job portal for brass music (Blasmusik) in Germany, Austria, and Switzerland, offering listings for conductors and instructors.",
+  "logo": {
+    "path": "../assets/logos/dirigent-gesucht.de.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/dirigent-gesucht.de.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

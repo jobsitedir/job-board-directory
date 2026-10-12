@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "larochesuryon-emplois.com",
+  "name": "La Roche-sur-Yon Emplois",
+  "website": "https://larochesuryon-emplois.com/",
+  "profile": "https://jobsitedir.com/jobboard/larochesuryon-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": null,
+  "description": "A local job board listing 2,888 offers in La Roche-sur-Yon, France, with email alerts for personalized job matches.",
+  "logo": {
+    "path": "../assets/logos/larochesuryon-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/larochesuryon-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

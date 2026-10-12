@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "jobs.hr-rocket.com",
+  "name": "HR Rocket",
+  "website": "https://jobs.hr-rocket.com/",
+  "profile": "https://jobsitedir.com/jobboard/jobs.hr-rocket.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "DE",
+  "primary_industry": null,
+  "description": "HR Rocket aggregates German-language job listings from multiple partner boards and its own network of over 110 regional portals, offering AI-powered search and email alerts.",
+  "logo": {
+    "path": "../assets/logos/jobs.hr-rocket.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/jobs.hr-rocket.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

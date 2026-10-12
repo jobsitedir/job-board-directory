@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "skilleto.cz",
+  "name": "Skilleto",
+  "website": "https://skilleto.cz/",
+  "profile": "https://jobsitedir.com/jobboard/skilleto.cz?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "CZ",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "Skilleto is a free AI-powered job portal for Czech job seekers that shows a match score for each job, sorts results by fit rather than ads, and requires all listings to include…",
+  "logo": {
+    "path": "../assets/logos/skilleto.cz.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/skilleto.cz.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

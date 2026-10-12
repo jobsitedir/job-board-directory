@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "utvecklarjobb.nu",
+  "name": "utvecklarjobb.nu",
+  "website": "https://utvecklarjobb.nu/",
+  "profile": "https://jobsitedir.com/jobboard/utvecklarjobb.nu?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "SE",
+  "primary_industry": "Technical>Software Dev/Programming",
+  "description": "Utvecklarjobb.nu aggregates developer job listings in Sweden, including remote positions.",
+  "logo": {
+    "path": "../assets/logos/utvecklarjobb.nu.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/utvecklarjobb.nu.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

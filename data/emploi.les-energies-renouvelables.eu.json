@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "emploi.les-energies-renouvelables.eu",
+  "name": "ECO emploi",
+  "website": "https://emploi.les-energies-renouvelables.eu/",
+  "profile": "https://jobsitedir.com/jobboard/emploi.les-energies-renouvelables.eu?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "FR",
+  "primary_industry": "Energy & Utilities",
+  "description": "ECO emploi is a French job board focused on renewable energy and environmental jobs, offering listings, a candidate space, and employer posting tools.",
+  "logo": {
+    "path": "../assets/logos/emploi.les-energies-renouvelables.eu.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/emploi.les-energies-renouvelables.eu.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

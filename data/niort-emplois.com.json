@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "niort-emplois.com",
+  "name": "Niort Emplois",
+  "website": "https://niort-emplois.com/",
+  "profile": "https://jobsitedir.com/jobboard/niort-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": null,
+  "description": "Niort-emplois.com is a job board listing 2,605 offers in Niort, France, aggregating positions from the Hellowork platform across domains like BTP, Commerce, and Data et IA.",
+  "logo": {
+    "path": "../assets/logos/niort-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/niort-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

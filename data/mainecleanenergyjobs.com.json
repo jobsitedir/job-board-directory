@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "mainecleanenergyjobs.com",
+  "name": "Maine Clean Energy Jobs Network",
+  "website": "https://mainecleanenergyjobs.com/",
+  "profile": "https://jobsitedir.com/jobboard/mainecleanenergyjobs.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "US",
+  "primary_industry": "Energy & Utilities",
+  "description": "Maine Clean Energy Jobs Network connects workers, students, and new Mainers to clean energy careers in Maine across five sectors including renewables and energy efficiency.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/mainecleanenergyjobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

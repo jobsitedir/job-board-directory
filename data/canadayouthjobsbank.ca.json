@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "canadayouthjobsbank.ca",
+  "name": "Youth Jobs Bank Canada",
+  "website": "https://canadayouthjobsbank.ca/",
+  "profile": "https://jobsitedir.com/jobboard/canadayouthjobsbank.ca?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "CA",
+  "primary_industry": null,
+  "description": "Canada Youth Jobs Bank is a Canadian job advertising platform that helps employers connect with young talent across Canada, offering flexible packages and supporting LMIA…",
+  "logo": {
+    "path": "../assets/logos/canadayouthjobsbank.ca.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/canadayouthjobsbank.ca.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

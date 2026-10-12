@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "reps4hire.com",
+  "name": "Reps4Hire",
+  "website": "https://reps4hire.com/",
+  "profile": "https://jobsitedir.com/jobboard/reps4hire.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "US",
+  "primary_industry": "Sales & Business Development",
+  "description": "Reps4Hire connects employers with sales representatives globally, offering one-time fee job postings with distribution to partner sites for listings of 6 months or longer.",
+  "logo": {
+    "path": "../assets/logos/reps4hire.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/reps4hire.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

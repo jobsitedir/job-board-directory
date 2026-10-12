@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "jobboard.posna.org",
+  "name": "POSNA Job Board",
+  "website": "https://jobboard.posna.org/",
+  "profile": "https://jobsitedir.com/jobboard/jobboard.posna.org?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "US",
+  "primary_industry": "Healthcare>Physician",
+  "description": "The POSNA Job Board connects job seekers and employers specifically in pediatric orthopaedics, offering account features like resume posting, job applications, and job matching…",
+  "logo": {
+    "path": "../assets/logos/jobboard.posna.org.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/jobboard.posna.org.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

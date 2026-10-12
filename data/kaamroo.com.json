@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "kaamroo.com",
+  "name": "KaamRoo",
+  "website": "https://kaamroo.com/",
+  "profile": "https://jobsitedir.com/jobboard/kaamroo.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "NP",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "KaamRoo is a unified platform for jobs, freelance gigs, and professional networking, initially launching in Nepal, with AI-powered matching and global remote-first roles.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/kaamroo.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

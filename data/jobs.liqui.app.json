@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "jobs.liqui.app",
+  "name": "Portal de Empleos Liqui",
+  "website": "https://jobs.liqui.app/",
+  "profile": "https://jobsitedir.com/jobboard/jobs.liqui.app?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "AR",
+  "primary_industry": null,
+  "description": "Liqui Jobs is a job board for Argentina, focusing on retail, industry, and logistics, with keyword and location search and a 'Postular' apply button.",
+  "logo": {
+    "path": "../assets/logos/jobs.liqui.app.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/jobs.liqui.app.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

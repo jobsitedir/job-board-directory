@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "montecarlowork.com",
+  "name": "Monte Carlo Work",
+  "website": "https://montecarlowork.com/",
+  "profile": "https://jobsitedir.com/jobboard/montecarlowork.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "MC",
+  "primary_industry": null,
+  "description": "Monte Carlo Work is a free recruitment platform for job seekers and employers focused on Monaco and its cross-border employment area, listing 263 offers including hospitality,…",
+  "logo": {
+    "path": "../assets/logos/montecarlowork.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/montecarlowork.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

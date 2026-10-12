@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "hssbbs.com",
+  "name": "وظائف شاغرة في السعودية",
+  "website": "https://hssbbs.com/",
+  "profile": "https://jobsitedir.com/jobboard/hssbbs.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "SA",
+  "primary_industry": null,
+  "description": "Hssbbs.com is an independent news platform that tracks and publishes job opportunities and employment announcements across various sectors in Saudi Arabia, featuring postings…",
+  "logo": {
+    "path": "../assets/logos/hssbbs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/hssbbs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "jobs-in-mittelhessen.de",
+  "name": "jobs-in-mittelhessen.de",
+  "website": "https://jobs-in-mittelhessen.de/",
+  "profile": "https://jobsitedir.com/jobboard/jobs-in-mittelhessen.de?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "DE",
+  "primary_industry": null,
+  "description": "Jobs-in-Mittelhessen.de lists over 35,000 regional jobs in central Hesse, covering cities like Gießen, Marburg, and Wetzlar, with filters for apprenticeships, mini jobs,…",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/jobs-in-mittelhessen.de.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

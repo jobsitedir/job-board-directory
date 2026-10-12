@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "jobler.com.ua",
+  "name": "Jobler",
+  "website": "https://jobler.com.ua/",
+  "profile": "https://jobsitedir.com/jobboard/jobler.com.ua?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "UA",
+  "primary_industry": null,
+  "description": "Jobler.com.ua is a Ukrainian job platform requiring salary ranges in all listings, with KYB-verified employers and moderation against fraud.",
+  "logo": {
+    "path": "../assets/logos/jobler.com.ua.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/jobler.com.ua.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

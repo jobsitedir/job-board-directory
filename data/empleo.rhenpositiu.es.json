@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "empleo.rhenpositiu.es",
+  "name": "RH en positiu",
+  "website": "https://empleo.rhenpositiu.es/",
+  "profile": "https://jobsitedir.com/jobboard/empleo.rhenpositiu.es?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "ES",
+  "primary_industry": null,
+  "description": "A Spanish talent network connecting job seekers with opportunities, primarily in the Valencian Community and Catalonia, offering resume uploads, profile sharing, and in-person…",
+  "logo": {
+    "path": "../assets/logos/empleo.rhenpositiu.es.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/empleo.rhenpositiu.es.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

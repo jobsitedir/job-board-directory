@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "controllerjobb.se",
+  "name": "controllerjobb.se",
+  "website": "https://controllerjobb.se/",
+  "profile": "https://jobsitedir.com/jobboard/controllerjobb.se?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "SE",
+  "primary_industry": "Financial Services>General",
+  "description": "Controllerjobb.se is a Swedish job board listing controller positions, with an option to install the site as an app for quick access.",
+  "logo": {
+    "path": "../assets/logos/controllerjobb.se.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/controllerjobb.se.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

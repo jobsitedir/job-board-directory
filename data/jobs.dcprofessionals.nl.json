@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "jobs.dcprofessionals.nl",
+  "name": "DC Professionals",
+  "website": "https://jobs.dcprofessionals.nl/",
+  "profile": "https://jobsitedir.com/jobboard/jobs.dcprofessionals.nl?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "NL",
+  "primary_industry": null,
+  "description": "The website provides a search function that can also search within job descriptions.",
+  "logo": {
+    "path": "../assets/logos/jobs.dcprofessionals.nl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/jobs.dcprofessionals.nl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

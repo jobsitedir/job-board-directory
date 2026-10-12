@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "fresh-job-globe.lovable.app",
+  "name": "وظائف فريش",
+  "website": "https://fresh-job-globe.lovable.app/",
+  "profile": "https://jobsitedir.com/jobboard/fresh-job-globe.lovable.app?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": null,
+  "primary_industry": null,
+  "description": "Fresh Job Globe is an Arabic job platform covering six countries, with a dedicated section for entry-level roles and new graduates.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/fresh-job-globe.lovable.app.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

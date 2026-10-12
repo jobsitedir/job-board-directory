@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "prod.ekariera.sk",
+  "name": "eKariera.sk",
+  "website": "https://prod.ekariera.sk/",
+  "profile": "https://jobsitedir.com/jobboard/prod.ekariera.sk?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "SK",
+  "primary_industry": null,
+  "description": "eKariéra.sk is a Slovak job website founded in 2014 in Prague by Michal Hardyn and Ivo Prax, serving the Slovak market.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/prod.ekariera.sk.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

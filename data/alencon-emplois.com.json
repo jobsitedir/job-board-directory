@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "alencon-emplois.com",
+  "name": "Alençon Emplois",
+  "website": "https://alencon-emplois.com/",
+  "profile": "https://jobsitedir.com/jobboard/alencon-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": null,
+  "description": "Alencon-emplois.com is a local job board listing 1,596 offers in Alençon, France, and is part of the Hellowork network.",
+  "logo": {
+    "path": "../assets/logos/alencon-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/alencon-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

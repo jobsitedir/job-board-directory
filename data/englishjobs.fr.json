@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "englishjobs.fr",
+  "name": "English Jobs France",
+  "website": "https://englishjobs.fr/",
+  "profile": "https://jobsitedir.com/jobboard/englishjobs.fr?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": null,
+  "description": "EnglishJobs.fr is a job search engine for English-speaking professionals seeking roles in France that require no French language skills, with listings organized by region and…",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/englishjobs.fr.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

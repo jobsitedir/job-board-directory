@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "lokerlembaga.com",
+  "name": "Loker Lembaga",
+  "website": "https://lokerlembaga.com/",
+  "profile": "https://jobsitedir.com/jobboard/lokerlembaga.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "ID",
+  "primary_industry": "Government",
+  "description": "Lokerlembaga.com lists job openings from Indonesian government institutions, including ministries and the National Police.",
+  "logo": {
+    "path": "../assets/logos/lokerlembaga.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/lokerlembaga.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

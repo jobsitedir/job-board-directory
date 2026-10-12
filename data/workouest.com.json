@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "workouest.com",
+  "name": "Work Ouest",
+  "website": "https://workouest.com/",
+  "profile": "https://jobsitedir.com/jobboard/workouest.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": null,
+  "description": "Work Ouest is a job platform focused on the Pays de la Loire region, where job seekers can create a free profile and employers can post offers for free.",
+  "logo": {
+    "path": "../assets/logos/workouest.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/workouest.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "saint-priest-emplois.com",
+  "name": "Saint-Priest Emplois",
+  "website": "https://saint-priest-emplois.com/",
+  "profile": "https://jobsitedir.com/jobboard/saint-priest-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": null,
+  "description": "Saint-Priest-emplois.com lists 2511 job offers in Saint-Priest, France, searchable by professional domain and with email alerts for personalized updates.",
+  "logo": {
+    "path": "../assets/logos/saint-priest-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/saint-priest-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

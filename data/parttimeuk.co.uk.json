@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "parttimeuk.co.uk",
+  "name": "PartTime UK",
+  "website": "https://parttimeuk.co.uk/",
+  "profile": "https://jobsitedir.com/jobboard/parttimeuk.co.uk?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "GB",
+  "primary_industry": "Specialty - Parttime/Hourly",
+  "description": "PartTimeUK connects UK students with part-time jobs, offering free applications and job filtering by location, category, and work period.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/parttimeuk.co.uk.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

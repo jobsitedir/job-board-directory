@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "newlander.ca",
+  "name": "Newlander",
+  "website": "https://newlander.ca/",
+  "profile": "https://jobsitedir.com/jobboard/newlander.ca?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "CA",
+  "primary_industry": null,
+  "description": "Newlander is a free job board for newcomers to Canada, listing over 3,000 verified jobs from employers who welcome candidates without Canadian experience.",
+  "logo": {
+    "path": "../assets/logos/newlander.ca.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/newlander.ca.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

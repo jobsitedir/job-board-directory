@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "bab-navi.dandi.co.jp",
+  "name": "BABナビ（バブナビ）",
+  "website": "https://bab-navi.dandi.co.jp/",
+  "profile": "https://jobsitedir.com/jobboard/bab-navi.dandi.co.jp?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "JP",
+  "primary_industry": null,
+  "description": "BAB Navi is a Japanese job site specializing in the disability employment quota, listing openings for people with physical, mental, and intellectual disabilities.",
+  "logo": {
+    "path": "../assets/logos/bab-navi.dandi.co.jp.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/bab-navi.dandi.co.jp.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

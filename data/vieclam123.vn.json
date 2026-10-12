@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "vieclam123.vn",
+  "name": "Vieclam123",
+  "website": "https://vieclam123.vn/",
+  "profile": "https://jobsitedir.com/jobboard/vieclam123.vn?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "VN",
+  "primary_industry": null,
+  "description": "Vieclam123.vn is a Vietnamese job board that lets you filter jobs by location, salary, experience, job level, and employment type.",
+  "logo": {
+    "path": "../assets/logos/vieclam123.vn.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/vieclam123.vn.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

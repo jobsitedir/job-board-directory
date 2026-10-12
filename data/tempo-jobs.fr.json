@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "tempo-jobs.fr",
+  "name": "Tempo Jobs",
+  "website": "https://tempo-jobs.fr/",
+  "profile": "https://jobsitedir.com/jobboard/tempo-jobs.fr?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "FR",
+  "primary_industry": "Hospitality & Travel",
+  "description": "Tempo Jobs is a free mobile-first platform connecting hospitality workers with temporary jobs in cafés, hotels, and restaurants across France.",
+  "logo": {
+    "path": "../assets/logos/tempo-jobs.fr.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/tempo-jobs.fr.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

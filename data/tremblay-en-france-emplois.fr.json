@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "tremblay-en-france-emplois.fr",
+  "name": "Tremblay-en-France Emplois",
+  "website": "https://tremblay-en-france-emplois.fr/",
+  "profile": "https://jobsitedir.com/jobboard/tremblay-en-france-emplois.fr?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": null,
+  "description": "A local job board listing 585 offers in Tremblay-en-France, France, with email alerts and CV upload for recruiter contact.",
+  "logo": {
+    "path": "../assets/logos/tremblay-en-france-emplois.fr.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/tremblay-en-france-emplois.fr.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

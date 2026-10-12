@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "chickenloop.com",
+  "name": "Chickenloop",
+  "website": "https://chickenloop.com/",
+  "profile": "https://jobsitedir.com/jobboard/chickenloop.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "DE",
+  "primary_industry": "Sports & Recreation",
+  "description": "Chickenloop is a watersports talent network and job board for kite, foil, surf, sail, dive, and yacht crew specialties, where verified instructors and crew connect with hiring…",
+  "logo": {
+    "path": "../assets/logos/chickenloop.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/chickenloop.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

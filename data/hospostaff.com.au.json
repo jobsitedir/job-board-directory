@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "hospostaff.com.au",
+  "name": "Hospo Staff Australia",
+  "website": "https://hospostaff.com.au/",
+  "profile": "https://jobsitedir.com/jobboard/hospostaff.com.au?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "AU",
+  "primary_industry": "Hospitality & Travel",
+  "description": "Hospo Staff is a dedicated hospitality job board for Australia, covering all states and territories with roles in cafés, restaurants, pubs, bars, hotels, clubs, and venues.",
+  "logo": {
+    "path": "../assets/logos/hospostaff.com.au.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/hospostaff.com.au.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "career.zycto.com",
+  "name": "Zycto Careers",
+  "website": "https://career.zycto.com/",
+  "profile": "https://jobsitedir.com/jobboard/career.zycto.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Generalist",
+  "primary_country": null,
+  "primary_industry": null,
+  "description": "Career.zycto.com is a job board for hourly and entry-level roles in the US, with salary visibility and filters by location, category, skill, or experience level.",
+  "logo": {
+    "path": "../assets/logos/career.zycto.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/career.zycto.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

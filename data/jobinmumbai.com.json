@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "jobinmumbai.com",
+  "name": "JobsinMumbai",
+  "website": "https://jobinmumbai.com/",
+  "profile": "https://jobsitedir.com/jobboard/jobinmumbai.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "IN",
+  "primary_industry": null,
+  "description": "JobsinMumbai.com is a job board for Mumbai, India, offering recruiters pay-per-ad and pay-per-click pricing, and job seekers free CV reviews, job alerts, and online courses.",
+  "logo": {
+    "path": "../assets/logos/jobinmumbai.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/jobinmumbai.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

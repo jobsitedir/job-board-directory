@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "villeurbanne-emplois.com",
+  "name": "Villeurbanne Emplois",
+  "website": "https://villeurbanne-emplois.com/",
+  "profile": "https://jobsitedir.com/jobboard/villeurbanne-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": null,
+  "description": "Villeurbanne-emplois.com lists 1,711 job offers in Villeurbanne, France (postal code 69), with direct application links and job alert creation.",
+  "logo": {
+    "path": "../assets/logos/villeurbanne-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/villeurbanne-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

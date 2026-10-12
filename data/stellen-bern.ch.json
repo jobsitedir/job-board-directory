@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "stellen-bern.ch",
+  "name": "Stellen Bern",
+  "website": "https://stellen-bern.ch/",
+  "profile": "https://jobsitedir.com/jobboard/stellen-bern.ch?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "CH",
+  "primary_industry": null,
+  "description": "A regional job board focused on the city of Bern and surrounding areas in Switzerland, listing daily job openings across all industries.",
+  "logo": {
+    "path": "../assets/logos/stellen-bern.ch.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/stellen-bern.ch.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

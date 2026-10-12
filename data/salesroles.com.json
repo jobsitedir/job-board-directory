@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "salesroles.com",
+  "name": "Sales Roles",
+  "website": "https://salesroles.com/",
+  "profile": "https://jobsitedir.com/jobboard/salesroles.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "GB",
+  "primary_industry": "Sales & Business Development",
+  "description": "SalesRoles is a UK-based job board focused exclusively on sales jobs, offering CV registration, job alerts, and paid employer postings from £70+VAT.",
+  "logo": {
+    "path": "../assets/logos/salesroles.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/salesroles.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "jagirsathi.com",
+  "name": "JagirSathi",
+  "website": "https://jagirsathi.com/",
+  "profile": "https://jobsitedir.com/jobboard/jagirsathi.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "NP",
+  "primary_industry": "Blue Collar & Trades",
+  "description": "JagirSathi connects job seekers and employers in Nepal, focusing on frontline, technical, and trade roles with salary visibility and assisted hiring support.",
+  "logo": {
+    "path": "../assets/logos/jagirsathi.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/jagirsathi.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

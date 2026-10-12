@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "buscandochance.com",
+  "name": "BuscandoChance",
+  "website": "https://buscandochance.com/",
+  "profile": "https://jobsitedir.com/jobboard/buscandochance.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "GT",
+  "primary_industry": null,
+  "description": "BuscandoChance is a job board for Guatemala and Latin America, offering free job posting during its opening period and filters by country, city, modality, contract type, and…",
+  "logo": {
+    "path": "../assets/logos/buscandochance.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/buscandochance.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

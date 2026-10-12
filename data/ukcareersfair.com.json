@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "ukcareersfair.com",
+  "name": "UK Careers Fair",
+  "website": "https://ukcareersfair.com/",
+  "profile": "https://jobsitedir.com/jobboard/ukcareersfair.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "GB",
+  "primary_industry": null,
+  "description": "UK Careers Fair connects job seekers with employers through over 100 in-person fairs across 50+ UK locations each year, plus a jobs board that requires no CV or account to apply.",
+  "logo": {
+    "path": "../assets/logos/ukcareersfair.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/ukcareersfair.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

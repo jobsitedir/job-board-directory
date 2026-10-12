@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "joballer.com",
+  "name": "Joballer",
+  "website": "https://joballer.com/",
+  "profile": "https://jobsitedir.com/jobboard/joballer.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "KE",
+  "primary_industry": null,
+  "description": "Joballer is a free Kenyan job board with daily-updated listings across 24 categories, direct application links, and no account required to apply.",
+  "logo": {
+    "path": "../assets/logos/joballer.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/joballer.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

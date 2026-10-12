@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "jobaddaa4u.in",
+  "name": "jobaddaa4u",
+  "website": "https://jobaddaa4u.in/",
+  "profile": "https://jobsitedir.com/jobboard/jobaddaa4u.in?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "IN",
+  "primary_industry": "Government",
+  "description": "JobAddaa4U is a free Indian job portal offering daily alerts for government, private, fresher, and work-from-home jobs across all states, with a focus on Rajasthan, Delhi,…",
+  "logo": {
+    "path": "../assets/logos/jobaddaa4u.in.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/jobaddaa4u.in.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

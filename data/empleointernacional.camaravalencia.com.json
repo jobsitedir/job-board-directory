@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "empleointernacional.camaravalencia.com",
+  "name": "Empleo Internacional Cámara Valencia",
+  "website": "https://empleointernacional.camaravalencia.com/",
+  "profile": "https://jobsitedir.com/jobboard/empleointernacional.camaravalencia.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "ES",
+  "primary_industry": null,
+  "description": "Empleo Internacional is a job portal by the Valencia Chamber of Commerce for international employment, offering separate registration for candidates and companies.",
+  "logo": {
+    "path": "../assets/logos/empleointernacional.camaravalencia.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/empleointernacional.camaravalencia.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

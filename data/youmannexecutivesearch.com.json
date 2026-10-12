@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "youmannexecutivesearch.com",
+  "name": "Youmann Executive Search",
+  "website": "https://youmannexecutivesearch.com/",
+  "profile": "https://jobsitedir.com/jobboard/youmannexecutivesearch.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": null,
+  "primary_industry": "Consulting",
+  "description": "YouManne Executive Search connects professionals and companies across Africa, specializing in senior and management roles with over 12 active job offers this week.",
+  "logo": {
+    "path": "../assets/logos/youmannexecutivesearch.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/youmannexecutivesearch.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

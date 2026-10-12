@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "marineria.it",
+  "name": "Marineria.it",
+  "website": "https://marineria.it/",
+  "profile": "https://jobsitedir.com/jobboard/marineria.it?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "IT",
+  "primary_industry": "Aviation & Aerospace",
+  "description": "Italian maritime crew recruitment platform specializing in matching seafarers with employers for yacht and ship positions across Italy and the Mediterranean.",
+  "logo": {
+    "path": "../assets/logos/marineria.it.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/marineria.it.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

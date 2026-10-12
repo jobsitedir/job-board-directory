@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "mumhours.co.uk",
+  "name": "Mum Hours UK",
+  "website": "https://mumhours.co.uk/",
+  "profile": "https://jobsitedir.com/jobboard/mumhours.co.uk?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "GB",
+  "primary_industry": null,
+  "description": "Mum Hours UK is a curated job board and community platform for mothers in the UK, featuring vetted flexible roles and a coworking initiative called The Mum Quarter.",
+  "logo": {
+    "path": "../assets/logos/mumhours.co.uk.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/mumhours.co.uk.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

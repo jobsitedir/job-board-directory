@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "geekjob.ru",
+  "name": "Geekjob",
+  "website": "https://geekjob.ru/",
+  "profile": "https://jobsitedir.com/jobboard/geekjob.ru?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "RU",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "Geekjob is a Russian job site focused exclusively on IT & Digital roles, offering anonymous resumes and a database of over 150,000 specialists.",
+  "logo": {
+    "path": "../assets/logos/geekjob.ru.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/geekjob.ru.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

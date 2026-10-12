@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "lokerjkt.id",
+  "name": "Loker Jakarta",
+  "website": "https://lokerjkt.id/",
+  "profile": "https://jobsitedir.com/jobboard/lokerjkt.id?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "ID",
+  "primary_industry": "Hospitality & Catering",
+  "description": "Lokerjkt.id is a job platform for seekers in Jakarta and surrounding areas, listing full-time and part-time roles with direct application links.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/lokerjkt.id.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

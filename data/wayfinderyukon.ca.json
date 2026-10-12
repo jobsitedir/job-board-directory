@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "wayfinderyukon.ca",
+  "name": "Wayfinder Yukon",
+  "website": "https://wayfinderyukon.ca/",
+  "profile": "https://jobsitedir.com/jobboard/wayfinderyukon.ca?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "CA",
+  "primary_industry": "Government",
+  "description": "Wayfinder is a free Yukon job and training website built specifically for Yukon First Nations people, featuring local postings, funding info, and cultural events.",
+  "logo": {
+    "path": "../assets/logos/wayfinderyukon.ca.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/wayfinderyukon.ca.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

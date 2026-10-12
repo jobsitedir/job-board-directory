@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "hrjobb.nu",
+  "name": "hrjobb.nu",
+  "website": "https://hrjobb.nu/",
+  "profile": "https://jobsitedir.com/jobboard/hrjobb.nu?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "SE",
+  "primary_industry": null,
+  "description": "HRjobb.nu is a Swedish job board listing HR positions, including remote roles and specialties like recruitment and payroll, with location details.",
+  "logo": {
+    "path": "../assets/logos/hrjobb.nu.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/hrjobb.nu.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

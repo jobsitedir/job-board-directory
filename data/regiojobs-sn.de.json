@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "regiojobs-sn.de",
+  "name": "RegioJobs-SN",
+  "website": "https://regiojobs-sn.de/",
+  "profile": "https://jobsitedir.com/jobboard/regiojobs-sn.de?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "DE",
+  "primary_industry": null,
+  "description": "RegioJobs-SN is a job portal specialized in the German state of Saxony, focusing on the regional job market with over 5,000 active listings across industry, crafts, IT, and…",
+  "logo": {
+    "path": "../assets/logos/regiojobs-sn.de.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/regiojobs-sn.de.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

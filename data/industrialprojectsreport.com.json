@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "industrialprojectsreport.com",
+  "name": "Industrial Projects Report",
+  "website": "https://industrialprojectsreport.com/",
+  "profile": "https://jobsitedir.com/jobboard/industrialprojectsreport.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "US",
+  "primary_industry": "Construction",
+  "description": "Industrial Projects Report is a construction job board for per diem craft and management personnel, connecting workers to projects nationwide for over 30 years.",
+  "logo": {
+    "path": "../assets/logos/industrialprojectsreport.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/industrialprojectsreport.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "jobsintr.net",
+  "name": "jobsintr.net",
+  "website": "https://jobsintr.net/",
+  "profile": "https://jobsitedir.com/jobboard/jobsintr.net?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "TR",
+  "primary_industry": null,
+  "description": "Jobsintr.net is an Arabic-language job board for Arabic-speaking job seekers in Turkey, listing opportunities across all Turkish provinces and over 30 specialties.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/jobsintr.net.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

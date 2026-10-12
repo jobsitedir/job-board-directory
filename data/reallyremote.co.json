@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "reallyremote.co",
+  "name": "Really Remote",
+  "website": "https://reallyremote.co/",
+  "profile": "https://jobsitedir.com/jobboard/reallyremote.co?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "US",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "Really Remote is a free job board that screens listings for hidden location restrictions, aggregates remote jobs from Himalayas, Jobicy, and Remotive, and offers weekly alerts…",
+  "logo": {
+    "path": "../assets/logos/reallyremote.co.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/reallyremote.co.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

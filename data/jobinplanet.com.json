@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "jobinplanet.com",
+  "name": "Jobinplanet",
+  "website": "https://jobinplanet.com/",
+  "profile": "https://jobsitedir.com/jobboard/jobinplanet.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "ES",
+  "primary_industry": null,
+  "description": "Jobinplanet is a Spanish job platform focused on junior talent and young professionals, offering job offers, internships, and AI-based matching.",
+  "logo": {
+    "path": "../assets/logos/jobinplanet.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/jobinplanet.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

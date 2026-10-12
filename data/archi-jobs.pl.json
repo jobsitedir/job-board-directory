@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "archi-jobs.pl",
+  "name": "Archi-Jobs",
+  "website": "https://archi-jobs.pl/",
+  "profile": "https://jobsitedir.com/jobboard/archi-jobs.pl?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "PL",
+  "primary_industry": "Construction",
+  "description": "Archi-Jobs.pl is a Polish job board for architecture, interior design, BIM, and urban planning roles, offering paid packages for employers to post listings.",
+  "logo": {
+    "path": "../assets/logos/archi-jobs.pl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/archi-jobs.pl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "vagasoffshore.com.br",
+  "name": "Vagas Offshore",
+  "website": "https://vagasoffshore.com.br/",
+  "profile": "https://jobsitedir.com/jobboard/vagasoffshore.com.br?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "BR",
+  "primary_industry": "Energy & Utilities",
+  "description": "VagasOffshore is a free job board for oil, gas, and energy sector roles, operating since 2015, with additional paid HR and logistics services for companies.",
+  "logo": {
+    "path": "../assets/logos/vagasoffshore.com.br.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/vagasoffshore.com.br.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

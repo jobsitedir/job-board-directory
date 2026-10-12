@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "xn--montrjobb-37a.se",
+  "name": "Montörjobb.se",
+  "website": "https://xn--montrjobb-37a.se/",
+  "profile": "https://jobsitedir.com/jobboard/xn--montrjobb-37a.se?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "SE",
+  "primary_industry": "Blue Collar & Trades",
+  "description": "Montörjobb.se is a Swedish job board listing 3,884 assembler (montör) positions, with roles in locations like Stockholm and specialties such as VVS-montör and rörmontör.",
+  "logo": {
+    "path": "../assets/logos/xn--montrjobb-37a.se.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/xn--montrjobb-37a.se.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "ccglobalcareers.com",
+  "name": "CCGlobal",
+  "website": "https://ccglobalcareers.com/",
+  "profile": "https://jobsitedir.com/jobboard/ccglobalcareers.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "IN",
+  "primary_industry": null,
+  "description": "CC Global Career is a job portal for Catholic community job seekers, offering verified openings in India and abroad, supported by the Catholic Congress and Guidal Global Pvt.",
+  "logo": {
+    "path": "../assets/logos/ccglobalcareers.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/ccglobalcareers.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "bavachki.bg",
+  "name": "Bavachki.bg",
+  "website": "https://bavachki.bg/",
+  "profile": "https://jobsitedir.com/jobboard/bavachki.bg?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "BG",
+  "primary_industry": "Healthcare>Assisted Living",
+  "description": "Bavachki.bg is a Bulgarian platform for finding babysitters and nannies, with hourly rates in euros and a one-time fee of 69€ for unlimited profile access for 365 days.",
+  "logo": {
+    "path": "../assets/logos/bavachki.bg.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/bavachki.bg.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "montlucon-emplois.com",
+  "name": "Montluçon Emplois",
+  "website": "https://montlucon-emplois.com/",
+  "profile": "https://jobsitedir.com/jobboard/montlucon-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": null,
+  "description": "Montlucon-emplois.com lists over 1,000 job offers in Montluçon, France, with personalized alerts and browsing by professional domain.",
+  "logo": {
+    "path": "../assets/logos/montlucon-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/montlucon-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

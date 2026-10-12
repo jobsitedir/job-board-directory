@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "boatingcareers.com.au",
+  "name": "Boating Careers Australia",
+  "website": "https://boatingcareers.com.au/",
+  "profile": "https://jobsitedir.com/jobboard/boatingcareers.com.au?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "AU",
+  "primary_industry": "Automotive",
+  "description": "Boating Careers is a Victorian job platform for the boating and marine industry, offering apprenticeships, job listings, and training resources.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/boatingcareers.com.au.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

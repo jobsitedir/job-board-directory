@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "laplateformedelemploi.com",
+  "name": "La Plateforme de l'Emploi",
+  "website": "https://laplateformedelemploi.com/",
+  "profile": "https://jobsitedir.com/jobboard/laplateformedelemploi.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": null,
+  "description": "La Plateforme de l'Emploi is a free French job site where every offer shows real salary, location, and team details upfront, and guarantees a response to every application.",
+  "logo": {
+    "path": "../assets/logos/laplateformedelemploi.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/laplateformedelemploi.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

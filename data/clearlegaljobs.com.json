@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "clearlegaljobs.com",
+  "name": "Clear Legal Jobs",
+  "website": "https://clearlegaljobs.com/",
+  "profile": "https://jobsitedir.com/jobboard/clearlegaljobs.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "CA",
+  "primary_industry": "Legal",
+  "description": "Clear Legal Jobs is a Canadian legal job board where job seekers can search and apply for roles from law clerk to lawyer, and employers can post ads starting at $199.",
+  "logo": {
+    "path": "../assets/logos/clearlegaljobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/clearlegaljobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

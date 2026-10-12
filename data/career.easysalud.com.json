@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "career.easysalud.com",
+  "name": "EasySalud",
+  "website": "https://career.easysalud.com/",
+  "profile": "https://jobsitedir.com/jobboard/career.easysalud.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "ES",
+  "primary_industry": "Healthcare",
+  "description": null,
+  "logo": {
+    "path": "../assets/logos/career.easysalud.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/career.easysalud.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

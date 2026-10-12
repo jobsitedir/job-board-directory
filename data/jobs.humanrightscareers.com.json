@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "jobs.humanrightscareers.com",
+  "name": "Human Rights Careers",
+  "website": "https://jobs.humanrightscareers.com/",
+  "profile": "https://jobsitedir.com/jobboard/jobs.humanrightscareers.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "US",
+  "primary_industry": "Non-Profit",
+  "description": "Human Rights Careers Jobs is a job board for human rights professionals, offering filters by issue, region, experience level, work mode, organization type, country, and job…",
+  "logo": {
+    "path": "../assets/logos/jobs.humanrightscareers.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/jobs.humanrightscareers.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

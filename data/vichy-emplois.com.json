@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "vichy-emplois.com",
+  "name": "Vichy Emplois",
+  "website": "https://vichy-emplois.com/",
+  "profile": "https://jobsitedir.com/jobboard/vichy-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": null,
+  "description": "Vichy-emplois.com lists 1044 job offers in Vichy, France, organized by professional domain with publication dates and personalized email alerts.",
+  "logo": {
+    "path": "../assets/logos/vichy-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/vichy-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

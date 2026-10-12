@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "xn--kundtjnstjobb-gfb.nu",
+  "name": "kundtjänstjobb.nu",
+  "website": "https://xn--kundtjnstjobb-gfb.nu/",
+  "profile": "https://jobsitedir.com/jobboard/xn--kundtjnstjobb-gfb.nu?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "SE",
+  "primary_industry": null,
+  "description": "A Swedish job board listing 844 customer service positions, including remote roles and jobs that accept applications without a CV.",
+  "logo": {
+    "path": "../assets/logos/xn--kundtjnstjobb-gfb.nu.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/xn--kundtjnstjobb-gfb.nu.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

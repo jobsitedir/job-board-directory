@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "ajira.co.tz",
+  "name": "Ajira.co.tz",
+  "website": "https://ajira.co.tz/",
+  "profile": "https://jobsitedir.com/jobboard/ajira.co.tz?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "TZ",
+  "primary_industry": null,
+  "description": "Ajira.co.tz is a Tanzanian job website listing over 650 live jobs, with features for job seekers and employers, including resume uploads and one-click applications.",
+  "logo": {
+    "path": "../assets/logos/ajira.co.tz.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/ajira.co.tz.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

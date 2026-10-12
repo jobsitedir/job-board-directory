@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "jobmesh.co.uk",
+  "name": "JobMESH",
+  "website": "https://jobmesh.co.uk/",
+  "profile": "https://jobsitedir.com/jobboard/jobmesh.co.uk?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "GB",
+  "primary_industry": null,
+  "description": "JobMESH is a UK job board that aggregates listings from multiple sources, allowing you to search and apply without registering or paying.",
+  "logo": {
+    "path": "../assets/logos/jobmesh.co.uk.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/jobmesh.co.uk.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

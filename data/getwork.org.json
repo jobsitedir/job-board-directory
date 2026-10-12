@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "getwork.org",
+  "name": "GetWork",
+  "website": "https://getwork.org/",
+  "profile": "https://jobsitedir.com/jobboard/getwork.org?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "IN",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "GetWork is a job platform connecting candidates to roles in finance, tech, and quick commerce, with salary details shown on some listings.",
+  "logo": {
+    "path": "../assets/logos/getwork.org.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/getwork.org.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

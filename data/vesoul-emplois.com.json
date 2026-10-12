@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "vesoul-emplois.com",
+  "name": "Vesoul Emplois",
+  "website": "https://vesoul-emplois.com/",
+  "profile": "https://jobsitedir.com/jobboard/vesoul-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": null,
+  "description": "Vesoul-emplois.com lists 1080 job offers in Vesoul, France, and lets you browse by professional domain or set up email alerts for personalized listings.",
+  "logo": {
+    "path": "../assets/logos/vesoul-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/vesoul-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

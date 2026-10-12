@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "tansaku-job.net",
+  "name": "タンサクジョブ",
+  "website": "https://tansaku-job.net/",
+  "profile": "https://jobsitedir.com/jobboard/tansaku-job.net?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Generalist",
+  "primary_country": "JP",
+  "primary_industry": null,
+  "description": "Tansaku Job is a Japanese job board offering free job postings for employers and nationwide, all-job-type listings for job seekers.",
+  "logo": {
+    "path": "../assets/logos/tansaku-job.net.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/tansaku-job.net.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

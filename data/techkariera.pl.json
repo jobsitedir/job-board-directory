@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "techkariera.pl",
+  "name": "TechKariera",
+  "website": "https://techkariera.pl/",
+  "profile": "https://jobsitedir.com/jobboard/techkariera.pl?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "PL",
+  "primary_industry": "Engineering",
+  "description": "The platform is a job board for engineers in technical industries.",
+  "logo": {
+    "path": "../assets/logos/techkariera.pl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/techkariera.pl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

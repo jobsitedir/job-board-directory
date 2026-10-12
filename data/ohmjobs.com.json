@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "ohmjobs.com",
+  "name": "Ohmjobs",
+  "website": "https://ohmjobs.com/",
+  "profile": "https://jobsitedir.com/jobboard/ohmjobs.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "IN",
+  "primary_industry": "Healthcare",
+  "description": "OHMJOBs is a free job portal for healthcare professionals and hospitals, listing roles with location, experience, and salary details.",
+  "logo": {
+    "path": "../assets/logos/ohmjobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/ohmjobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

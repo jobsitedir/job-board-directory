@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "reclogi.jp",
+  "name": "リクロジ",
+  "website": "https://reclogi.jp/",
+  "profile": "https://jobsitedir.com/jobboard/reclogi.jp?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "JP",
+  "primary_industry": "Transportation",
+  "description": "Reclogi is a Japanese job matching platform focused on transportation, logistics, and manufacturing, offering nationwide listings and a save feature.",
+  "logo": {
+    "path": "../assets/logos/reclogi.jp.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/reclogi.jp.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

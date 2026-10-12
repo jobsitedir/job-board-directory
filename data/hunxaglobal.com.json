@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "hunxaglobal.com",
+  "name": "Hunxa Global Recruitment",
+  "website": "https://hunxaglobal.com/",
+  "profile": "https://jobsitedir.com/jobboard/hunxaglobal.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "NP",
+  "primary_industry": null,
+  "description": "Hunxa Global connects job seekers with employers in Nepal.",
+  "logo": {
+    "path": "../assets/logos/hunxaglobal.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/hunxaglobal.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

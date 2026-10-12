@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "taasuka.galil-elion.org.il",
+  "name": "מעברים אצבע הגליל",
+  "website": "https://taasuka.galil-elion.org.il/",
+  "profile": "https://jobsitedir.com/jobboard/taasuka.galil-elion.org.il?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "IL",
+  "primary_industry": "Non-Profit",
+  "description": "Maavarim Etzba HaGalil is a regional job board for the Finger of the Galilee area, operated by the Ministry of Welfare and local councils.",
+  "logo": {
+    "path": "../assets/logos/taasuka.galil-elion.org.il.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/taasuka.galil-elion.org.il.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

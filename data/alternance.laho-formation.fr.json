@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "alternance.laho-formation.fr",
+  "name": "Laho Alternance",
+  "website": "https://alternance.laho-formation.fr/",
+  "profile": "https://jobsitedir.com/jobboard/alternance.laho-formation.fr?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": "Education",
+  "description": "LAHO Formation lists apprenticeship and professional training contracts in the Hauts-de-France region, with personalized counselor follow-up after registration.",
+  "logo": {
+    "path": "../assets/logos/alternance.laho-formation.fr.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/alternance.laho-formation.fr.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

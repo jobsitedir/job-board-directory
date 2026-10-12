@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "career.usamif.com",
+  "name": "USAM",
+  "website": "https://career.usamif.com/",
+  "profile": "https://jobsitedir.com/jobboard/career.usamif.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "EG",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "USAMIF Career is a job platform for tech roles like Software Development and Data Science, offering quick apply, email alerts, and workplace filters.",
+  "logo": {
+    "path": "../assets/logos/career.usamif.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/career.usamif.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

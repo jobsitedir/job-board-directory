@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "iryou-fwj.com",
+  "name": "医療転職ファストワークス",
+  "website": "https://iryou-fwj.com/",
+  "profile": "https://jobsitedir.com/jobboard/iryou-fwj.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "JP",
+  "primary_industry": "Healthcare",
+  "description": "Fastworks is a job site for medical professionals in Japan's Kansai region, offering searches by area, occupation, employment type, and facility type.",
+  "logo": {
+    "path": "../assets/logos/iryou-fwj.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/iryou-fwj.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

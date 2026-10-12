@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "talvatrix.com",
+  "name": "Talvatrix",
+  "website": "https://talvatrix.com/",
+  "profile": "https://jobsitedir.com/jobboard/talvatrix.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "UG",
+  "primary_industry": "Non-Profit",
+  "description": "Talvatrix aggregates remote and East African job listings from trusted APIs and boards, offering free browsing, AI salary estimates, and career tools for job seekers in Uganda,…",
+  "logo": {
+    "path": "../assets/logos/talvatrix.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/talvatrix.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

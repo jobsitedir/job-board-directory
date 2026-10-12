@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "lanverse.in",
+  "name": "Lanverse",
+  "website": "https://lanverse.in/",
+  "profile": "https://jobsitedir.com/jobboard/lanverse.in?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "IN",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "Lanverse is a free career platform for Indian IT professionals, offering over 10,430 verified job listings, anonymous company reviews, and salary insights for top employers…",
+  "logo": {
+    "path": "../assets/logos/lanverse.in.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/lanverse.in.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

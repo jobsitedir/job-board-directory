@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "ar.empleo.com",
+  "name": "Empleo.com Argentina",
+  "website": "https://ar.empleo.com/",
+  "profile": "https://jobsitedir.com/jobboard/ar.empleo.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "AR",
+  "primary_industry": null,
+  "description": "Empleo.com is an Argentine job board where job seekers can filter by employment type and receive email alerts, and employers can post listings with salary, location type, and…",
+  "logo": {
+    "path": "../assets/logos/ar.empleo.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/ar.empleo.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

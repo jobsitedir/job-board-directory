@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "jobetat.pl",
+  "name": "JobEtat",
+  "website": "https://jobetat.pl/",
+  "profile": "https://jobsitedir.com/jobboard/jobetat.pl?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "PL",
+  "primary_industry": null,
+  "description": "JobEtat.pl is a free Polish job board where candidates can search and apply for jobs across industries and cities, and employers can post offers at no cost.",
+  "logo": {
+    "path": "../assets/logos/jobetat.pl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/jobetat.pl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

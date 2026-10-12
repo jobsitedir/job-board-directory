@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "chefsjobb.nu",
+  "name": "chefsjobb.nu",
+  "website": "https://chefsjobb.nu/",
+  "profile": "https://jobsitedir.com/jobboard/chefsjobb.nu?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "SE",
+  "primary_industry": "Hospitality & Travel",
+  "description": "Chefsjobb.nu aggregates 9,199 chef and executive job listings, serving job seekers in Sweden.",
+  "logo": {
+    "path": "../assets/logos/chefsjobb.nu.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/chefsjobb.nu.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

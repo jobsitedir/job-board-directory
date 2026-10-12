@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "medizinerjobs.de",
+  "name": "Medizinerjobs.de",
+  "website": "https://medizinerjobs.de/",
+  "profile": "https://jobsitedir.com/jobboard/medizinerjobs.de?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "DE",
+  "primary_industry": "Healthcare",
+  "description": "Medizinerjobs.de is a German job board for social work, medicine, health, and nursing roles, operated by Carmen Bremen in Cologne.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/medizinerjobs.de.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "backtoworkconnect.ie",
+  "name": "BacktoWorkConnect.ie",
+  "website": "https://backtoworkconnect.ie/",
+  "profile": "https://jobsitedir.com/jobboard/backtoworkconnect.ie?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "IE",
+  "primary_industry": null,
+  "description": "Back To Work Connect is a career community for midlife returners and career changers in Ireland, offering a jobs board, course directory, events, and a free personalised Roadmap.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/backtoworkconnect.ie.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "pracasochaczew.pl",
+  "name": "Praca Sochaczew",
+  "website": "https://pracasochaczew.pl/",
+  "profile": "https://jobsitedir.com/jobboard/pracasochaczew.pl?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "PL",
+  "primary_industry": "Blue Collar & Trades",
+  "description": "PracaSochaczew.pl is a local job board serving Sochaczew and nearby towns in Poland, offering free job postings until July 2027.",
+  "logo": {
+    "path": "../assets/logos/pracasochaczew.pl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/pracasochaczew.pl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

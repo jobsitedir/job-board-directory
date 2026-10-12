@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "career-maldives.com",
+  "name": "Career Maldives",
+  "website": "https://career-maldives.com/",
+  "profile": "https://jobsitedir.com/jobboard/career-maldives.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "MV",
+  "primary_industry": "Hospitality & Travel",
+  "description": "Career Maldives is a Maldivian job board offering free and paid job posting plans, CV database access, and job alerts for job seekers.",
+  "logo": {
+    "path": "../assets/logos/career-maldives.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/career-maldives.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

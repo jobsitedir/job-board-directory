@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "studentjob.ie",
+  "name": "StudentJob IE",
+  "website": "https://studentjob.ie/",
+  "profile": "https://jobsitedir.com/jobboard/studentjob.ie?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "IE",
+  "primary_industry": "Education",
+  "description": "StudentJob Ireland is a job portal for students and young professionals, offering a mobile app for real-time vacancy searches and a CV database for employers.",
+  "logo": {
+    "path": "../assets/logos/studentjob.ie.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/studentjob.ie.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

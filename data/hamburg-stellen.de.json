@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "hamburg-stellen.de",
+  "name": "Hamburg-Stellen.de",
+  "website": "https://hamburg-stellen.de/",
+  "profile": "https://jobsitedir.com/jobboard/hamburg-stellen.de?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "DE",
+  "primary_industry": null,
+  "description": "Hamburg-Stellen.de is a German job board operated by PersonalHub Holding GmbH in Berlin, offering 30-day job ads with a safety guarantee and reduced pricing for apprenticeship,…",
+  "logo": {
+    "path": "../assets/logos/hamburg-stellen.de.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/hamburg-stellen.de.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

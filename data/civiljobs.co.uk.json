@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "civiljobs.co.uk",
+  "name": "Civil Jobs",
+  "website": "https://civiljobs.co.uk/",
+  "profile": "https://jobsitedir.com/jobboard/civiljobs.co.uk?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "GB",
+  "primary_industry": "Government",
+  "description": "Civil Jobs is an independent search engine indexing over 1,000 live UK Civil Service vacancies, updated several times daily from the official Civil Service Jobs service.",
+  "logo": {
+    "path": "../assets/logos/civiljobs.co.uk.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/civiljobs.co.uk.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "workplays.it",
+  "name": "WorkPlays",
+  "website": "https://workplays.it/",
+  "profile": "https://jobsitedir.com/jobboard/workplays.it?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "PL",
+  "primary_industry": "Technology>Web3 & Blockchain",
+  "description": "WorkPlays is a job platform for the game development and creative industry, featuring matchmaking and over 850 active specialist CVs.",
+  "logo": {
+    "path": "../assets/logos/workplays.it.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/workplays.it.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

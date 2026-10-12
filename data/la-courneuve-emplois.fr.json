@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "la-courneuve-emplois.fr",
+  "name": "La Courneuve Emplois",
+  "website": "https://la-courneuve-emplois.fr/",
+  "profile": "https://jobsitedir.com/jobboard/la-courneuve-emplois.fr?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": null,
+  "description": "La-Courneuve-Emplois.fr is a job board listing 258 offers in La Courneuve, France, with job alerts and browsing by professional domain.",
+  "logo": {
+    "path": "../assets/logos/la-courneuve-emplois.fr.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/la-courneuve-emplois.fr.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

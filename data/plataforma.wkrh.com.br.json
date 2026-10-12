@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "plataforma.wkrh.com.br",
+  "name": "WK JobHub",
+  "website": "https://plataforma.wkrh.com.br/",
+  "profile": "https://jobsitedir.com/jobboard/plataforma.wkrh.com.br?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "BR",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "WKRH is a Brazilian job platform requiring login to view openings, with filters and applicant counts for each role.",
+  "logo": {
+    "path": "../assets/logos/plataforma.wkrh.com.br.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/plataforma.wkrh.com.br.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

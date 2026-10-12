@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "rencaijob.com",
+  "name": "人才职业网",
+  "website": "https://rencaijob.com/",
+  "profile": "https://jobsitedir.com/jobboard/rencaijob.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Generalist",
+  "primary_country": "CN",
+  "primary_industry": null,
+  "description": "RenCaijob.com is a Chinese-language job site focused on Africa and Europe recruitment, offering login via QR code through its mobile app.",
+  "logo": {
+    "path": "../assets/logos/rencaijob.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/rencaijob.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

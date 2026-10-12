@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "canadayouthhire.ca",
+  "name": "YouthHire",
+  "website": "https://canadayouthhire.ca/",
+  "profile": "https://jobsitedir.com/jobboard/canadayouthhire.ca?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "CA",
+  "primary_industry": null,
+  "description": "Canada Youth Hire is a job board for students, new graduates, and young Canadians seeking part-time, summer, co-op, and first-job roles across Canada.",
+  "logo": {
+    "path": "../assets/logos/canadayouthhire.ca.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/canadayouthhire.ca.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

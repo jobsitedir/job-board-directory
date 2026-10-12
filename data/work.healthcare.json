@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "work.healthcare",
+  "name": "Work.healthcare",
+  "website": "https://work.healthcare/",
+  "profile": "https://jobsitedir.com/jobboard/work.healthcare?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "GB",
+  "primary_industry": "Healthcare",
+  "description": "Work.healthcare is a UK-focused job board for healthcare roles, including NHS, private, nursing, GP, locum, pharmacy, and care work, with search filters and salary details.",
+  "logo": {
+    "path": "../assets/logos/work.healthcare.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/work.healthcare.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

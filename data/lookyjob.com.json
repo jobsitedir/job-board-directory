@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "lookyjob.com",
+  "name": "LookyJob",
+  "website": "https://lookyjob.com/",
+  "profile": "https://jobsitedir.com/jobboard/lookyjob.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "MY",
+  "primary_industry": null,
+  "description": "LookyJob is a job platform connecting job seekers with employers in Sarawak, Malaysia, offering verified listings and a profile feature to be visible to employers.",
+  "logo": {
+    "path": "../assets/logos/lookyjob.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/lookyjob.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

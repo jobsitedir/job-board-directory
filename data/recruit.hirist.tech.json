@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "recruit.hirist.tech",
+  "name": "hirist.tech",
+  "website": "https://recruit.hirist.tech/",
+  "profile": "https://jobsitedir.com/jobboard/recruit.hirist.tech?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "IN",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "hirist.tech is a tech recruitment platform powered by Naukri Talent Cloud, targeting candidates from premium colleges like IITs/NITs and covering functions from frontend to…",
+  "logo": {
+    "path": "../assets/logos/recruit.hirist.tech.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/recruit.hirist.tech.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

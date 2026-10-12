@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "fitandjobs.com",
+  "name": "Fitandjobs",
+  "website": "https://fitandjobs.com/",
+  "profile": "https://jobsitedir.com/jobboard/fitandjobs.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "ES",
+  "primary_industry": "Sports & Recreation",
+  "description": "FitandJobs is a Spanish job board connecting sports centers with monitors (instructors).",
+  "logo": {
+    "path": "../assets/logos/fitandjobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/fitandjobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

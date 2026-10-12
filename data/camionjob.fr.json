@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "camionjob.fr",
+  "name": "CamionJob",
+  "website": "https://camionjob.fr/",
+  "profile": "https://jobsitedir.com/jobboard/camionjob.fr?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "FR",
+  "primary_industry": "Transportation",
+  "description": "CamionJob.fr is a job board specialized in truck and heavy goods vehicle jobs, offering search filters, CV-based applications, and a blog with career articles.",
+  "logo": {
+    "path": "../assets/logos/camionjob.fr.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/camionjob.fr.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

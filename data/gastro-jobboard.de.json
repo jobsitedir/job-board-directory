@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "gastro-jobboard.de",
+  "name": "Gastro Jobboard",
+  "website": "https://gastro-jobboard.de/",
+  "profile": "https://jobsitedir.com/jobboard/gastro-jobboard.de?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "DE",
+  "primary_industry": "Hospitality & Travel",
+  "description": "Gastro Jobboard is a German-language job board for hospitality jobs in Germany, covering restaurants, hotels, bars, and cafés across many German cities.",
+  "logo": {
+    "path": "../assets/logos/gastro-jobboard.de.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/gastro-jobboard.de.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

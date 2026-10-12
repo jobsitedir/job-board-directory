@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "a-list.lawandstyle.ca",
+  "name": "The Precedent A-List",
+  "website": "https://a-list.lawandstyle.ca/",
+  "profile": "https://jobsitedir.com/jobboard/a-list.lawandstyle.ca?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "CA",
+  "primary_industry": "Legal",
+  "description": "The Precedent A-List is a Canadian job and announcement board for lawyers, featuring job postings, career announcements, and lawyer profiles across practice areas like…",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/a-list.lawandstyle.ca.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

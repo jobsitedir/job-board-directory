@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "lavorarenelmondo.it",
+  "name": "Lavorare nel Mondo",
+  "website": "https://lavorarenelmondo.it/",
+  "profile": "https://jobsitedir.com/jobboard/lavorarenelmondo.it?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "IT",
+  "primary_industry": "Non-Profit",
+  "description": "LavorareNelMondo.it lists job vacancies in international cooperation and NGOs, with filtering by professional sector and sorting by deadline or most recent.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/lavorarenelmondo.it.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

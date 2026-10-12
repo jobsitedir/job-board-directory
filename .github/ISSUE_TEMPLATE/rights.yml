@@ -1,0 +1,16 @@
+name: Rights concern
+description: Request review of a logo or screenshot
+body:
+  - type: input
+    id: record
+    attributes:
+      label: Record or image path
+    validations:
+      required: true
+  - type: textarea
+    id: request
+    attributes:
+      label: Rights concern and requested action
+      description: Use the private contact route for confidential information.
+    validations:
+      required: true

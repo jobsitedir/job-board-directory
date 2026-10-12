@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "9jatech.com",
+  "name": "9jaTech",
+  "website": "https://9jatech.com/",
+  "profile": "https://jobsitedir.com/jobboard/9jatech.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "NG",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "9jaTech is a freelance marketplace connecting Nigerian tech talent with African businesses, featuring verified profiles, escrow payments, and milestone-based pricing in Naira.",
+  "logo": {
+    "path": "../assets/logos/9jatech.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/9jatech.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

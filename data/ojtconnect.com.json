@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "ojtconnect.com",
+  "name": "OJT Connect",
+  "website": "https://ojtconnect.com/",
+  "profile": "https://jobsitedir.com/jobboard/ojtconnect.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "PH",
+  "primary_industry": "Education",
+  "description": "OJT Connect is a free platform connecting young Filipino talents with verified internships, featuring smart matching to course and skills, and tracking applications in one place.",
+  "logo": {
+    "path": "../assets/logos/ojtconnect.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/ojtconnect.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

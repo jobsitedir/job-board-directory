@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "physiotherapyjobscanada.ca",
+  "name": "PhysiotherapyJobCanada",
+  "website": "https://physiotherapyjobscanada.ca/",
+  "profile": "https://jobsitedir.com/jobboard/physiotherapyjobscanada.ca?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "CA",
+  "primary_industry": "Healthcare",
+  "description": "PhysiotherapyJobsCanada is a dedicated job board for physiotherapists and rehab clinics across Canada, covering physiotherapy, chiropractor, occupational therapy, and RMT roles.",
+  "logo": {
+    "path": "../assets/logos/physiotherapyjobscanada.ca.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/physiotherapyjobscanada.ca.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

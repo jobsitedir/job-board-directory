@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "constructionontario.ca",
+  "name": "Construction Ontario",
+  "website": "https://constructionontario.ca/",
+  "profile": "https://jobsitedir.com/jobboard/constructionontario.ca?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "CA",
+  "primary_industry": "Construction",
+  "description": "ConstructionOntario.ca is a job board for trades and construction jobs in Ontario, funded by the Government of Canada and the Government of Ontario.",
+  "logo": {
+    "path": "../assets/logos/constructionontario.ca.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/constructionontario.ca.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

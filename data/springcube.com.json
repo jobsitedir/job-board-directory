@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "springcube.com",
+  "name": "SpringCube",
+  "website": "https://springcube.com/",
+  "profile": "https://jobsitedir.com/jobboard/springcube.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "US",
+  "primary_industry": "Technical>Software Dev/Programming",
+  "description": "SpringCube is a specialist career platform for AI, data, and cloud engineering jobs in the San Francisco Bay Area, launched in 2026.",
+  "logo": {
+    "path": "../assets/logos/springcube.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/springcube.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

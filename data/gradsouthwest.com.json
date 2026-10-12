@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "gradsouthwest.com",
+  "name": "Gradsouthwest",
+  "website": "https://gradsouthwest.com/",
+  "profile": "https://jobsitedir.com/jobboard/gradsouthwest.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "GB",
+  "primary_industry": "Education",
+  "description": "Gradsouthwest is a graduate job board for south west England, founded over 20 years ago to retain local graduate talent.",
+  "logo": {
+    "path": "../assets/logos/gradsouthwest.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/gradsouthwest.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

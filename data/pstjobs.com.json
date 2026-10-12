@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "pstjobs.com",
+  "name": "PSTJobs",
+  "website": "https://pstjobs.com/",
+  "profile": "https://jobsitedir.com/jobboard/pstjobs.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "PK",
+  "primary_industry": "Education",
+  "description": "PSTJobs is a free job marketplace for educators in Pakistan, listing roles from primary schools to higher education across multiple regions including Balochistan, Azad Kashmir,…",
+  "logo": {
+    "path": "../assets/logos/pstjobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/pstjobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

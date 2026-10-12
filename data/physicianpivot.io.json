@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "physicianpivot.io",
+  "name": "Physician Pivot",
+  "website": "https://physicianpivot.io/",
+  "profile": "https://jobsitedir.com/jobboard/physicianpivot.io?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "US",
+  "primary_industry": "Healthcare",
+  "description": null,
+  "logo": {
+    "path": "../assets/logos/physicianpivot.io.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/physicianpivot.io.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

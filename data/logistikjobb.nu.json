@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "logistikjobb.nu",
+  "name": "logistikjobb.nu",
+  "website": "https://logistikjobb.nu/",
+  "profile": "https://jobsitedir.com/jobboard/logistikjobb.nu?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "SE",
+  "primary_industry": "Supply Chain",
+  "description": "Logistikjobb.nu lists 4,931 logistics jobs in Swedish and is a sub-site of Ledigajobb.se.",
+  "logo": {
+    "path": "../assets/logos/logistikjobb.nu.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/logistikjobb.nu.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

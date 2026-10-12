@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "pakjobbank.com",
+  "name": "PakJobBank",
+  "website": "https://pakjobbank.com/",
+  "profile": "https://jobsitedir.com/jobboard/pakjobbank.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "PK",
+  "primary_industry": "Government",
+  "description": "PakJobBank is a Pakistani job board listing government, bank, private-sector, internship, and specialist roles across federal and provincial departments, commercial banks, and…",
+  "logo": {
+    "path": "../assets/logos/pakjobbank.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/pakjobbank.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

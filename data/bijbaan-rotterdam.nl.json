@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "bijbaan-rotterdam.nl",
+  "name": "Bijbaan Rotterdam",
+  "website": "https://bijbaan-rotterdam.nl/",
+  "profile": "https://jobsitedir.com/jobboard/bijbaan-rotterdam.nl?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "NL",
+  "primary_industry": "Hospitality & Catering",
+  "description": "Bijbaan Rotterdam is a job board for part-time jobs in Rotterdam and the Rijnmond region, connecting local employers with job seekers.",
+  "logo": {
+    "path": "../assets/logos/bijbaan-rotterdam.nl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/bijbaan-rotterdam.nl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

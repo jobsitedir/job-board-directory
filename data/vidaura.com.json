@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "vidaura.com",
+  "name": "Vidaura",
+  "website": "https://vidaura.com/",
+  "profile": "https://jobsitedir.com/jobboard/vidaura.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "IN",
+  "primary_industry": "Hospitality & Travel",
+  "description": "Vidaura is a video-based job board for the hospitality industry where job seekers apply by creating a video profile and employers can post jobs for free.",
+  "logo": {
+    "path": "../assets/logos/vidaura.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/vidaura.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "rabota-v.kiev.ua",
+  "name": "Робота в Києві",
+  "website": "https://rabota-v.kiev.ua/",
+  "profile": "https://jobsitedir.com/jobboard/rabota-v.kiev.ua?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "UA",
+  "primary_industry": null,
+  "description": "Rabota-v.kiev.ua is a free job board for Kyiv, Ukraine, where employers can post vacancies without registration.",
+  "logo": {
+    "path": "../assets/logos/rabota-v.kiev.ua.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/rabota-v.kiev.ua.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

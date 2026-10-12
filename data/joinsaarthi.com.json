@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "joinsaarthi.com",
+  "name": "Saarthi",
+  "website": "https://joinsaarthi.com/",
+  "profile": "https://jobsitedir.com/jobboard/joinsaarthi.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "IN",
+  "primary_industry": "Technical>General Tech & IT",
+  "description": "Saarthi is a job platform for Indian freshers (2024–2026 batches) that lists verified IT and non-IT roles, internships, and walk-in drives, with AI tools for resume building…",
+  "logo": {
+    "path": "../assets/logos/joinsaarthi.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/joinsaarthi.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

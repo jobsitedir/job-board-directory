@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "jobsinbirmingham.net",
+  "name": "jobsinbirmingham.net",
+  "website": "https://jobsinbirmingham.net/",
+  "profile": "https://jobsitedir.com/jobboard/jobsinbirmingham.net?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "GB",
+  "primary_industry": null,
+  "description": "Jobs in Birmingham is a free job portal listing positions exclusively in Birmingham, UK, across sectors like IT, construction, and healthcare.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/jobsinbirmingham.net.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

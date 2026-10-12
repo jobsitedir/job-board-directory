@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "labratsjobs.pl",
+  "name": "LabratsJobs.pl",
+  "website": "https://labratsjobs.pl/",
+  "profile": "https://jobsitedir.com/jobboard/labratsjobs.pl?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "PL",
+  "primary_industry": "Biotechnology",
+  "description": "LabratsJobs.pl is a Polish job board for laboratory, biotechnology, microbiology, quality control, diagnostics, and medicine roles, covering all of Poland.",
+  "logo": {
+    "path": "../assets/logos/labratsjobs.pl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/labratsjobs.pl.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

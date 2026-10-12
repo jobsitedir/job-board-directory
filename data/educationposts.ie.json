@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "educationposts.ie",
+  "name": "EducationPosts.ie",
+  "website": "https://educationposts.ie/",
+  "profile": "https://jobsitedir.com/jobboard/educationposts.ie?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "IE",
+  "primary_industry": "Education",
+  "description": "EducationPosts.ie is an Irish education recruitment website, owned by IPPN, covering jobs from pre-school to higher education across all counties including Northern Ireland.",
+  "logo": {
+    "path": "../assets/logos/educationposts.ie.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/educationposts.ie.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

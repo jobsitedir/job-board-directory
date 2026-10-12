@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "sales-jobs.co.uk",
+  "name": "Sales Jobs",
+  "website": "https://sales-jobs.co.uk/",
+  "profile": "https://jobsitedir.com/jobboard/sales-jobs.co.uk?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "GB",
+  "primary_industry": "Sales & Business Development",
+  "description": "Sales-Jobs.co.uk is a UK-focused job board for sales professionals, offering keyword and location search, CV registration, and job alerts across roles like telesales, account…",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/sales-jobs.co.uk.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

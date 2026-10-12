@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "guyancourt-emplois.com",
+  "name": "Guyancourt Emplois",
+  "website": "https://guyancourt-emplois.com/",
+  "profile": "https://jobsitedir.com/jobboard/guyancourt-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Geo",
+  "primary_country": "FR",
+  "primary_industry": null,
+  "description": "Guyancourt-emplois.com lists 1,519 job offers in Guyancourt and lets you create personalized email alerts for new postings.",
+  "logo": {
+    "path": "../assets/logos/guyancourt-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/guyancourt-emplois.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

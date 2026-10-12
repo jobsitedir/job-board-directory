@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "education-jobs.co.uk",
+  "name": "Education Jobs",
+  "website": "https://education-jobs.co.uk/",
+  "profile": "https://jobsitedir.com/jobboard/education-jobs.co.uk?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Niche_Industry",
+  "primary_country": "GB",
+  "primary_industry": "Education",
+  "description": "Education Jobs is a UK job board for education professionals, offering 1-Click Apply and job alerts.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/education-jobs.co.uk.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}
