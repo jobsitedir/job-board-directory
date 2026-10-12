@@ -1,10 +1,12 @@
 # Job Board Directory by JobSiteDir
 
-A monthly selection of up to 1,000 verified recruitment websites from [JobSiteDir](https://jobsitedir.com/?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=readme). Use the JSON files for non-commercial research and website discovery.
+Explore verified job boards and recruitment websites from [JobSiteDir](https://jobsitedir.com/?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=readme). Use the JSON files for non-commercial research and website discovery.
+
+[![Explore job boards on JobSiteDir](docs/images/jobsitedir-home.png)](https://jobsitedir.com/?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=readme-screenshot)
+
+*JobSiteDir homepage screenshot. Website counts shown are a snapshot of the main directory, not the number of records in this repository.*
 
 ## What is included
-
-1000 websites · Release 2026-10.r2 · Data cutoff 2026-10-12T05:45:10.372Z
 
 Each website has one JSON file named after its domain, with basic classification, a short description when available, and links to the website and its JobSiteDir profile. Logos and small screenshots may be included.
 
@@ -12,7 +14,7 @@ This selection is part of the JobSiteDir database, not a complete count of recru
 
 ## Download and use
 
-[Download this release](https://github.com/jobsitedir/job-board-directory/releases/tag/2026-10.r2) or clone this repository. Browse the categories below to open individual website JSON files. Only JSON data is distributed. See [usage](docs/usage.md), [field definitions](docs/data-dictionary.md), and [selection rules](docs/methodology.md).
+[Download this release](https://github.com/jobsitedir/job-board-directory/releases/tag/2026-10.r3) or clone this repository. Browse the categories below to open individual website JSON files. Only JSON data is distributed. See [usage](docs/usage.md), [field definitions](docs/data-dictionary.md), and [selection rules](docs/methodology.md).
 
 ## Find more websites
 

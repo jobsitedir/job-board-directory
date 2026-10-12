@@ -1,6 +1,6 @@
 # Job boards for Advertising, Marketing & PR
 
-4 websites in this published selection. This is not a complete market list. Updated 2026-10.r2.
+4 websites in this published selection. This is not a complete market list. Updated 2026-10.r3.
 
 [Browse more job boards on JobSiteDir](https://jobsitedir.com/search/Advertising%2C%20Marketing%20%26%20PR?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) · [Directory](../README.md)
 

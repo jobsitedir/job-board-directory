@@ -1,6 +1,6 @@
 # Job boards for TechnologyAI & Data Science
 
-8 websites in this published selection. This is not a complete market list. Updated 2026-10.r2.
+8 websites in this published selection. This is not a complete market list. Updated 2026-10.r3.
 
 [Browse more job boards on JobSiteDir](https://jobsitedir.com/search/Technology%3EAI%20%26%20Data%20Science?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) · [Directory](../README.md)
 

@@ -1,6 +1,6 @@
 # Job boards for Blue Collar & Trades
 
-37 websites in this published selection. This is not a complete market list. Updated 2026-10.r2.
+37 websites in this published selection. This is not a complete market list. Updated 2026-10.r3.
 
 [Browse more job boards on JobSiteDir](https://jobsitedir.com/search/Blue%20Collar%20%26%20Trades?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) · [Directory](../README.md)
 

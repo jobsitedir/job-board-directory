@@ -14,7 +14,7 @@ let records = 0;
 const references = new Set<string>();
 for (const [file, hash] of Object.entries(manifest.files)) {
   requireCondition(!path.isAbsolute(file) && !file.split('/').includes('..') && !file.includes('\\'), 'Unsafe file path');
-  requireCondition(/^(README\.md|LICENSE|NOTICE\.md|CONTRIBUTING\.md|CODE_OF_CONDUCT\.md|SECURITY\.md|CITATION\.cff|CHANGELOG\.md|data\/[a-z0-9.-]+\.json|assets\/(logos|screenshots)\/[a-z0-9.-]+\.webp|(?:countries|industries)\/[a-z0-9-]+\.md|docs\/(methodology|data-dictionary|usage)\.md|scripts\/(validate\.ts|LICENSE)|schema\/job-board\.schema\.json|\.github\/workflows\/validate\.yml|\.github\/ISSUE_TEMPLATE\/(correction|rights|suggestion)\.yml|\.github\/PULL_REQUEST_TEMPLATE\.md)$/.test(file), 'File outside distribution scope');
+  requireCondition(/^(README\.md|LICENSE|NOTICE\.md|CONTRIBUTING\.md|CODE_OF_CONDUCT\.md|SECURITY\.md|CITATION\.cff|CHANGELOG\.md|data\/[a-z0-9.-]+\.json|assets\/(logos|screenshots)\/[a-z0-9.-]+\.webp|(?:countries|industries)\/[a-z0-9-]+\.md|docs\/(methodology|data-dictionary|usage)\.md|docs\/images\/jobsitedir-home\.png|scripts\/(validate\.ts|LICENSE)|schema\/job-board\.schema\.json|\.github\/workflows\/validate\.yml|\.github\/ISSUE_TEMPLATE\/(correction|rights|suggestion)\.yml|\.github\/PULL_REQUEST_TEMPLATE\.md)$/.test(file), 'File outside distribution scope');
   const bytes = await readFile(file);
   requireCondition(createHash('sha256').update(bytes).digest('hex') === hash, `Checksum mismatch: ${file}`);
   requireCondition(!/\.csv$/i.test(file), 'CSV is not distributed');
