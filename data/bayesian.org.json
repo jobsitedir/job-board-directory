@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "bayesian.org",
+  "name": "International Society for Bayesian Analysis",
+  "website": "https://bayesian.org/",
+  "profile": "https://jobsitedir.com/jobboard/bayesian.org?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Community_Social",
+  "primary_country": "US",
+  "primary_industry": "Science",
+  "description": "ISBA's job board is a niche resource for Bayesian statistics professionals and researchers, accessible via the 'JOBS' link on the homepage.",
+  "logo": {
+    "path": "../assets/logos/bayesian.org.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/bayesian.org.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

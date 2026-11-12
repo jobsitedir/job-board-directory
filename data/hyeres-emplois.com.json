@@ -4,9 +4,9 @@
   "name": "Hyères Emplois",
   "website": "https://hyeres-emplois.com/",
   "profile": "https://jobsitedir.com/jobboard/hyeres-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
-  "site_type": "Niche_Geo",
+  "site_type": "Specialist_Job_Board",
   "primary_country": "FR",
-  "primary_industry": null,
+  "primary_industry": "Hospitality & Travel",
   "description": "Hyères-emplois.com lists 1,173 job offers in Hyères, France, organized by professional domain with email alerts and publication dates.",
   "logo": {
     "path": "../assets/logos/hyeres-emplois.com.webp",

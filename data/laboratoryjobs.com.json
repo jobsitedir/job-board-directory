@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "laboratoryjobs.com",
+  "name": "Laboratoryjobs.com",
+  "website": "https://laboratoryjobs.com/",
+  "profile": "https://jobsitedir.com/jobboard/laboratoryjobs.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Specialist_Job_Board",
+  "primary_country": "US",
+  "primary_industry": "Healthcare>Medical Assistants",
+  "description": "Niche job board specializing in laboratory and healthcare laboratory positions across the United States, connecting job seekers with multiple external employers.",
+  "logo": {
+    "path": "../assets/logos/laboratoryjobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/laboratoryjobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

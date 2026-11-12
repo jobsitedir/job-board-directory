@@ -1,6 +1,6 @@
 # Job boards in Nigeria
 
-13 websites in this published selection. This is not a complete market list. Updated 2026-10.r3.
+13 websites in this published selection. This is not a complete market list. Updated 2026-11.r1.
 
 [Browse more job boards on JobSiteDir](https://jobsitedir.com/search/Nigeria?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) · [Directory](../README.md)
 
@@ -17,5 +17,5 @@
 | NigeriaJobSearch | [nigeriajobsearch.com](../data/nigeriajobsearch.com.json) | [View profile](https://jobsitedir.com/jobboard/nigeriajobsearch.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | SILF Jobs Nigeria | [silfjobsnigeria.org](../data/silfjobsnigeria.org.json) | [View profile](https://jobsitedir.com/jobboard/silfjobsnigeria.org?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | TalentHub.ng | [talenthub.ng](../data/talenthub.ng.json) | [View profile](https://jobsitedir.com/jobboard/talenthub.ng?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
-| Appsolv Limited | [trysolv.com](../data/trysolv.com.json) | [View profile](https://jobsitedir.com/jobboard/trysolv.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
+| Solv | [trysolv.com](../data/trysolv.com.json) | [View profile](https://jobsitedir.com/jobboard/trysolv.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | Work9ja | [work9ja.com](../data/work9ja.com.json) | [View profile](https://jobsitedir.com/jobboard/work9ja.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |

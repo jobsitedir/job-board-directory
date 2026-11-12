@@ -14,7 +14,7 @@ This selection is part of the JobSiteDir database, not a complete count of recru
 
 ## Download and use
 
-[Download this release](https://github.com/jobsitedir/job-board-directory/releases/tag/2026-10.r3) or clone this repository. Browse the categories below to open individual website JSON files. Only JSON data is distributed. See [usage](docs/usage.md), [field definitions](docs/data-dictionary.md), and [selection rules](docs/methodology.md).
+[Download this release](https://github.com/jobsitedir/job-board-directory/releases/tag/2026-11.r1) or clone this repository. Browse the categories below to open individual website JSON files. Only JSON data is distributed. See [usage](docs/usage.md), [field definitions](docs/data-dictionary.md), and [selection rules](docs/methodology.md).
 
 ## Find more websites
 
@@ -39,27 +39,26 @@ This selection is part of the JobSiteDir database, not a complete count of recru
 - [China](countries/china-10436829.md) — 11 websites
 - [Colombia](countries/colombia-6b615adb.md) — 1 website
 - [Cyprus](countries/cyprus-5f1162c5.md) — 1 website
-- [Czechia](countries/czechia-ecfa967e.md) — 17 websites
-- [Denmark](countries/denmark-c5270975.md) — 1 website
+- [Czechia](countries/czechia-ecfa967e.md) — 16 websites
 - [Egypt](countries/egypt-557c1599.md) — 3 websites
 - [Ethiopia](countries/ethiopia-7d94977e.md) — 5 websites
 - [Finland](countries/finland-aed8f531.md) — 3 websites
-- [France](countries/france-7a1ca4ef.md) — 110 websites
+- [France](countries/france-7a1ca4ef.md) — 108 websites
 - [Germany](countries/germany-80db4ccd.md) — 52 websites
 - [Ghana](countries/ghana-583201c1.md) — 2 websites
 - [Greece](countries/greece-9c93ad43.md) — 7 websites
 - [Guatemala](countries/guatemala-45a15a24.md) — 1 website
 - [Guyana](countries/guyana-ea3bfc26.md) — 1 website
 - [Hong Kong SAR China](countries/hong-kong-sar-china-95b6ca14.md) — 2 websites
-- [India](countries/india-abd14921.md) — 81 websites
+- [India](countries/india-abd14921.md) — 79 websites
 - [Indonesia](countries/indonesia-dbc74a36.md) — 8 websites
 - [Ireland](countries/ireland-02bf1dfa.md) — 8 websites
 - [Israel](countries/israel-3552ac0c.md) — 3 websites
 - [Italy](countries/italy-5a9cf672.md) — 9 websites
-- [Jamaica](countries/jamaica-42c298ba.md) — 1 website
-- [Japan](countries/japan-64729438.md) — 39 websites
+- [Jamaica](countries/jamaica-42c298ba.md) — 2 websites
+- [Japan](countries/japan-64729438.md) — 38 websites
 - [Jordan](countries/jordan-e8bfe1ed.md) — 1 website
-- [Kazakhstan](countries/kazakhstan-75c02b8d.md) — 4 websites
+- [Kazakhstan](countries/kazakhstan-75c02b8d.md) — 3 websites
 - [Kenya](countries/kenya-74e1891d.md) — 9 websites
 - [Kuwait](countries/kuwait-10c3c2e2.md) — 1 website
 - [Kyrgyzstan](countries/kyrgyzstan-6f189bf0.md) — 1 website
@@ -70,14 +69,13 @@ This selection is part of the JobSiteDir database, not a complete count of recru
 - [Monaco](countries/monaco-935018cc.md) — 1 website
 - [Morocco](countries/morocco-b675f5df.md) — 7 websites
 - [Nepal](countries/nepal-e15a18aa.md) — 7 websites
-- [Netherlands](countries/netherlands-3a386c13.md) — 24 websites
-- [Nicaragua](countries/nicaragua-94e6bd57.md) — 1 website
+- [Netherlands](countries/netherlands-3a386c13.md) — 22 websites
 - [Nigeria](countries/nigeria-04952a0f.md) — 13 websites
 - [Norway](countries/norway-bea54a34.md) — 7 websites
 - [Pakistan](countries/pakistan-e2567312.md) — 10 websites
-- [Philippines](countries/philippines-c3782c86.md) — 4 websites
+- [Philippines](countries/philippines-c3782c86.md) — 3 websites
 - [Poland](countries/poland-7f69649a.md) — 37 websites
-- [Portugal](countries/portugal-4c7de2c3.md) — 3 websites
+- [Portugal](countries/portugal-4c7de2c3.md) — 2 websites
 - [Russia](countries/russia-33a3d8ed.md) — 16 websites
 - [São Tomé & Príncipe](countries/s-o-tom-pr-ncipe-913465b7.md) — 1 website
 - [Saudi Arabia](countries/saudi-arabia-ed9ad136.md) — 11 websites
@@ -85,7 +83,7 @@ This selection is part of the JobSiteDir database, not a complete count of recru
 - [Slovakia](countries/slovakia-a2ea3384.md) — 2 websites
 - [South Africa](countries/south-africa-3e049d78.md) — 12 websites
 - [South Korea](countries/south-korea-c85329e3.md) — 1 website
-- [Spain](countries/spain-8ef41e6f.md) — 21 websites
+- [Spain](countries/spain-8ef41e6f.md) — 20 websites
 - [Sri Lanka](countries/sri-lanka-07f8d114.md) — 3 websites
 - [Sweden](countries/sweden-85363713.md) — 32 websites
 - [Switzerland](countries/switzerland-22755831.md) — 2 websites
@@ -94,8 +92,8 @@ This selection is part of the JobSiteDir database, not a complete count of recru
 - [Uganda](countries/uganda-893d5385.md) — 3 websites
 - [Ukraine](countries/ukraine-580eedc6.md) — 9 websites
 - [United Arab Emirates](countries/united-arab-emirates-dd64913c.md) — 5 websites
-- [United Kingdom](countries/united-kingdom-8d23a6e3.md) — 52 websites
-- [United States](countries/united-states-49dca65f.md) — 116 websites
+- [United Kingdom](countries/united-kingdom-8d23a6e3.md) — 50 websites
+- [United States](countries/united-states-49dca65f.md) — 135 websites
 - [Uzbekistan](countries/uzbekistan-4bc2f1c2.md) — 3 websites
 - [Vietnam](countries/vietnam-2e5e8106.md) — 3 websites
 - [Zambia](countries/zambia-b5f9221a.md) — 2 websites
@@ -104,47 +102,59 @@ This selection is part of the JobSiteDir database, not a complete count of recru
 
 - [Advertising, Marketing & PR](industries/advertising-marketing-pr-223ac74c.md) — 4 websites
 - [Agriculture & Forestry](industries/agriculture-forestry-b49c7a8c.md) — 3 websites
-- [Arts & Entertainment](industries/arts-entertainment-e4ce5635.md) — 11 websites
+- [Arts & Entertainment](industries/arts-entertainment-e4ce5635.md) — 10 websites
 - [Associations & Organizations](industries/associations-organizations-0dbdba3b.md) — 2 websites
 - [Automotive](industries/automotive-eb589cfb.md) — 4 websites
-- [Aviation & Aerospace](industries/aviation-aerospace-ff871f12.md) — 3 websites
+- [Aviation & Aerospace](industries/aviation-aerospace-ff871f12.md) — 5 websites
 - [Biotechnology](industries/biotechnology-83a08ea5.md) — 2 websites
-- [Blue Collar & Trades](industries/blue-collar-trades-83128220.md) — 37 websites
-- [Construction](industries/construction-9dc7e90e.md) — 25 websites
+- [Blue Collar & Trades](industries/blue-collar-trades-83128220.md) — 36 websites
+- [Construction](industries/construction-9dc7e90e.md) — 26 websites
 - [Consulting](industries/consulting-9e8c0948.md) — 3 websites
 - [Cybersecurity](industries/cybersecurity-23b2d5da.md) — 2 websites
 - [Design](industries/design-0072e6b9.md) — 6 websites
-- [Education](industries/education-512ab3c6.md) — 75 websites
-- [Energy & Utilities](industries/energy-utilities-f99d534f.md) — 12 websites
-- [Engineering](industries/engineering-729bb48d.md) — 8 websites
+- [Education](industries/education-512ab3c6.md) — 77 websites
+- [Energy & Utilities](industries/energy-utilities-f99d534f.md) — 13 websites
+- [Engineering](industries/engineering-729bb48d.md) — 7 websites
 - [Environmental](industries/environmental-84e85efd.md) — 2 websites
-- [Financial Services](industries/financial-services-fbe06597.md) — 6 websites
-- [Financial ServicesGeneral](industries/financial-services-general-85edc14c.md) — 14 websites
+- [Financial Services](industries/financial-services-fbe06597.md) — 7 websites
+- [Financial ServicesGeneral](industries/financial-services-general-85edc14c.md) — 12 websites
 - [Financial ServicesInsurance](industries/financial-services-insurance-012620ba.md) — 2 websites
 - [Food & Beverage](industries/food-beverage-cce49911.md) — 3 websites
-- [Government](industries/government-c71e90d2.md) — 42 websites
-- [Healthcare](industries/healthcare-a64b892f.md) — 45 websites
-- [HealthcareAssisted Living](industries/healthcare-assisted-living-b9f1cedd.md) — 2 websites
+- [Government](industries/government-c71e90d2.md) — 41 websites
+- [GovernmentState & Local](industries/government-state-local-30d9f8a4.md) — 13 websites
+- [Healthcare](industries/healthcare-a64b892f.md) — 44 websites
+- [HealthcareAdministration](industries/healthcare-administration-c730999b.md) — 2 websites
+- [HealthcareAllied Health](industries/healthcare-allied-health-ff882b50.md) — 1 website
+- [HealthcareAssisted Living](industries/healthcare-assisted-living-b9f1cedd.md) — 4 websites
 - [HealthcareDental](industries/healthcare-dental-fb1de9cb.md) — 4 websites
-- [HealthcareGeneral](industries/healthcare-general-b3dace0c.md) — 8 websites
+- [HealthcareEmergency Medicine](industries/healthcare-emergency-medicine-cbba13ea.md) — 2 websites
+- [HealthcareGeneral](industries/healthcare-general-b3dace0c.md) — 7 websites
+- [HealthcareMedical Assistants](industries/healthcare-medical-assistants-b6c941eb.md) — 2 websites
 - [HealthcareNursing](industries/healthcare-nursing-45bbbcde.md) — 4 websites
-- [HealthcarePhysician](industries/healthcare-physician-120b9c2f.md) — 1 website
+- [HealthcarePathology](industries/healthcare-pathology-f2fc3887.md) — 1 website
+- [HealthcarePhysician](industries/healthcare-physician-120b9c2f.md) — 2 websites
+- [HealthcarePsychology & Psychiatry](industries/healthcare-psychology-psychiatry-62c95030.md) — 1 website
+- [HealthcareRehab Medicine](industries/healthcare-rehab-medicine-4293fa97.md) — 2 websites
+- [HealthcareResearch](industries/healthcare-research-bc09cd12.md) — 1 website
+- [HealthcareSocial Work](industries/healthcare-social-work-0003b87b.md) — 1 website
+- [HealthcareUltrasound](industries/healthcare-ultrasound-b2151d21.md) — 1 website
 - [HealthcareVeterinary](industries/healthcare-veterinary-f62eb736.md) — 5 websites
 - [Hospitality & Catering](industries/hospitality-catering-a736ac39.md) — 2 websites
-- [Hospitality & Travel](industries/hospitality-travel-c9cfe75f.md) — 65 websites
-- [Information Technology](industries/information-technology-222a36f3.md) — 1 website
-- [Legal](industries/legal-4787eaf7.md) — 15 websites
+- [Hospitality & Travel](industries/hospitality-travel-c9cfe75f.md) — 66 websites
+- [Information Technology](industries/information-technology-222a36f3.md) — 11 websites
+- [Legal](industries/legal-4787eaf7.md) — 14 websites
 - [Logistics & Warehouse](industries/logistics-warehouse-e823b8b8.md) — 2 websites
 - [Manufacturing & Production](industries/manufacturing-production-61ae4ff9.md) — 10 websites
-- [Media & Communication](industries/media-communication-b53eb467.md) — 6 websites
+- [Media & Communication](industries/media-communication-b53eb467.md) — 7 websites
 - [Military Transition](industries/military-transition-585eb270.md) — 2 websites
 - [Mining/Natural Resources](industries/mining-natural-resources-950b1f33.md) — 2 websites
 - [Non-Profit](industries/non-profit-d31e310d.md) — 25 websites
 - [Pharmaceutical](industries/pharmaceutical-f468f5e4.md) — 2 websites
 - [Property Mgmt./Facilities](industries/property-mgmt-facilities-4f8f7095.md) — 3 websites
 - [Real Estate](industries/real-estate-5226954f.md) — 1 website
-- [Retail](industries/retail-cdb38c8d.md) — 4 websites
+- [Retail](industries/retail-cdb38c8d.md) — 5 websites
 - [Sales & Business Development](industries/sales-business-development-d703aa1c.md) — 8 websites
+- [Science](industries/science-9d948c73.md) — 2 websites
 - [Security & Clearance](industries/security-clearance-6fb93dd8.md) — 3 websites
 - [Specialty - Other](industries/specialty-other-f38a080b.md) — 3 websites
 - [Specialty - Parttime/Hourly](industries/specialty-parttime-hourly-007f244c.md) — 3 websites
@@ -152,11 +162,11 @@ This selection is part of the JobSiteDir database, not a complete count of recru
 - [Supply Chain](industries/supply-chain-d6c88a78.md) — 5 websites
 - [Sustainability & Green Tech](industries/sustainability-green-tech-ea39e6cf.md) — 3 websites
 - [Technical](industries/technical-e851504f.md) — 10 websites
-- [TechnicalGeneral Tech & IT](industries/technical-general-tech-it-c8a49909.md) — 163 websites
+- [TechnicalGeneral Tech & IT](industries/technical-general-tech-it-c8a49909.md) — 143 websites
 - [TechnicalSoftware Dev/Programming](industries/technical-software-dev-programming-6ce2121c.md) — 12 websites
 - [TechnicalWeb](industries/technical-web-3d263ee3.md) — 1 website
-- [TechnologyAI & Data Science](industries/technology-ai-data-science-a3ce7253.md) — 8 websites
-- [TechnologyWeb3 & Blockchain](industries/technology-web3-blockchain-c7e97aa5.md) — 2 websites
+- [TechnologyAI & Data Science](industries/technology-ai-data-science-a3ce7253.md) — 14 websites
+- [TechnologyWeb3 & Blockchain](industries/technology-web3-blockchain-c7e97aa5.md) — 4 websites
 - [Transportation](industries/transportation-e5ffd6e6.md) — 10 websites
 
 ## Corrections
@@ -165,4 +175,4 @@ Use an Issue to report an incorrect record, unavailable website or rights concer
 
 ## License
 
-Data and documentation: [CC BY-NC 4.0](LICENSE). Non-commercial use only; attribution to JobSiteDir is required. See [third-party rights](NOTICE.md) for logos and screenshots. Validation code uses the [MIT license](scripts/LICENSE).
+Data and documentation: [CC BY-NC 4.0](LICENSE). Non-commercial use only; attribution to JobSiteDir is required. Include a clickable link to the relevant JobSiteDir profile when citing a record, or to the dataset or homepage for a collection. Retain source links in redistributed files and explain changes. See [data use & attribution](https://jobsitedir.com/data-use). See [third-party rights](NOTICE.md) for logos and screenshots. Validation code uses the [MIT license](scripts/LICENSE).

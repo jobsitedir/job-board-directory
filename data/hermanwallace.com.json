@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "hermanwallace.com",
+  "name": "Herman & Wallace",
+  "website": "https://hermanwallace.com/",
+  "profile": "https://jobsitedir.com/jobboard/hermanwallace.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Other",
+  "primary_country": "US",
+  "primary_industry": "Healthcare>Rehab Medicine",
+  "description": "A job board connecting employers with therapists in the Herman & Wallace network.",
+  "logo": {
+    "path": "../assets/logos/hermanwallace.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/hermanwallace.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

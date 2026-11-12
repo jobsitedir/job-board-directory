@@ -4,9 +4,9 @@
   "name": "Scout by AgentCo",
   "website": "https://agentco.in/",
   "profile": "https://jobsitedir.com/jobboard/agentco.in?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
-  "site_type": "Niche_Geo",
+  "site_type": "Job_Aggregator",
   "primary_country": "IN",
-  "primary_industry": "Technical>General Tech & IT",
+  "primary_industry": "Information Technology",
   "description": "Scout is an AI job-search agent for Indian job seekers that searches 19 countries' listings, scores roles against your résumé, tailors it per job, and can apply for you.",
   "logo": {
     "path": "../assets/logos/agentco.in.webp",

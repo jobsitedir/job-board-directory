@@ -1,6 +1,6 @@
 # Job boards for Legal
 
-15 websites in this published selection. This is not a complete market list. Updated 2026-10.r3.
+14 websites in this published selection. This is not a complete market list. Updated 2026-11.r1.
 
 [Browse more job boards on JobSiteDir](https://jobsitedir.com/search/Legal?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) · [Directory](../README.md)
 
@@ -9,7 +9,6 @@
 | The Precedent A-List | [a-list.lawandstyle.ca](../data/a-list.lawandstyle.ca.json) | [View profile](https://jobsitedir.com/jobboard/a-list.lawandstyle.ca?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | advokatjobb.se | [advokatjobb.se](../data/advokatjobb.se.json) | [View profile](https://jobsitedir.com/jobboard/advokatjobb.se?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | Clear Legal Jobs | [clearlegaljobs.com](../data/clearlegaljobs.com.json) | [View profile](https://jobsitedir.com/jobboard/clearlegaljobs.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
-| Empleo Francia | [empleofrancia.com](../data/empleofrancia.com.json) | [View profile](https://jobsitedir.com/jobboard/empleofrancia.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | Headhunter OAB-BA | [headhunter.oab-ba.org.br](../data/headhunter.oab-ba.org.br.json) | [View profile](https://jobsitedir.com/jobboard/headhunter.oab-ba.org.br?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | ILSO Job Board | [ilsojobs.com](../data/ilsojobs.com.json) | [View profile](https://jobsitedir.com/jobboard/ilsojobs.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | Lawpic | [lawpic.com](../data/lawpic.com.json) | [View profile](https://jobsitedir.com/jobboard/lawpic.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |

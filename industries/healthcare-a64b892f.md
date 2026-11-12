@@ -1,6 +1,6 @@
 # Job boards for Healthcare
 
-45 websites in this published selection. This is not a complete market list. Updated 2026-10.r3.
+44 websites in this published selection. This is not a complete market list. Updated 2026-11.r1.
 
 [Browse more job boards on JobSiteDir](https://jobsitedir.com/search/Healthcare?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) · [Directory](../README.md)
 
@@ -8,9 +8,7 @@
 | --- | --- | --- |
 | 1Medical | [1medical.com.au](../data/1medical.com.au.json) | [View profile](https://jobsitedir.com/jobboard/1medical.com.au?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | Aged Care Job Board | [agedcarejobsaustralia.net](../data/agedcarejobsaustralia.net.json) | [View profile](https://jobsitedir.com/jobboard/agedcarejobsaustralia.net?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
-| Medical Jobs Australia | [alliedhealthjobsaustralia.net](../data/alliedhealthjobsaustralia.net.json) | [View profile](https://jobsitedir.com/jobboard/alliedhealthjobsaustralia.net?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | CanadianNurse.org | [canadiannurse.org](../data/canadiannurse.org.json) | [View profile](https://jobsitedir.com/jobboard/canadiannurse.org?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
-| Care.com | [care.com](../data/care.com.json) | [View profile](https://jobsitedir.com/jobboard/care.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | EasySalud | [career.easysalud.com](../data/career.easysalud.com.json) | [View profile](https://jobsitedir.com/jobboard/career.easysalud.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | Caregivax | [caregivax.com](../data/caregivax.com.json) | [View profile](https://jobsitedir.com/jobboard/caregivax.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | Diversity in Careers | [diversityincareers.com](../data/diversityincareers.com.json) | [View profile](https://jobsitedir.com/jobboard/diversityincareers.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
@@ -40,13 +38,14 @@
 | Pflegejobs.rocks | [pflegejobs.rocks](../data/pflegejobs.rocks.json) | [View profile](https://jobsitedir.com/jobboard/pflegejobs.rocks?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | Pflegernetz | [pflegernetz.de](../data/pflegernetz.de.json) | [View profile](https://jobsitedir.com/jobboard/pflegernetz.de?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | Physician Pivot | [physicianpivot.io](../data/physicianpivot.io.json) | [View profile](https://jobsitedir.com/jobboard/physicianpivot.io?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
-| PhysiotherapyJobCanada | [physiotherapyjobscanada.ca](../data/physiotherapyjobscanada.ca.json) | [View profile](https://jobsitedir.com/jobboard/physiotherapyjobscanada.ca?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
+| Physiotherapy Jobs Canada | [physiotherapyjobscanada.ca](../data/physiotherapyjobscanada.ca.json) | [View profile](https://jobsitedir.com/jobboard/physiotherapyjobscanada.ca?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | Pracamed.pl | [pracamed.pl](../data/pracamed.pl.json) | [View profile](https://jobsitedir.com/jobboard/pracamed.pl?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | pracamedyka | [pracamedyka.pl](../data/pracamedyka.pl.json) | [View profile](https://jobsitedir.com/jobboard/pracamedyka.pl?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | Saint-Avold Emplois | [saintavold-emplois.com](../data/saintavold-emplois.com.json) | [View profile](https://jobsitedir.com/jobboard/saintavold-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | Sotespotter | [sotespotter.fi](../data/sotespotter.fi.json) | [View profile](https://jobsitedir.com/jobboard/sotespotter.fi?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | Sozialjobs.de | [sozialjobs.de](../data/sozialjobs.de.json) | [View profile](https://jobsitedir.com/jobboard/sozialjobs.de?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | Talent21 Jobs | [talent21job.com](../data/talent21job.com.json) | [View profile](https://jobsitedir.com/jobboard/talent21job.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
+| Vaidyog | [vaidyog.com](../data/vaidyog.com.json) | [View profile](https://jobsitedir.com/jobboard/vaidyog.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | Veyora Global Medical Careers | [veyoramedi.com](../data/veyoramedi.com.json) | [View profile](https://jobsitedir.com/jobboard/veyoramedi.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | Work.healthcare | [work.healthcare](../data/work.healthcare.json) | [View profile](https://jobsitedir.com/jobboard/work.healthcare?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | 医招网 | [yizhiyouwo.com](../data/yizhiyouwo.com.json) | [View profile](https://jobsitedir.com/jobboard/yizhiyouwo.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |

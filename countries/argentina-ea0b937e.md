@@ -1,6 +1,6 @@
 # Job boards in Argentina
 
-16 websites in this published selection. This is not a complete market list. Updated 2026-10.r3.
+16 websites in this published selection. This is not a complete market list. Updated 2026-11.r1.
 
 [Browse more job boards on JobSiteDir](https://jobsitedir.com/search/Argentina?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) · [Directory](../README.md)
 
@@ -13,7 +13,7 @@
 | Clasificados La Voz - Empleos | [empleos.clasificadoslavoz.com.ar](../data/empleos.clasificadoslavoz.com.ar.json) | [View profile](https://jobsitedir.com/jobboard/empleos.clasificadoslavoz.com.ar?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | Golden Peak Patagonia | [empleos.goldenpeakpatagonia.com](../data/empleos.goldenpeakpatagonia.com.json) | [View profile](https://jobsitedir.com/jobboard/empleos.goldenpeakpatagonia.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | EmpleosHOY | [empleoshoy.com.ar](../data/empleoshoy.com.ar.json) | [View profile](https://jobsitedir.com/jobboard/empleoshoy.com.ar?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
-| EST4CIONES EMPLEO REGIONAL | [est4ciones.com.ar](../data/est4ciones.com.ar.json) | [View profile](https://jobsitedir.com/jobboard/est4ciones.com.ar?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
+| EST4CIONES | [est4ciones.com.ar](../data/est4ciones.com.ar.json) | [View profile](https://jobsitedir.com/jobboard/est4ciones.com.ar?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | Portal de Empleos | [jobs.agenciayaku.com.ar](../data/jobs.agenciayaku.com.ar.json) | [View profile](https://jobsitedir.com/jobboard/jobs.agenciayaku.com.ar?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | Portal de Empleos Liqui | [jobs.liqui.app](../data/jobs.liqui.app.json) | [View profile](https://jobsitedir.com/jobboard/jobs.liqui.app?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | Lumina Consultora | [luminaconsultora.com](../data/luminaconsultora.com.json) | [View profile](https://jobsitedir.com/jobboard/luminaconsultora.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |

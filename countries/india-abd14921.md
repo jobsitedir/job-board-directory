@@ -1,6 +1,6 @@
 # Job boards in India
 
-81 websites in this published selection. This is not a complete market list. Updated 2026-10.r3.
+79 websites in this published selection. This is not a complete market list. Updated 2026-11.r1.
 
 [Browse more job boards on JobSiteDir](https://jobsitedir.com/search/India?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) · [Directory](../README.md)
 
@@ -34,7 +34,6 @@
 | Hirevoo | [hirevoo.com](../data/hirevoo.com.json) | [View profile](https://jobsitedir.com/jobboard/hirevoo.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | HiringHello | [hiringhello.com](../data/hiringhello.com.json) | [View profile](https://jobsitedir.com/jobboard/hiringhello.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | HydStartupArena | [hydstartup.online](../data/hydstartup.online.json) | [View profile](https://jobsitedir.com/jobboard/hydstartup.online?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
-| QuickToJobs India | [in.quicktojobs.com](../data/in.quicktojobs.com.json) | [View profile](https://jobsitedir.com/jobboard/in.quicktojobs.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | Indiana Global Teachers | [indianaglobalteachers.com](../data/indianaglobalteachers.com.json) | [View profile](https://jobsitedir.com/jobboard/indianaglobalteachers.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | IndiaSarkariNaukri.com | [indiasarkarinaukri.com](../data/indiasarkarinaukri.com.json) | [View profile](https://jobsitedir.com/jobboard/indiasarkarinaukri.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | InfyHire | [infyhire.com](../data/infyhire.com.json) | [View profile](https://jobsitedir.com/jobboard/infyhire.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
@@ -61,7 +60,6 @@
 | LatestOffCampusJobs | [latestoffcampusjobs.com](../data/latestoffcampusjobs.com.json) | [View profile](https://jobsitedir.com/jobboard/latestoffcampusjobs.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | Litwork | [litwork.in](../data/litwork.in.json) | [View profile](https://jobsitedir.com/jobboard/litwork.in?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | Lucknow Job Seekers | [lucknowjobseekers.com](../data/lucknowjobseekers.com.json) | [View profile](https://jobsitedir.com/jobboard/lucknowjobseekers.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
-| mcacareers.in | [mcacareers.in](../data/mcacareers.in.json) | [View profile](https://jobsitedir.com/jobboard/mcacareers.in?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | NextWalkin | [nextwalkin.in](../data/nextwalkin.in.json) | [View profile](https://jobsitedir.com/jobboard/nextwalkin.in?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | Nightingales Jobs 60+ | [nightingalesjobs60plus.com](../data/nightingalesjobs60plus.com.json) | [View profile](https://jobsitedir.com/jobboard/nightingalesjobs60plus.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | Nithra Jobs | [nithrajobs.com](../data/nithrajobs.com.json) | [View profile](https://jobsitedir.com/jobboard/nithrajobs.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |

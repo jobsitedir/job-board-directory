@@ -4,9 +4,9 @@
   "name": "Employment North",
   "website": "https://employmentnorth.com/",
   "profile": "https://jobsitedir.com/jobboard/employmentnorth.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
-  "site_type": "Niche_Geo",
+  "site_type": "Specialist_Job_Board",
   "primary_country": "CA",
-  "primary_industry": "Government",
+  "primary_industry": "Government>State & Local",
   "description": "Employment North is a free job board and career support service for job seekers and employers in Muskoka, Parry Sound, and surrounding Northern Ontario areas.",
   "logo": {
     "path": "../assets/logos/employmentnorth.com.webp",

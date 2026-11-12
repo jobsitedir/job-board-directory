@@ -1,12 +1,12 @@
 # Job boards for Hospitality & Travel
 
-65 websites in this published selection. This is not a complete market list. Updated 2026-10.r3.
+66 websites in this published selection. This is not a complete market list. Updated 2026-11.r1.
 
 [Browse more job boards on JobSiteDir](https://jobsitedir.com/search/Hospitality%20%26%20Travel?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) · [Directory](../README.md)
 
 | Website | Data | Profile |
 | --- | --- | --- |
-| adsjob.com | [adsjob.com](../data/adsjob.com.json) | [View profile](https://jobsitedir.com/jobboard/adsjob.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
+| adsjob | [adsjob.com](../data/adsjob.com.json) | [View profile](https://jobsitedir.com/jobboard/adsjob.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | NEFES HIRE | [ai-indo.com](../data/ai-indo.com.json) | [View profile](https://jobsitedir.com/jobboard/ai-indo.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | フュージョンワーク ワンデイドットネット | [aichi.one-day.net](../data/aichi.one-day.net.json) | [View profile](https://jobsitedir.com/jobboard/aichi.one-day.net?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | All Catering Jobs | [allcateringjobs.com](../data/allcateringjobs.com.json) | [View profile](https://jobsitedir.com/jobboard/allcateringjobs.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
@@ -36,6 +36,7 @@
 | HOTERES | [hotel-ya.com](../data/hotel-ya.com.json) | [View profile](https://jobsitedir.com/jobboard/hotel-ya.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | hoteljob.de | [hoteljob.de](../data/hoteljob.de.json) | [View profile](https://jobsitedir.com/jobboard/hoteljob.de?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | HouseHelp.co.ke | [househelp.co.ke](../data/househelp.co.ke.json) | [View profile](https://jobsitedir.com/jobboard/househelp.co.ke?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
+| Hyères Emplois | [hyeres-emplois.com](../data/hyeres-emplois.com.json) | [View profile](https://jobsitedir.com/jobboard/hyeres-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | InnHirers | [innhires.com](../data/innhires.com.json) | [View profile](https://jobsitedir.com/jobboard/innhires.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | Jasper Job Board | [jobboard.jasperemployment.com](../data/jobboard.jasperemployment.com.json) | [View profile](https://jobsitedir.com/jobboard/jobboard.jasperemployment.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | JobOn | [jobonportal.de](../data/jobonportal.de.json) | [View profile](https://jobsitedir.com/jobboard/jobonportal.de?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |

@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
   "domain": "junior.guru",
-  "name": "junior.guru",
+  "name": "Junior.guru",
   "website": "https://junior.guru/",
   "profile": "https://jobsitedir.com/jobboard/junior.guru?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
-  "site_type": "Niche_Geo",
+  "site_type": "Specialist_Job_Board",
   "primary_country": "CZ",
-  "primary_industry": "Technical>General Tech & IT",
+  "primary_industry": "Information Technology",
   "description": "Junior.guru is a Czech and Slovak job platform for beginners in programming, testing, and data analytics, filtering out roles requiring 4+ years of experience.",
   "logo": {
     "path": "../assets/logos/junior.guru.webp",

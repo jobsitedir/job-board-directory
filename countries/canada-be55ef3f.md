@@ -1,6 +1,6 @@
 # Job boards in Canada
 
-52 websites in this published selection. This is not a complete market list. Updated 2026-10.r3.
+52 websites in this published selection. This is not a complete market list. Updated 2026-11.r1.
 
 [Browse more job boards on JobSiteDir](https://jobsitedir.com/search/Canada?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) · [Directory](../README.md)
 
@@ -25,7 +25,7 @@
 | Fairly Staffing | [fairlystaffing.com](../data/fairlystaffing.com.json) | [View profile](https://jobsitedir.com/jobboard/fairlystaffing.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | FarmingJobs.ca | [farmingjobs.ca](../data/farmingjobs.ca.json) | [View profile](https://jobsitedir.com/jobboard/farmingjobs.ca?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | FillaRole | [fillarole.ca](../data/fillarole.ca.json) | [View profile](https://jobsitedir.com/jobboard/fillarole.ca?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
-| Finance Jobs  JobsMedia.io | [finance.jobsmedia.io](../data/finance.jobsmedia.io.json) | [View profile](https://jobsitedir.com/jobboard/finance.jobsmedia.io?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
+| Finance Jobs | [finance.jobsmedia.io](../data/finance.jobsmedia.io.json) | [View profile](https://jobsitedir.com/jobboard/finance.jobsmedia.io?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | GigJobsCanada | [gigjobscanada.ca](../data/gigjobscanada.ca.json) | [View profile](https://jobsitedir.com/jobboard/gigjobscanada.ca?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | Golf Jobs Canada | [golfjobscanada.ca](../data/golfjobscanada.ca.json) | [View profile](https://jobsitedir.com/jobboard/golfjobscanada.ca?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | Healthcare Workers Canada – Association Job Board | [healthcarecareer.ca](../data/healthcarecareer.ca.json) | [View profile](https://jobsitedir.com/jobboard/healthcarecareer.ca?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
@@ -50,7 +50,7 @@
 | The Next Career Portal | [nextcareerportal.ca](../data/nextcareerportal.ca.json) | [View profile](https://jobsitedir.com/jobboard/nextcareerportal.ca?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | Obsidi | [obsidi.com](../data/obsidi.com.json) | [View profile](https://jobsitedir.com/jobboard/obsidi.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | OVjobs | [ovjobs.ca](../data/ovjobs.ca.json) | [View profile](https://jobsitedir.com/jobboard/ovjobs.ca?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
-| PhysiotherapyJobCanada | [physiotherapyjobscanada.ca](../data/physiotherapyjobscanada.ca.json) | [View profile](https://jobsitedir.com/jobboard/physiotherapyjobscanada.ca?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
+| Physiotherapy Jobs Canada | [physiotherapyjobscanada.ca](../data/physiotherapyjobscanada.ca.json) | [View profile](https://jobsitedir.com/jobboard/physiotherapyjobscanada.ca?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | Reach Hire | [reachhire.ca](../data/reachhire.ca.json) | [View profile](https://jobsitedir.com/jobboard/reachhire.ca?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | SalesEmployment | [salesemployment.ca](../data/salesemployment.ca.json) | [View profile](https://jobsitedir.com/jobboard/salesemployment.ca?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | Universal Hiring | [universalhiring.ca](../data/universalhiring.ca.json) | [View profile](https://jobsitedir.com/jobboard/universalhiring.ca?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |

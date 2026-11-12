@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
   "domain": "glrcw.com",
-  "name": "桂林人才网",
+  "name": "Guilin Talent Network",
   "website": "https://glrcw.com/",
   "profile": "https://jobsitedir.com/jobboard/glrcw.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
-  "site_type": "Niche_Geo",
+  "site_type": "Specialist_Job_Board",
   "primary_country": "CN",
-  "primary_industry": "Government",
+  "primary_industry": "Government>State & Local",
   "description": "Guilin Talent (glrcw.com) is a job website serving government departments, public institutions, and enterprises in Guilin, China, operated by Guilin Shengcai Human Technology…",
   "logo": {
     "path": "../assets/logos/glrcw.com.webp",

@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "domain": "jobs.switchedu.com.au",
-  "name": "Switch Education Jobs Board",
+  "name": "Switch Education Jobs",
   "website": "https://jobs.switchedu.com.au/",
   "profile": "https://jobsitedir.com/jobboard/jobs.switchedu.com.au?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
-  "site_type": "Niche_Industry",
+  "site_type": "Specialist_Job_Board",
   "primary_country": "AU",
   "primary_industry": "Education",
   "description": "Switch Education Jobs Board is an Australian job site for early childhood educators, teachers, leaders, and support staff, connecting them with schools and education organisations.",

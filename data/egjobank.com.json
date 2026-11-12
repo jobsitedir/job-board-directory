@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
   "domain": "egjobank.com",
-  "name": "بنك الوظائف المصري",
+  "name": "Egyptian Job Bank",
   "website": "https://egjobank.com/",
   "profile": "https://jobsitedir.com/jobboard/egjobank.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
-  "site_type": "Niche_Geo",
+  "site_type": "Specialist_Job_Board",
   "primary_country": "EG",
-  "primary_industry": null,
+  "primary_industry": "Government>State & Local",
   "description": "The platform is an Arabic job platform specialized in the Egyptian labor market.",
   "logo": {
     "path": "../assets/logos/egjobank.com.webp",

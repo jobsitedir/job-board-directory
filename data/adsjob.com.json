@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "domain": "adsjob.com",
-  "name": "adsjob.com",
+  "name": "adsjob",
   "website": "https://adsjob.com/",
   "profile": "https://jobsitedir.com/jobboard/adsjob.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
-  "site_type": "Niche_Industry",
+  "site_type": "Specialist_Job_Board",
   "primary_country": "CH",
   "primary_industry": "Hospitality & Travel",
   "description": "Adsjob.com is a European job board for gastronomy and hotel positions, offering free use for job seekers and paid employer services including pre-selection and applicant…",

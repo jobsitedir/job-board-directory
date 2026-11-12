@@ -4,9 +4,9 @@
   "name": "Palaiseau Emplois",
   "website": "https://palaiseau-emplois.com/",
   "profile": "https://jobsitedir.com/jobboard/palaiseau-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
-  "site_type": "Niche_Geo",
+  "site_type": "Specialist_Job_Board",
   "primary_country": "FR",
-  "primary_industry": null,
+  "primary_industry": "Technology>AI & Data Science",
   "description": "Palaiseau-emplois.com lists 1272 job offers in Palaiseau, France, with a link to view all openings.",
   "logo": {
     "path": "../assets/logos/palaiseau-emplois.com.webp",

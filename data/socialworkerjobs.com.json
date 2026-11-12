@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "socialworkerjobs.com",
+  "name": "Socialworkerjobs.com",
+  "website": "https://socialworkerjobs.com/",
+  "profile": "https://jobsitedir.com/jobboard/socialworkerjobs.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Specialist_Job_Board",
+  "primary_country": "US",
+  "primary_industry": "Healthcare>Social Work",
+  "description": "Niche job board specializing in social work positions, featuring vacancies from multiple external employers including government agencies, educational institutions, and…",
+  "logo": {
+    "path": "../assets/logos/socialworkerjobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/socialworkerjobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "ap-ls.org",
+  "name": "American Psychology-Law Society",
+  "website": "https://ap-ls.org/",
+  "profile": "https://jobsitedir.com/jobboard/ap-ls.org?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Other",
+  "primary_country": "US",
+  "primary_industry": "Healthcare>Psychology & Psychiatry",
+  "description": "Niche job board for psychology-law positions, featuring academic and professional roles from universities, government agencies, and healthcare organizations.",
+  "logo": {
+    "path": "../assets/logos/ap-ls.org.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/ap-ls.org.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

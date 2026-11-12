@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "aupo.org",
+  "name": "Association of University Professors of Ophthalmology",
+  "website": "https://aupo.org/",
+  "profile": "https://jobsitedir.com/jobboard/aupo.org?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Other",
+  "primary_country": "US",
+  "primary_industry": "Healthcare>Physician",
+  "description": "Specialized job board for academic ophthalmology positions across US medical schools and teaching hospitals, featuring faculty and research roles in subspecialties like…",
+  "logo": {
+    "path": "../assets/logos/aupo.org.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/aupo.org.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

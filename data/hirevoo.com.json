@@ -4,9 +4,9 @@
   "name": "Hirevoo",
   "website": "https://hirevoo.com/",
   "profile": "https://jobsitedir.com/jobboard/hirevoo.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
-  "site_type": "Generalist",
+  "site_type": "Specialist_Job_Board",
   "primary_country": "IN",
-  "primary_industry": "Technical>General Tech & IT",
+  "primary_industry": "Information Technology",
   "description": "Hirevoo is a job platform that uses AI to match candidates with roles, offering skill gap analysis, upskill recommendations, and a Career Accelerator with live classes and mock…",
   "logo": {
     "path": "../assets/logos/hirevoo.com.webp",

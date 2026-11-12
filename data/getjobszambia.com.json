@@ -4,9 +4,9 @@
   "name": "GetJobsZambia",
   "website": "https://getjobszambia.com/",
   "profile": "https://jobsitedir.com/jobboard/getjobszambia.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
-  "site_type": "Niche_Geo",
+  "site_type": "Specialist_Job_Board",
   "primary_country": "ZM",
-  "primary_industry": null,
+  "primary_industry": "Government",
   "description": "GetJobsZambia is a free job site for Zambian professionals, offering curated listings, salary info, AI career tools, and scholarships.",
   "logo": {
     "path": "../assets/logos/getjobszambia.com.webp",

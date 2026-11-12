@@ -4,9 +4,9 @@
   "name": "Guyancourt Emplois",
   "website": "https://guyancourt-emplois.com/",
   "profile": "https://jobsitedir.com/jobboard/guyancourt-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
-  "site_type": "Niche_Geo",
+  "site_type": "Specialist_Job_Board",
   "primary_country": "FR",
-  "primary_industry": null,
+  "primary_industry": "Government>State & Local",
   "description": "Guyancourt-emplois.com lists 1,519 job offers in Guyancourt and lets you create personalized email alerts for new postings.",
   "logo": {
     "path": "../assets/logos/guyancourt-emplois.com.webp",

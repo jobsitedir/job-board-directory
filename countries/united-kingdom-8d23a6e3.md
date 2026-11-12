@@ -1,6 +1,6 @@
 # Job boards in United Kingdom
 
-52 websites in this published selection. This is not a complete market list. Updated 2026-10.r3.
+50 websites in this published selection. This is not a complete market list. Updated 2026-11.r1.
 
 [Browse more job boards on JobSiteDir](https://jobsitedir.com/search/United%20Kingdom?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) · [Directory](../README.md)
 
@@ -22,7 +22,7 @@
 | FM Recruiter | [fmrecruiter.com](../data/fmrecruiter.com.json) | [View profile](https://jobsitedir.com/jobboard/fmrecruiter.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | Football Careers | [footballcareers.com](../data/footballcareers.com.json) | [View profile](https://jobsitedir.com/jobboard/footballcareers.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | Forces Families Jobs | [forcesfamiliesjobs.co.uk](../data/forcesfamiliesjobs.co.uk.json) | [View profile](https://jobsitedir.com/jobboard/forcesfamiliesjobs.co.uk?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
-| Gloucestershire Jobs | [glosjobs.co.uk](../data/glosjobs.co.uk.json) | [View profile](https://jobsitedir.com/jobboard/glosjobs.co.uk?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
+| GlosJobs | [glosjobs.co.uk](../data/glosjobs.co.uk.json) | [View profile](https://jobsitedir.com/jobboard/glosjobs.co.uk?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | Gradsouthwest | [gradsouthwest.com](../data/gradsouthwest.com.json) | [View profile](https://jobsitedir.com/jobboard/gradsouthwest.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | GuardPass | [guardpass.com](../data/guardpass.com.json) | [View profile](https://jobsitedir.com/jobboard/guardpass.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | Inspired People | [inspiredpeople.org](../data/inspiredpeople.org.json) | [View profile](https://jobsitedir.com/jobboard/inspiredpeople.org?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
@@ -33,7 +33,6 @@
 | jobsinbirmingham.net | [jobsinbirmingham.net](../data/jobsinbirmingham.net.json) | [View profile](https://jobsitedir.com/jobboard/jobsinbirmingham.net?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | Jobs in Manchester | [jobsinmcr.co.uk](../data/jobsinmcr.co.uk.json) | [View profile](https://jobsitedir.com/jobboard/jobsinmcr.co.uk?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | JobsRetail | [jobsretail.co.uk](../data/jobsretail.co.uk.json) | [View profile](https://jobsitedir.com/jobboard/jobsretail.co.uk?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
-| Job Swipe | [jobswipe.net](../data/jobswipe.net.json) | [View profile](https://jobsitedir.com/jobboard/jobswipe.net?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | Manchester Job Connect | [manchesterjobconnect.com](../data/manchesterjobconnect.com.json) | [View profile](https://jobsitedir.com/jobboard/manchesterjobconnect.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | Midnight Careers | [midnightcareers.com](../data/midnightcareers.com.json) | [View profile](https://jobsitedir.com/jobboard/midnightcareers.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | Mum Hours UK | [mumhours.co.uk](../data/mumhours.co.uk.json) | [View profile](https://jobsitedir.com/jobboard/mumhours.co.uk?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
@@ -54,7 +53,6 @@
 | STEM Women | [stemwomen.com](../data/stemwomen.com.json) | [View profile](https://jobsitedir.com/jobboard/stemwomen.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | The Talent Manager | [thetalentmanager.com](../data/thetalentmanager.com.json) | [View profile](https://jobsitedir.com/jobboard/thetalentmanager.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | TotallyLegal | [totallylegal.com](../data/totallylegal.com.json) | [View profile](https://jobsitedir.com/jobboard/totallylegal.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
-| QuickToJobs UK | [uk.quicktojobs.com](../data/uk.quicktojobs.com.json) | [View profile](https://jobsitedir.com/jobboard/uk.quicktojobs.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | UK Careers Fair | [ukcareersfair.com](../data/ukcareersfair.com.json) | [View profile](https://jobsitedir.com/jobboard/ukcareersfair.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | UK Part Time Jobs | [ukparttimejobs.co.uk](../data/ukparttimejobs.co.uk.json) | [View profile](https://jobsitedir.com/jobboard/ukparttimejobs.co.uk?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | Work.healthcare | [work.healthcare](../data/work.healthcare.json) | [View profile](https://jobsitedir.com/jobboard/work.healthcare?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |

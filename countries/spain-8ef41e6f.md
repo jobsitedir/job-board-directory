@@ -1,6 +1,6 @@
 # Job boards in Spain
 
-21 websites in this published selection. This is not a complete market list. Updated 2026-10.r3.
+20 websites in this published selection. This is not a complete market list. Updated 2026-11.r1.
 
 [Browse more job boards on JobSiteDir](https://jobsitedir.com/search/Spain?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) · [Directory](../README.md)
 
@@ -16,7 +16,6 @@
 | RH en positiu | [empleo.rhenpositiu.es](../data/empleo.rhenpositiu.es.json) | [View profile](https://jobsitedir.com/jobboard/empleo.rhenpositiu.es?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | Empleo en Transporte | [empleoentransporte.com](../data/empleoentransporte.com.json) | [View profile](https://jobsitedir.com/jobboard/empleoentransporte.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | Empleo Internacional Cámara Valencia | [empleointernacional.camaravalencia.com](../data/empleointernacional.camaravalencia.com.json) | [View profile](https://jobsitedir.com/jobboard/empleointernacional.camaravalencia.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
-| EmpleoRural | [empleorural.es](../data/empleorural.es.json) | [View profile](https://jobsitedir.com/jobboard/empleorural.es?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | EmpleoVino.es | [empleovino.es](../data/empleovino.es.json) | [View profile](https://jobsitedir.com/jobboard/empleovino.es?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | Fitandjobs | [fitandjobs.com](../data/fitandjobs.com.json) | [View profile](https://jobsitedir.com/jobboard/fitandjobs.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | Genda Job | [genda.es](../data/genda.es.json) | [View profile](https://jobsitedir.com/jobboard/genda.es?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |

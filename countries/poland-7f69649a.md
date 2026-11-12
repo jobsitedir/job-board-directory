@@ -1,6 +1,6 @@
 # Job boards in Poland
 
-37 websites in this published selection. This is not a complete market list. Updated 2026-10.r3.
+37 websites in this published selection. This is not a complete market list. Updated 2026-11.r1.
 
 [Browse more job boards on JobSiteDir](https://jobsitedir.com/search/Poland?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) · [Directory](../README.md)
 
@@ -25,7 +25,7 @@
 | OZEKariera.pl | [ozekariera.pl](../data/ozekariera.pl.json) | [View profile](https://jobsitedir.com/jobboard/ozekariera.pl?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | PMwork.pl | [pmwork.pl](../data/pmwork.pl.json) | [View profile](https://jobsitedir.com/jobboard/pmwork.pl?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | PolskaPraca.pl | [polskapraca.pl](../data/polskapraca.pl.json) | [View profile](https://jobsitedir.com/jobboard/polskapraca.pl?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
-| portal pracy | [portalpracy.pl](../data/portalpracy.pl.json) | [View profile](https://jobsitedir.com/jobboard/portalpracy.pl?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
+| Portal Pracy | [portalpracy.pl](../data/portalpracy.pl.json) | [View profile](https://jobsitedir.com/jobboard/portalpracy.pl?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | Pracamed.pl | [pracamed.pl](../data/pracamed.pl.json) | [View profile](https://jobsitedir.com/jobboard/pracamed.pl?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | pracamedyka | [pracamedyka.pl](../data/pracamedyka.pl.json) | [View profile](https://jobsitedir.com/jobboard/pracamedyka.pl?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | PracaPL | [pracapl.pl](../data/pracapl.pl.json) | [View profile](https://jobsitedir.com/jobboard/pracapl.pl?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |

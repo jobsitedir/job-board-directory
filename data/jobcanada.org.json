@@ -4,9 +4,9 @@
   "name": "JobCanada.org",
   "website": "https://jobcanada.org/",
   "profile": "https://jobsitedir.com/jobboard/jobcanada.org?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
-  "site_type": "Niche_Geo",
+  "site_type": "Specialist_Job_Board",
   "primary_country": "CA",
-  "primary_industry": null,
+  "primary_industry": "Government>State & Local",
   "description": "JobCanada.org is a Canadian job board serving Ontario since 2000, offering keyword search, resume viewing, and a $25 background check service.",
   "logo": {
     "path": "../assets/logos/jobcanada.org.webp",

@@ -4,7 +4,7 @@
   "name": "JobMap France",
   "website": "https://jobmap-france.fr/",
   "profile": "https://jobsitedir.com/jobboard/jobmap-france.fr?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
-  "site_type": "Niche_Geo",
+  "site_type": "Job_Aggregator",
   "primary_country": "FR",
   "primary_industry": null,
   "description": "Jobmap France aggregates job offers from France Travail across all French regions, including overseas territories, with filters for sector and publication date.",

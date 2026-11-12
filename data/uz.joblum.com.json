@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
   "domain": "uz.joblum.com",
-  "name": "Joblum Узбекистан",
+  "name": "Joblum Uzbekistan",
   "website": "https://uz.joblum.com/",
   "profile": "https://jobsitedir.com/jobboard/uz.joblum.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
-  "site_type": "Niche_Geo",
+  "site_type": "Specialist_Job_Board",
   "primary_country": "UZ",
-  "primary_industry": null,
+  "primary_industry": "Financial Services>General",
   "description": "Joblum is a job search site for Uzbekistan, listing thousands of vacancies across cities like Tashkent, Samarkand, and Bukhara.",
   "logo": null,
   "screenshot": {

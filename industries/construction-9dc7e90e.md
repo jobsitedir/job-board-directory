@@ -1,6 +1,6 @@
 # Job boards for Construction
 
-25 websites in this published selection. This is not a complete market list. Updated 2026-10.r3.
+26 websites in this published selection. This is not a complete market list. Updated 2026-11.r1.
 
 [Browse more job boards on JobSiteDir](https://jobsitedir.com/search/Construction?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) · [Directory](../README.md)
 
@@ -20,6 +20,7 @@
 | OroSira Emploi | [emploi.orosira.com](../data/emploi.orosira.com.json) | [View profile](https://jobsitedir.com/jobboard/emploi.orosira.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | HR Kamer | [hrkamer.nl](../data/hrkamer.nl.json) | [View profile](https://jobsitedir.com/jobboard/hrkamer.nl?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | Industrial Projects Report | [industrialprojectsreport.com](../data/industrialprojectsreport.com.json) | [View profile](https://jobsitedir.com/jobboard/industrialprojectsreport.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
+| Jobbörse für das Elektrohandwerk | [jobboerse-elektrohandwerk.de](../data/jobboerse-elektrohandwerk.de.json) | [View profile](https://jobsitedir.com/jobboard/jobboerse-elektrohandwerk.de?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | jobinbtp | [jobinbtp.fr](../data/jobinbtp.fr.json) | [View profile](https://jobsitedir.com/jobboard/jobinbtp.fr?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | AIA Colorado Job Board | [jobs.aiacolorado.org](../data/jobs.aiacolorado.org.json) | [View profile](https://jobsitedir.com/jobboard/jobs.aiacolorado.org?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | Go Build Alabama Job Board | [jobs.gobuildalabama.com](../data/jobs.gobuildalabama.com.json) | [View profile](https://jobsitedir.com/jobboard/jobs.gobuildalabama.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |

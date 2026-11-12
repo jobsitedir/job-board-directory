@@ -4,9 +4,9 @@
   "name": "AjiraHub",
   "website": "https://ajirahub.co.ke/",
   "profile": "https://jobsitedir.com/jobboard/ajirahub.co.ke?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
-  "site_type": "Niche_Geo",
+  "site_type": "Specialist_Job_Board",
   "primary_country": "KE",
-  "primary_industry": null,
+  "primary_industry": "Government>State & Local",
   "description": "AjiraHub is a Kenyan career platform offering curated job listings and free AI-powered tools like an ATS CV builder, with optional premium upgrades payable via M-Pesa.",
   "logo": {
     "path": "../assets/logos/ajirahub.co.ke.webp",

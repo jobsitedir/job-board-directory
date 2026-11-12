@@ -1,6 +1,6 @@
 # Job boards in France
 
-110 websites in this published selection. This is not a complete market list. Updated 2026-10.r3.
+108 websites in this published selection. This is not a complete market list. Updated 2026-11.r1.
 
 [Browse more job boards on JobSiteDir](https://jobsitedir.com/search/France?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) · [Directory](../README.md)
 
@@ -36,7 +36,6 @@
 | DomTomEmploi | [domtomemploi.fr](../data/domtomemploi.fr.json) | [View profile](https://jobsitedir.com/jobboard/domtomemploi.fr?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | EasyJobs | [easyjobs.fr](../data/easyjobs.fr.json) | [View profile](https://jobsitedir.com/jobboard/easyjobs.fr?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | Elec-jobs | [elec-jobs.fr](../data/elec-jobs.fr.json) | [View profile](https://jobsitedir.com/jobboard/elec-jobs.fr?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
-| Empleo Francia | [empleofrancia.com](../data/empleofrancia.com.json) | [View profile](https://jobsitedir.com/jobboard/empleofrancia.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | Emploi Chauffeur | [emploi-chauffeur.fr](../data/emploi-chauffeur.fr.json) | [View profile](https://jobsitedir.com/jobboard/emploi-chauffeur.fr?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | Emploi-Plasturgie.org | [emploi-plasturgie.org](../data/emploi-plasturgie.org.json) | [View profile](https://jobsitedir.com/jobboard/emploi-plasturgie.org?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | Bourse d'emploi du réseau des centres sociaux | [emploi.centres-sociaux.fr](../data/emploi.centres-sociaux.fr.json) | [View profile](https://jobsitedir.com/jobboard/emploi.centres-sociaux.fr?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
@@ -85,7 +84,6 @@
 | Palaiseau Emplois | [palaiseau-emplois.com](../data/palaiseau-emplois.com.json) | [View profile](https://jobsitedir.com/jobboard/palaiseau-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | Parthenay Emplois | [parthenay-emplois.com](../data/parthenay-emplois.com.json) | [View profile](https://jobsitedir.com/jobboard/parthenay-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | Plaisir Emplois | [plaisir-emplois.com](../data/plaisir-emplois.com.json) | [View profile](https://jobsitedir.com/jobboard/plaisir-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
-| postule.io | [postule.io](../data/postule.io.json) | [View profile](https://jobsitedir.com/jobboard/postule.io?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | Quimper Emplois | [quimper-emplois.com](../data/quimper-emplois.com.json) | [View profile](https://jobsitedir.com/jobboard/quimper-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | Rambouillet Emplois | [rambouillet-emplois.com](../data/rambouillet-emplois.com.json) | [View profile](https://jobsitedir.com/jobboard/rambouillet-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | LesJeudis | [recruteur.lesjeudis.com](../data/recruteur.lesjeudis.com.json) | [View profile](https://jobsitedir.com/jobboard/recruteur.lesjeudis.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |

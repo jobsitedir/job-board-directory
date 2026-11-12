@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "paramedicjobs.com",
+  "name": "ParamedicJobs.com",
+  "website": "https://paramedicjobs.com/",
+  "profile": "https://jobsitedir.com/jobboard/paramedicjobs.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Specialist_Job_Board",
+  "primary_country": "US",
+  "primary_industry": "Healthcare>Emergency Medicine",
+  "description": "Specialized job board for paramedic and emergency medical services positions, listing vacancies from multiple public and private sector employers across the United States.",
+  "logo": {
+    "path": "../assets/logos/paramedicjobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/paramedicjobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

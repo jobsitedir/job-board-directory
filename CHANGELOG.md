@@ -1,5 +1,9 @@
 # Release history
 
+## 2026-11.r1
+
+1000 websites. Added 17, changed 983, removed 17.
+
 ## 2026-10.r3
 
 1000 websites. Added 0, changed 0, removed 0.

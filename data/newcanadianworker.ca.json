@@ -4,9 +4,9 @@
   "name": "New Canadian Worker",
   "website": "https://newcanadianworker.ca/",
   "profile": "https://jobsitedir.com/jobboard/newcanadianworker.ca?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
-  "site_type": "Niche_Geo",
+  "site_type": "Specialist_Job_Board",
   "primary_country": "CA",
-  "primary_industry": null,
+  "primary_industry": "Government>State & Local",
   "description": "NewCanadianWorker.ca is a job platform for new Canadians—immigrants, refugees, asylum seekers, foreign students, and new workers—offering job search, resume tools, and guidance…",
   "logo": {
     "path": "../assets/logos/newcanadianworker.ca.webp",

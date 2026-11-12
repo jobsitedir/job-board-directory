@@ -4,9 +4,9 @@
   "name": "GANT Job Board",
   "website": "https://gant-job-board.jobboardly.com/",
   "profile": "https://jobsitedir.com/jobboard/gant-job-board.jobboardly.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
-  "site_type": "Niche_Geo",
+  "site_type": "Specialist_Job_Board",
   "primary_country": "US",
-  "primary_industry": null,
+  "primary_industry": "Retail",
   "description": "Gant Job Board is a general-purpose job site serving employers and job seekers across multiple industries, offering job alerts and flexible posting options.",
   "logo": {
     "path": "../assets/logos/gant-job-board.jobboardly.com.webp",

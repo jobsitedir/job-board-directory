@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
   "domain": "finance.jobsmedia.io",
-  "name": "Finance Jobs | JobsMedia.io",
+  "name": "Finance Jobs",
   "website": "https://finance.jobsmedia.io/",
   "profile": "https://jobsitedir.com/jobboard/finance.jobsmedia.io?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
-  "site_type": "Niche_Industry",
+  "site_type": "Specialist_Job_Board",
   "primary_country": "CA",
-  "primary_industry": "Financial Services>General",
+  "primary_industry": "Financial Services",
   "description": "A finance-specific job board listing opportunities across Canada, with city-based search and employer tools.",
   "logo": {
     "path": "../assets/logos/finance.jobsmedia.io.webp",

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "apta-ms.org",
+  "name": "APTA-Mississippi",
+  "website": "https://apta-ms.org/",
+  "profile": "https://jobsitedir.com/jobboard/apta-ms.org?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Community_Social",
+  "primary_country": "US",
+  "primary_industry": "Healthcare>Rehab Medicine",
+  "description": "APTA-Mississippi’s job board connects physical therapy practices and providers, with listed openings in Mississippi.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/apta-ms.org.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

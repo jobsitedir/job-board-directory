@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "domain": "healthcareadministrationjobs.net",
+  "name": "Healthcare Administration Jobs",
+  "website": "https://healthcareadministrationjobs.net/",
+  "profile": "https://jobsitedir.com/jobboard/healthcareadministrationjobs.net?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Specialist_Job_Board",
+  "primary_country": "US",
+  "primary_industry": "Healthcare>Administration",
+  "description": "A healthcare administration job site with job searches by keyword or company name and location options in the US, Canada and elsewhere.",
+  "logo": null,
+  "screenshot": {
+    "path": "../assets/screenshots/healthcareadministrationjobs.net.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

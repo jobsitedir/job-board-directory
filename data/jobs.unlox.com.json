@@ -4,9 +4,9 @@
   "name": "Unlox",
   "website": "https://jobs.unlox.com/",
   "profile": "https://jobsitedir.com/jobboard/jobs.unlox.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
-  "site_type": "Niche_Geo",
+  "site_type": "Specialist_Job_Board",
   "primary_country": "IN",
-  "primary_industry": "Technical>General Tech & IT",
+  "primary_industry": "Technology>Web3 & Blockchain",
   "description": "Unlox is a free job portal connecting employers with students from Indian institutions, offering smart matchmaking and dedicated support throughout the hiring process.",
   "logo": {
     "path": "../assets/logos/jobs.unlox.com.webp",

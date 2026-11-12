@@ -1,6 +1,6 @@
 # Job boards for Government
 
-42 websites in this published selection. This is not a complete market list. Updated 2026-10.r3.
+41 websites in this published selection. This is not a complete market list. Updated 2026-11.r1.
 
 [Browse more job boards on JobSiteDir](https://jobsitedir.com/search/Government?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) · [Directory](../README.md)
 
@@ -9,18 +9,17 @@
 | All Provinces Jobs | [allprovincesjobs.co.za](../data/allprovincesjobs.co.za.json) | [View profile](https://jobsitedir.com/jobboard/allprovincesjobs.co.za?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | أوامر التوظيف | [awamirtawzif.com](../data/awamirtawzif.com.json) | [View profile](https://jobsitedir.com/jobboard/awamirtawzif.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | Beyond Staff | [beyondstaff.co.za](../data/beyondstaff.co.za.json) | [View profile](https://jobsitedir.com/jobboard/beyondstaff.co.za?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
-| Canada Municipal Jobs | [canadamunicipaljobs.com](../data/canadamunicipaljobs.com.json) | [View profile](https://jobsitedir.com/jobboard/canadamunicipaljobs.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | Careers Mason | [careersmason.com](../data/careersmason.com.json) | [View profile](https://jobsitedir.com/jobboard/careersmason.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | Civil Jobs | [civiljobs.co.uk](../data/civiljobs.co.uk.json) | [View profile](https://jobsitedir.com/jobboard/civiljobs.co.uk?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | EchteOpdrachten.nl | [echteopdrachten.nl](../data/echteopdrachten.nl.json) | [View profile](https://jobsitedir.com/jobboard/echteopdrachten.nl?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | EchteVacatures.nl | [echtevacatures.nl](../data/echtevacatures.nl.json) | [View profile](https://jobsitedir.com/jobboard/echtevacatures.nl?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
-| Employment North | [employmentnorth.com](../data/employmentnorth.com.json) | [View profile](https://jobsitedir.com/jobboard/employmentnorth.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | Esenyurt Belediyesi İstihdam Merkezi (ESBİM) | [esbim.esenyurt.bel.tr](../data/esbim.esenyurt.bel.tr.json) | [View profile](https://jobsitedir.com/jobboard/esbim.esenyurt.bel.tr?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
-| 桂林人才网 | [glrcw.com](../data/glrcw.com.json) | [View profile](https://jobsitedir.com/jobboard/glrcw.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
+| GetJobsZambia | [getjobszambia.com](../data/getjobszambia.com.json) | [View profile](https://jobsitedir.com/jobboard/getjobszambia.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | מרכז תעסוקה גולן | [golanjobs.co.il](../data/golanjobs.co.il.json) | [View profile](https://jobsitedir.com/jobboard/golanjobs.co.il?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | IndiaSarkariNaukri.com | [indiasarkarinaukri.com](../data/indiasarkarinaukri.com.json) | [View profile](https://jobsitedir.com/jobboard/indiasarkarinaukri.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | IOEMS - Indian Outsourcing Employment Management Services | [ioems.in](../data/ioems.in.json) | [View profile](https://jobsitedir.com/jobboard/ioems.in?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | jobaddaa4u | [jobaddaa4u.in](../data/jobaddaa4u.in.json) | [View profile](https://jobsitedir.com/jobboard/jobaddaa4u.in?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
+| Joballer | [joballer.com](../data/joballer.com.json) | [View profile](https://jobsitedir.com/jobboard/joballer.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | JOBG2.COM | [jobg2.com](../data/jobg2.com.json) | [View profile](https://jobsitedir.com/jobboard/jobg2.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | jobnearme.pk | [jobnearme.pk](../data/jobnearme.pk.json) | [View profile](https://jobsitedir.com/jobboard/jobnearme.pk?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | La Possession Emplois | [la-possession-emplois.com](../data/la-possession-emplois.com.json) | [View profile](https://jobsitedir.com/jobboard/la-possession-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |

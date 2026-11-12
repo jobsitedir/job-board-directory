@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "nebaalas.org",
+  "name": "New England Branch of the American Association for Laboratory Animal Science",
+  "website": "https://nebaalas.org/",
+  "profile": "https://jobsitedir.com/jobboard/nebaalas.org?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Other",
+  "primary_country": "US",
+  "primary_industry": "Healthcare>Research",
+  "description": "NEBAALAS is a nonprofit job board and professional association for laboratory animal science professionals in New England, offering free job posting and viewing for roles in…",
+  "logo": {
+    "path": "../assets/logos/nebaalas.org.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/nebaalas.org.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

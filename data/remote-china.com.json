@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "domain": "remote-china.com",
-  "name": "Remote China",
+  "name": "远程工作者",
   "website": "https://remote-china.com/",
   "profile": "https://jobsitedir.com/jobboard/remote-china.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
-  "site_type": "Niche_Geo",
+  "site_type": "Remote_First",
   "primary_country": "CN",
   "primary_industry": "Technical>General Tech & IT",
   "description": "Remote-China.com aggregates remote job listings from Chinese platforms like Zhaopin and BOSS直聘, using a points system to unlock links and features.",

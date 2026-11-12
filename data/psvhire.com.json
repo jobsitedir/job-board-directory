@@ -4,9 +4,9 @@
   "name": "PSVHire",
   "website": "https://psvhire.com/",
   "profile": "https://jobsitedir.com/jobboard/psvhire.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
-  "site_type": "Niche_Industry",
+  "site_type": "Specialist_Job_Board",
   "primary_country": "IN",
-  "primary_industry": "Technical>General Tech & IT",
+  "primary_industry": "Information Technology",
   "description": "PSVHire is an early-stage hiring platform for job seekers and employers in India, offering a free resume builder with 60+ templates and one-click applications.",
   "logo": {
     "path": "../assets/logos/psvhire.com.webp",

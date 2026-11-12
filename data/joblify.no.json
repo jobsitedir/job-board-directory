@@ -4,7 +4,7 @@
   "name": "Joblify",
   "website": "https://joblify.no/",
   "profile": "https://jobsitedir.com/jobboard/joblify.no?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
-  "site_type": "Niche_Geo",
+  "site_type": "Job_Aggregator",
   "primary_country": "NO",
   "primary_industry": "Technical>General Tech & IT",
   "description": "Joblify aggregates Norwegian job listings from Finn.no and NAV in real time, and offers AI tools (Anthropic Claude) for applications, skill-gap analysis, and interview prep.",

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "chemistjobs.com",
+  "name": "Chemistjobs.com",
+  "website": "https://chemistjobs.com/",
+  "profile": "https://jobsitedir.com/jobboard/chemistjobs.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Specialist_Job_Board",
+  "primary_country": "US",
+  "primary_industry": "Science",
+  "description": "Niche job board for chemistry professionals in the United States, listing roles from multiple employers across various chemistry-related fields.",
+  "logo": {
+    "path": "../assets/logos/chemistjobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/chemistjobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

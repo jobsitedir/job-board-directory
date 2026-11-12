@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "medicaldirectorjobs.com",
+  "name": "MedicalDirectorJobs.com",
+  "website": "https://medicaldirectorjobs.com/",
+  "profile": "https://jobsitedir.com/jobboard/medicaldirectorjobs.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Specialist_Job_Board",
+  "primary_country": "US",
+  "primary_industry": "Healthcare>Administration",
+  "description": "Niche job board specializing in medical director positions across healthcare organizations in the United States.",
+  "logo": {
+    "path": "../assets/logos/medicaldirectorjobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/medicaldirectorjobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

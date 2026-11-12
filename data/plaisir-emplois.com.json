@@ -4,9 +4,9 @@
   "name": "Plaisir Emplois",
   "website": "https://plaisir-emplois.com/",
   "profile": "https://jobsitedir.com/jobboard/plaisir-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
-  "site_type": "Niche_Geo",
+  "site_type": "Specialist_Job_Board",
   "primary_country": "FR",
-  "primary_industry": null,
+  "primary_industry": "Government>State & Local",
   "description": "Plaisir-emplois.com lists 887 job offers in Plaisir, France, searchable by professional domain and with email alerts for personalized updates.",
   "logo": {
     "path": "../assets/logos/plaisir-emplois.com.webp",

@@ -4,9 +4,9 @@
   "name": "Online Jobs",
   "website": "https://kenyajobs.vercel.app/",
   "profile": "https://jobsitedir.com/jobboard/kenyajobs.vercel.app?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
-  "site_type": "Generalist",
+  "site_type": "Job_Aggregator",
   "primary_country": "KE",
-  "primary_industry": null,
+  "primary_industry": "Information Technology",
   "description": "KenyaJobs aggregates live listings from 15+ sources for Kenya, East Africa, and remote roles, with no account or CV required for job seekers.",
   "logo": null,
   "screenshot": {

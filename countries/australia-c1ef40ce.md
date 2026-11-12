@@ -1,6 +1,6 @@
 # Job boards in Australia
 
-32 websites in this published selection. This is not a complete market list. Updated 2026-10.r3.
+32 websites in this published selection. This is not a complete market list. Updated 2026-11.r1.
 
 [Browse more job boards on JobSiteDir](https://jobsitedir.com/search/Australia?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) · [Directory](../README.md)
 
@@ -8,7 +8,7 @@
 | --- | --- | --- |
 | 1Medical | [1medical.com.au](../data/1medical.com.au.json) | [View profile](https://jobsitedir.com/jobboard/1medical.com.au?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | Aged Care Job Board | [agedcarejobsaustralia.net](../data/agedcarejobsaustralia.net.json) | [View profile](https://jobsitedir.com/jobboard/agedcarejobsaustralia.net?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
-| Medical Jobs Australia | [alliedhealthjobsaustralia.net](../data/alliedhealthjobsaustralia.net.json) | [View profile](https://jobsitedir.com/jobboard/alliedhealthjobsaustralia.net?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
+| Allied Health Jobs Australia | [alliedhealthjobsaustralia.net](../data/alliedhealthjobsaustralia.net.json) | [View profile](https://jobsitedir.com/jobboard/alliedhealthjobsaustralia.net?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | BluFutur | [blufutur.com.au](../data/blufutur.com.au.json) | [View profile](https://jobsitedir.com/jobboard/blufutur.com.au?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | Boating Careers Australia | [boatingcareers.com.au](../data/boatingcareers.com.au.json) | [View profile](https://jobsitedir.com/jobboard/boatingcareers.com.au?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | Sigma Aerospace Workforce Solutions | [careers.sigmaaerospace.com.au](../data/careers.sigmaaerospace.com.au.json) | [View profile](https://jobsitedir.com/jobboard/careers.sigmaaerospace.com.au?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
@@ -23,7 +23,7 @@
 | Hospoforce | [hospoforce.com](../data/hospoforce.com.json) | [View profile](https://jobsitedir.com/jobboard/hospoforce.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | Hospo Staff Australia | [hospostaff.com.au](../data/hospostaff.com.au.json) | [View profile](https://jobsitedir.com/jobboard/hospostaff.com.au?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | JobCatcher | [jobcatcher.com.au](../data/jobcatcher.com.au.json) | [View profile](https://jobsitedir.com/jobboard/jobcatcher.com.au?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
-| Switch Education Jobs Board | [jobs.switchedu.com.au](../data/jobs.switchedu.com.au.json) | [View profile](https://jobsitedir.com/jobboard/jobs.switchedu.com.au?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
+| Switch Education Jobs | [jobs.switchedu.com.au](../data/jobs.switchedu.com.au.json) | [View profile](https://jobsitedir.com/jobboard/jobs.switchedu.com.au?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | Adelaide Jobs Board | [jobsadelaidecity.com.au](../data/jobsadelaidecity.com.au.json) | [View profile](https://jobsitedir.com/jobboard/jobsadelaidecity.com.au?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | JobSeekerLink Australia | [jobseekerlink.com.au](../data/jobseekerlink.com.au.json) | [View profile](https://jobsitedir.com/jobboard/jobseekerlink.com.au?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | Jobs In Brisbane | [jobsinbrisbane.com](../data/jobsinbrisbane.com.json) | [View profile](https://jobsitedir.com/jobboard/jobsinbrisbane.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
@@ -33,7 +33,7 @@
 | QuickGig | [quickgig.au](../data/quickgig.au.json) | [View profile](https://jobsitedir.com/jobboard/quickgig.au?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | Remote Job Australia | [remotejobaustralia.com](../data/remotejobaustralia.com.json) | [View profile](https://jobsitedir.com/jobboard/remotejobaustralia.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | Teachers On Net | [staging.teacherson.net](../data/staging.teacherson.net.json) | [View profile](https://jobsitedir.com/jobboard/staging.teacherson.net?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
-| Striver | [striver.careers](../data/striver.careers.json) | [View profile](https://jobsitedir.com/jobboard/striver.careers?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
+| Striver Careers | [striver.careers](../data/striver.careers.json) | [View profile](https://jobsitedir.com/jobboard/striver.careers?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | TeachingJobs.com.au | [teachingjobs.com.au](../data/teachingjobs.com.au.json) | [View profile](https://jobsitedir.com/jobboard/teachingjobs.com.au?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | White Now | [whitenow.com.au](../data/whitenow.com.au.json) | [View profile](https://jobsitedir.com/jobboard/whitenow.com.au?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | WorkHospitality | [workhospitality.com.au](../data/workhospitality.com.au.json) | [View profile](https://jobsitedir.com/jobboard/workhospitality.com.au?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |

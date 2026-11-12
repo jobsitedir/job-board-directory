@@ -1,7 +1,7 @@
 # Selection and maintenance
 
-The release includes up to 1,000 individual websites that have passed the directory eligibility review, are successfully published, and remain publicly listed. Selection follows the main directory default ordering at the monthly cutoff. Brand groups are not counted as individual websites.
+Each release includes up to 1,000 individual websites that passed our review and are listed on JobSiteDir. Each month we update the details for websites that still qualify. We remove websites that no longer qualify or are no longer publicly listed. When space opens up, we give priority to countries and industries with fewer websites in the directory.
 
-Domains identify records; independent subdomains are preserved. A primary country describes service coverage, not visitor geography. Missing values mean unknown, not unsupported.
+A domain identifies each record. Subdomains can have their own records. The primary country describes where the website serves job seekers or employers. A blank value means we do not have that information.
 
-Data is frozen for each release and updated monthly. Websites leaving the selection are removed from the current version; Git history and older releases can retain earlier records. Corrections are processed in the main database first.
+Each release is a snapshot. Older releases can still contain websites that have since been removed. We apply corrections on JobSiteDir first.

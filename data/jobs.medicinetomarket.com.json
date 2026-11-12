@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "domain": "jobs.medicinetomarket.com",
-  "name": "Medicine to Market",
+  "name": "Medicine to Market Jobs",
   "website": "https://jobs.medicinetomarket.com/",
   "profile": "https://jobsitedir.com/jobboard/jobs.medicinetomarket.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
-  "site_type": "Niche_Industry",
-  "primary_country": null,
+  "site_type": "Specialist_Job_Board",
+  "primary_country": "US",
   "primary_industry": "Pharmaceutical",
   "description": "Medicine to Market Jobs lists 21,816 live roles in pharma and biotech, refreshed daily from employer career pages with zero promoted posts or staffing-agency spam.",
   "logo": {

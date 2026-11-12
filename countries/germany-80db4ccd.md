@@ -1,6 +1,6 @@
 # Job boards in Germany
 
-52 websites in this published selection. This is not a complete market list. Updated 2026-10.r3.
+52 websites in this published selection. This is not a complete market list. Updated 2026-11.r1.
 
 [Browse more job boards on JobSiteDir](https://jobsitedir.com/search/Germany?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) · [Directory](../README.md)
 
@@ -31,7 +31,7 @@
 | Jobbörse für das Elektrohandwerk | [jobboerse-elektrohandwerk.de](../data/jobboerse-elektrohandwerk.de.json) | [View profile](https://jobsitedir.com/jobboard/jobboerse-elektrohandwerk.de?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | JobOn | [jobonportal.de](../data/jobonportal.de.json) | [View profile](https://jobsitedir.com/jobboard/jobonportal.de?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | Jobortunity | [jobortunity.ai](../data/jobortunity.ai.json) | [View profile](https://jobsitedir.com/jobboard/jobortunity.ai?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
-| jobs-in-mittelhessen.de | [jobs-in-mittelhessen.de](../data/jobs-in-mittelhessen.de.json) | [View profile](https://jobsitedir.com/jobboard/jobs-in-mittelhessen.de?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
+| Jobs-in-Mittelhessen.de | [jobs-in-mittelhessen.de](../data/jobs-in-mittelhessen.de.json) | [View profile](https://jobsitedir.com/jobboard/jobs-in-mittelhessen.de?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | GN-Jobs | [jobs.gn-online.de](../data/jobs.gn-online.de.json) | [View profile](https://jobsitedir.com/jobboard/jobs.gn-online.de?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | HR Rocket | [jobs.hr-rocket.com](../data/jobs.hr-rocket.com.json) | [View profile](https://jobsitedir.com/jobboard/jobs.hr-rocket.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | krankenpflegejobs24.de | [krankenpflegejobs24.de](../data/krankenpflegejobs24.de.json) | [View profile](https://jobsitedir.com/jobboard/krankenpflegejobs24.de?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
@@ -42,7 +42,7 @@
 | Pflegejobs.de | [pflegejobs.de](../data/pflegejobs.de.json) | [View profile](https://jobsitedir.com/jobboard/pflegejobs.de?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | Pflegejobs.rocks | [pflegejobs.rocks](../data/pflegejobs.rocks.json) | [View profile](https://jobsitedir.com/jobboard/pflegejobs.rocks?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | Pflegernetz | [pflegernetz.de](../data/pflegernetz.de.json) | [View profile](https://jobsitedir.com/jobboard/pflegernetz.de?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
-| php-entwickler.de | [php-entwickler.de](../data/php-entwickler.de.json) | [View profile](https://jobsitedir.com/jobboard/php-entwickler.de?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
+| PHP-Entwickler.de | [php-entwickler.de](../data/php-entwickler.de.json) | [View profile](https://jobsitedir.com/jobboard/php-entwickler.de?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | PR-Jobs.net | [pr-jobs.net](../data/pr-jobs.net.json) | [View profile](https://jobsitedir.com/jobboard/pr-jobs.net?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | Regiojobs-by | [regiojobs-by.de](../data/regiojobs-by.de.json) | [View profile](https://jobsitedir.com/jobboard/regiojobs-by.de?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |
 | RegioJobs-SH | [regiojobs-sh.de](../data/regiojobs-sh.de.json) | [View profile](https://jobsitedir.com/jobboard/regiojobs-sh.de?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=countries) |

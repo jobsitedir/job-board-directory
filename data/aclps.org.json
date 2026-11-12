@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "aclps.org",
+  "name": "ACLPS",
+  "website": "https://aclps.org/",
+  "profile": "https://jobsitedir.com/jobboard/aclps.org?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Other",
+  "primary_country": "US",
+  "primary_industry": "Healthcare>Pathology",
+  "description": "Public job board for laboratory medicine and pathology positions hosted by the Academy of Clinical Laboratory Physicians and Scientists, featuring listings from academic…",
+  "logo": {
+    "path": "../assets/logos/aclps.org.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/aclps.org.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

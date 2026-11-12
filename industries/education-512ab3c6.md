@@ -1,6 +1,6 @@
 # Job boards for Education
 
-75 websites in this published selection. This is not a complete market list. Updated 2026-10.r3.
+77 websites in this published selection. This is not a complete market list. Updated 2026-11.r1.
 
 [Browse more job boards on JobSiteDir](https://jobsitedir.com/search/Education?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) · [Directory](../README.md)
 
@@ -18,6 +18,7 @@
 | バイトネット | [baitonet.jp](../data/baitonet.jp.json) | [View profile](https://jobsitedir.com/jobboard/baitonet.jp?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | 大学生实习实训网  嘉瑞国际 | [bj-joyedu.com](../data/bj-joyedu.com.json) | [View profile](https://jobsitedir.com/jobboard/bj-joyedu.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | COMPUS | [c0mpus.com](../data/c0mpus.com.json) | [View profile](https://jobsitedir.com/jobboard/c0mpus.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
+| YouthHire | [canadayouthhire.ca](../data/canadayouthhire.ca.json) | [View profile](https://jobsitedir.com/jobboard/canadayouthhire.ca?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | EYCEjobs | [canavanbyrnechildcare.eccejobs.ie](../data/canavanbyrnechildcare.eccejobs.ie.json) | [View profile](https://jobsitedir.com/jobboard/canavanbyrnechildcare.eccejobs.ie?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | Cebrac Empregos | [cebracempregos.com.br](../data/cebracempregos.com.br.json) | [View profile](https://jobsitedir.com/jobboard/cebracempregos.com.br?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | ClassCover | [classcover.com.au](../data/classcover.com.au.json) | [View profile](https://jobsitedir.com/jobboard/classcover.com.au?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
@@ -51,16 +52,17 @@
 | JobPacker | [jobpacker.app](../data/jobpacker.app.json) | [View profile](https://jobsitedir.com/jobboard/jobpacker.app?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | Jobs.ac.cn | [jobs.ac.cn](../data/jobs.ac.cn.json) | [View profile](https://jobsitedir.com/jobboard/jobs.ac.cn?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | CLIR+DLF Job Board | [jobs.diglib.org](../data/jobs.diglib.org.json) | [View profile](https://jobsitedir.com/jobboard/jobs.diglib.org?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
-| Switch Education Jobs Board | [jobs.switchedu.com.au](../data/jobs.switchedu.com.au.json) | [View profile](https://jobsitedir.com/jobboard/jobs.switchedu.com.au?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
+| Switch Education Jobs | [jobs.switchedu.com.au](../data/jobs.switchedu.com.au.json) | [View profile](https://jobsitedir.com/jobboard/jobs.switchedu.com.au?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | Tribal College Journal Job Board | [jobs.tribalcollegejournal.org](../data/jobs.tribalcollegejournal.org.json) | [View profile](https://jobsitedir.com/jobboard/jobs.tribalcollegejournal.org?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | Jobs in Education | [jobsineducation.net](../data/jobsineducation.net.json) | [View profile](https://jobsitedir.com/jobboard/jobsineducation.net?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | Kasiyouth | [kasiyouth.co.za](../data/kasiyouth.co.za.json) | [View profile](https://jobsitedir.com/jobboard/kasiyouth.co.za?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
+| KaziKit | [kazikit.co.ke](../data/kazikit.co.ke.json) | [View profile](https://jobsitedir.com/jobboard/kazikit.co.ke?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | Kinder Careers | [kindercareers.com.au](../data/kindercareers.com.au.json) | [View profile](https://jobsitedir.com/jobboard/kindercareers.com.au?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | LaunchPad Canada | [launchpadcanada.ca](../data/launchpadcanada.ca.json) | [View profile](https://jobsitedir.com/jobboard/launchpadcanada.ca?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | Longwy Emplois | [longwy-emplois.com](../data/longwy-emplois.com.json) | [View profile](https://jobsitedir.com/jobboard/longwy-emplois.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | OJT Connect | [ojtconnect.com](../data/ojtconnect.com.json) | [View profile](https://jobsitedir.com/jobboard/ojtconnect.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | Opportunity Hub Cambodia | [opportunityhubcambodia.com](../data/opportunityhubcambodia.com.json) | [View profile](https://jobsitedir.com/jobboard/opportunityhubcambodia.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
-| PresidentialSearch.com | [presidentialsearch.com](../data/presidentialsearch.com.json) | [View profile](https://jobsitedir.com/jobboard/presidentialsearch.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
+| Presidential Search | [presidentialsearch.com](../data/presidentialsearch.com.json) | [View profile](https://jobsitedir.com/jobboard/presidentialsearch.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | PSTJobs | [pstjobs.com](../data/pstjobs.com.json) | [View profile](https://jobsitedir.com/jobboard/pstjobs.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | SAMpeople Recruit | [recruit.sampeople.co.uk](../data/recruit.sampeople.co.uk.json) | [View profile](https://jobsitedir.com/jobboard/recruit.sampeople.co.uk?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |
 | RemoteJobsInHigherEd.com | [remotejobsinhighered.com](../data/remotejobsinhighered.com.json) | [View profile](https://jobsitedir.com/jobboard/remotejobsinhighered.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=industries) |

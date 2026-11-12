@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
   "domain": "striver.careers",
-  "name": "Striver",
+  "name": "Striver Careers",
   "website": "https://striver.careers/",
   "profile": "https://jobsitedir.com/jobboard/striver.careers?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
-  "site_type": "Niche_Industry",
+  "site_type": "Specialist_Job_Board",
   "primary_country": "AU",
-  "primary_industry": "Financial Services>General",
+  "primary_industry": "Financial Services",
   "description": "Striver is a finance-focused job platform offering an exclusive job board, AI interview coaching, and data insights for candidates seeking graduate and entry-level roles.",
   "logo": {
     "path": "../assets/logos/striver.careers.webp",

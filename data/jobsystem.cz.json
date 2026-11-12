@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
   "domain": "jobsystem.cz",
-  "name": "JobSystem",
+  "name": "JobSystem.cz",
   "website": "https://jobsystem.cz/",
   "profile": "https://jobsitedir.com/jobboard/jobsystem.cz?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
-  "site_type": "Niche_Geo",
+  "site_type": "Specialist_Job_Board",
   "primary_country": "CZ",
-  "primary_industry": null,
+  "primary_industry": "Government>State & Local",
   "description": "JobSystem.cz is a Czech job board covering all fields across all 14 regions of the Czech Republic and four foreign countries, with filtering by district, employment type,…",
   "logo": {
     "path": "../assets/logos/jobsystem.cz.webp",

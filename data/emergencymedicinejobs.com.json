@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "domain": "emergencymedicinejobs.com",
+  "name": "Emergency Medicine Jobs",
+  "website": "https://emergencymedicinejobs.com/",
+  "profile": "https://jobsitedir.com/jobboard/emergencymedicinejobs.com?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
+  "site_type": "Specialist_Job_Board",
+  "primary_country": "US",
+  "primary_industry": "Healthcare>Emergency Medicine",
+  "description": "Niche job board specializing in emergency medicine and urgent care positions, connecting healthcare providers with job seekers across the United States.",
+  "logo": {
+    "path": "../assets/logos/emergencymedicinejobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  },
+  "screenshot": {
+    "path": "../assets/screenshots/emergencymedicinejobs.com.webp",
+    "notice": "Logos and website screenshots are provided for identification and reference. Rights belong to their respective owners. Their inclusion does not imply endorsement.",
+    "captured_at": null
+  }
+}

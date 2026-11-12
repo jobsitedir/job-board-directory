@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "domain": "est4ciones.com.ar",
-  "name": "EST4CIONES EMPLEO REGIONAL",
+  "name": "EST4CIONES",
   "website": "https://est4ciones.com.ar/",
   "profile": "https://jobsitedir.com/jobboard/est4ciones.com.ar?utm_source=github&utm_medium=referral&utm_campaign=public-directory&utm_content=record",
-  "site_type": "Niche_Geo",
+  "site_type": "Specialist_Job_Board",
   "primary_country": "AR",
   "primary_industry": "Energy & Utilities",
   "description": "Est4ciones.com.ar is a job platform focused on the energy industry in Argentina's Vaca Muerta region, listing roles in petroleum, gas, mining, construction, and logistics.",
